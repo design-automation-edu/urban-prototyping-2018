@@ -1,0 +1,12 @@
+{
+	"title": "Urban Prototyping 2018",
+	"links": {
+		"sidebar": {
+			"Contact us": "patrick@janssen.name"
+		}
+	},
+	"pdf": {
+		"fontSize": 11,
+		"fontFamily": "Arial"
+	}
+}
