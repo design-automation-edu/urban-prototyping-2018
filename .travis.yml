@@ -12,9 +12,9 @@ before_script:
   - sudo cp ./ebook-wrapper.sh /usr/bin/ebook-convert
   - sudo chmod +x /usr/bin/ebook-convert
 script: 
-  - git config --global user.email "patrick@janssen.name"
-  - git config --global user.name "phtj"
-  - gitbook pdf ./ ./published/urban-prototyping-2018.pdf
+  - git config --global user.email "akshatamohanty@gmail.com"
+  - git config --global user.name "Akshata"
+  - gitbook pdf ./ ./published/urban-prototyping.pdf
   - git add .
   - git commit -m"generated-and-published-pdf" 
   - git push --force "https://{USER_NAME}:${GITHUB_TOKEN}@github.com/${GITHUB_REPO}" master
