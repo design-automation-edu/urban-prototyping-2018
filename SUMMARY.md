@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Overview](overview.md)
+* [Overview](front/overview.md)
 
-## Projects
+---
 
 * [Chapter 1: Title](abraham/introduction.md)
   * [Iteration 1](abraham/iteration1.md)
@@ -22,7 +22,7 @@
   * [Iteration 3](heyang/iteration3.md)
   * [Discussion](heyang/discussion.md)
   
-## Discussion
+---
  
-* [Conclusions](conclusions.md)
-
+* [Conclusions](back/conclusions.md)
+* [Appendix](back/appendix/appendix.md)
