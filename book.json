@@ -3,5 +3,6 @@
 	"pdf": {
 		"fontSize": 11,
 		"fontFamily": "Arial"
-	}
+	},
+	"plugins": ["chapter-headings"]
 }

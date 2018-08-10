@@ -4,6 +4,8 @@ node_js:
 before_install:
   - sudo apt-get install -y calibre
   - sudo apt-get install xvfb
+install:
+    - npm install gitbook-plugin-chapter-headings
 before_script:
   - npm install gitbook-cli
   - npm install gitbook-publish@latest
