@@ -19,7 +19,7 @@ Penguins:
 ![gras](imgs/Penguins.jpg) ![gras](imgs/Penguins.jpg)
 
 
-| JOEY  | Joey |
-| ------------- | ------------- |
-| 25  | 200  |
-| 18  | 50x  |
+| JOEY| Joey | Message | Hello | | JOEY| Joey | Message | Hello | 
+|---- | ---- | --- | --- |---- | ---- | --- | --- |
+| 25  | 200  | 9000 | 2000 | | 25  | 200  | 9000 | 2000 |
+| 18  | 50x  | 123123 | 800 | | 18  | 50x  | 123123 | 800 |
