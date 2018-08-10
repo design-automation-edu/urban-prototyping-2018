@@ -17,3 +17,9 @@ Penguins:
 > the present is our past.
 
 ![gras](imgs/Penguins.jpg) ![gras](imgs/Penguins.jpg)
+
+
+| JOEY  | Joey |
+| ------------- | ------------- |
+| 25  | 200  |
+| 18  | 50x  |
