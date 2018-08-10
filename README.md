@@ -1,6 +1,6 @@
 # Urban Prototyping 2018
 
-* [Online Book](https://design-automation.github.io/urban-prototyping/)
+* [Online Book](https://design-automation.github.io/urban-prototyping-2018/)
 * [PDF Book](https://github.com/design-automation/urban-prototyping-2018/raw/gh-pages/published/urban-prototyping.pdf)
 
 An elective at the [Department of Architecture](https://www.arch.nus.edu.sg), [National University of Singapore](http://www.nus.edu.sg/).
