@@ -14,7 +14,7 @@ ASDASDADdsdoasdasodk _joey hello_ or **aasdasdas** haeadaok ~~hello hello hello 
 
       sfdsdfsfsdf
 
-As Kanye West said:
+<h1 style="color: #5e9ca0;"> As Kanye West said:</span>
 
 > We're living the future so
 > the present is our past.
