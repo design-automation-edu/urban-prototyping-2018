@@ -7,6 +7,7 @@ before_install:
 install:
   - npm install gitbook-plugin-chapter-fold
   - npm install gitbook-plugin-chapter-headings
+  - npm install gitbook-plugin-image-captions
 before_script:
   - npm install gitbook-cli
   - npm install gitbook-publish@latest
