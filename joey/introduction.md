@@ -12,13 +12,8 @@ ASDASDADdsdoasdasodk _joey hello_ or **aasdasdas** haeadaok ~~hello hello hello 
 2. Teh
 3. ASDAODjasdss
 
-      sfdsdfsfsdf
-
-<h1 style="color: #5e9ca0;"> As Kanye West said:</span>
-
+Penguins: 
 > We're living the future so
 > the present is our past.
-
-## Hello Hello Hello 
 
 ![gras](imgs/Penguins.jpg) ![gras](imgs/Penguins.jpg)
