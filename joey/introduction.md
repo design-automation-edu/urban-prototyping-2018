@@ -20,7 +20,7 @@ Penguins:
 
 Hello, [Happy National Day](http://google.com/) everybody.
 
-###### asdasssdaaa
+###### Fig 1.1 Photo Caption
 
 | JOEY| Joey | Message | Hello |  JOEY| Joey | Message | Hello | 
 |---- | ---- | --- | --- |---- | ---- | --- | --- |
