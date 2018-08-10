@@ -18,7 +18,7 @@ Penguins:
 
 ![gras](imgs/Penguins.jpg) ![gras](imgs/Penguins.jpg)
 
-Happy National Day.[^2]
+Hello, [Happy National Day](http://google.com/) everybody.
 
 
 | JOEY| Joey | Message | Hello |  JOEY| Joey | Message | Hello | 
@@ -30,4 +30,5 @@ Happy National Day.[^2]
 | 25  | 200  | 9000 | 2000 |  25  | 200  | 9000 | 2000 |
 | 25  | 200  | 9000 | 2000 |  25  | 200  | 9000 | 2000 |
 
-[^2]: Pap.
+
+
