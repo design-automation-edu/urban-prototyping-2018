@@ -17,6 +17,10 @@ before_script:
 script: 
   - git config --global user.email "akshatamohanty@gmail.com"
   - git config --global user.name "Akshata"
+  - gitbook pdf ./ ./published/urban-prototyping.pdf
+  - git add .
+  - git commit -m"generated-and-published-pdf" 
+  - git push --force "https://{USER_NAME}:${GITHUB_TOKEN}@github.com/${GITHUB_REPO}" master
   - gitpub
   - git branch
   - git remote -v
