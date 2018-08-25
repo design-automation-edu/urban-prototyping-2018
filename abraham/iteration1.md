@@ -1,11 +1,38 @@
 
-# Iteration 1
+# Iteration 1 Simulating a traditional gridded city
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1.	Site
+2.	
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+3.	Cut the main circulation from the site
+4.	Divide the plot into 120mx120m blocks (these blocks are highly walkable)
+5.	Calculate parameters (distance to mrt and utown and aye etc.
+6.	Splitting zones
+7.	Propose Building Typology
+a.	courtyard Podium + Tower type (for wind flow, performance and density)
+b.	Courtyard
+8.	Populate with typology
+9.	Analyse
+10.	Other possible iterations (Different Plot Size. Different Road Width, Greenery ratio, high etc.)
+11.	conlusion
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+Main Parameters:
+
+Density of program varies according to:
+Distance to Transport Nodes (existing MRT and BUS)
+Proximity to Utown
+
+Reduce congestion of traffic towards nodes. 
+
+Industry building growth pattern
+Greenspace ratio
+
+
+
+
+
 
 
 
