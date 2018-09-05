@@ -4,7 +4,7 @@
 		"fontSize": 11,
 		"fontFamily": "Arial"
 	},
-	"plugins": ["chapter-fold", "chapter-headings", "image-captions"],
+	"plugins": ["chapter-fold", "chapter-headings", "image-captions", "fancybox"],
 	"pluginsConfig": {
 		"theme-default": {
 		    "showLevel": true
