@@ -16,8 +16,8 @@ before_script:
   - sudo cp ./ebook-wrapper.sh /usr/bin/ebook-convert
   - sudo chmod +x /usr/bin/ebook-convert
 script: 
-  - git config --global user.email "akshatamohanty@gmail.com"
-  - git config --global user.name "Akshata"
+  - git config --global user.email "patrick@janssen.name"
+  - git config --global user.name "Patrick"
   - gitpub
   - git branch
   - git remote -v
