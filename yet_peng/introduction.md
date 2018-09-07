@@ -9,7 +9,7 @@ The first two iterations will revolve around the same three road networks shown 
 
 
 **Road Network 02**
-![Arterial Road Network 2](./imgs/road3.ong)
+![Arterial Road Network 2](./imgs/road3.png)
 
 **Road Network 03**
 ![Arterial Road Network 3](./imgs/road1.jpg)
