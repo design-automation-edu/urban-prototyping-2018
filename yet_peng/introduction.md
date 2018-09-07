@@ -4,7 +4,10 @@ This chapter focuses on three primary objectives - to create non-parallel roads 
 
 The first two iterations will revolve around the same three road networks shown below.
 
+**Road Network 01**
 ![Arterial Road Network 1](./imgs/road1.jpg)
 
+
+**Road Network 02**
 
 
