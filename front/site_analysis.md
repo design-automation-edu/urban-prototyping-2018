@@ -16,15 +16,15 @@ Building footprints were obtained from the "Master Plan 2014 Building" data avai
 
 With the open geospatial data obtained, we can quickly perform basic site analysis on our site. The images below are generated from using GIS software with minimal graphic manipulation \(Fig. 1-4\). As we are interested in assessing the accessibility of the site, the location of all the MRT stations around the site is obtained from the open data portal. In addition, we have also obtained the road network data from SG One Map. Fig. 5 illustrates the accessibility of the site.
 
-![Fig. 1: Location map of the site](imgs/overall_context.png)
+![1 Location map of the site](imgs/overall_context.png)
 
-![Fig. 2: Site map of the Project@Dover Road](imgs/site.png)
+![2 Site map of the Project@Dover Road](imgs/site.png)
 
-![Fig. 3: Site map of the Project@Dover Road](imgs/site_annotated.png)
+![3 Site map of the Project@Dover Road](imgs/site_annotated.png)
 
-![Fig. 4: Land use analysis of the site](imgs/landuse_zoom.png)
+![4 Land use analysis of the site](imgs/landuse_zoom.png)
 
-![Fig. 5: Roads and MRT network around the site](imgs/mrt.png)
+![5 Roads and MRT network around the site](imgs/mrt.png)
 
 
 
