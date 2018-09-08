@@ -13,3 +13,11 @@ Iteration 01/A features the first block typology where the upper one-third of th
 ![.](./imgs/t1r2_passiveview.png)
 
 ![.](./imgs/t1r2_daylightsolar.png)
+
+## 01 / B
+![Typology Diagram](./imgs/t1r3_diagram.png)
+
+
+
+## 01 / C
+![Typology Diagram](./imgs/T1R1_diagram.png)
