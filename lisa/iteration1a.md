@@ -35,7 +35,7 @@ After going through the evaluation nodes I realised the reasons why.
 >Make Octogon node:
 >
 ><img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/octogon.JPG" 
->alt="octogon" width="241" height="325" border="10" />
+>alt="octogon" width="482" height="750" border="10" />
 >
 >The 4 corners of the square are individually selected, then boolean-intersected with smaller squares rotated at a 45 degree angle, to create the octogon.
 
