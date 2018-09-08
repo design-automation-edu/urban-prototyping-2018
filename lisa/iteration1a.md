@@ -15,20 +15,21 @@ alt="1aflow" width="642" height="754" border="10" />
 
 **Final results**
 
+View Factor Evaluation
+
 <img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1aviewfactor.JPG" 
 alt="octogon" width="1089" height="613" border="10" />
 
-View Factor Evaluation
+Passive Ratio Evaluation
 
 <img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1apassiveratio.JPG" 
 alt="octogon" width="1075" height="596" border="10" />
 
-Passive Ratio Evaluation
+
+Good Building Evaluation
 
 <img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/iteration1agbbldg.JPG" 
 alt="octogon" width="1087" height="701" border="10" />
-
-Good Building Evaluation
 
 
 The results were astonishing as almost all the buildings were bad buildings. 
