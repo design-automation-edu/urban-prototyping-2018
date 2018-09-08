@@ -17,3 +17,12 @@ This road network pushes the idea of a woonerf street on an urban scale for a ca
 **Road Network 03**
 ![Arterial Road Network 3](./imgs/road1.jpg)
 The third network fuses the idea of a grid and the woonerf. By extending existing roads into the site with two vertical primary roads and one horizontal across, a network of irregular secondary roads are formed within the six subsequent plots. This would cater to both the high-speed motorists passing through and residents.
+
+[^2]: Subsequent simulations will be based on the following standards:
+*For good windows,
+ *view_threshold>0.4
+ *daylight_threshold>0.1
+ *solar_threshold<0.2
+*For good building thresholds,
+ *passive_threshold>0.5
+ *good_window_threshold>0.1
