@@ -26,3 +26,4 @@ The third network fuses the idea of a grid and the woonerf. By extending existin
 * For good building thresholds,
   * passive_threshold>0.5
   * good_window_threshold>0.1
+[^2]
