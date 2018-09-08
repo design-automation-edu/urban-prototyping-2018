@@ -20,8 +20,11 @@ After going through the evaluation nodes I realised the reasons why.
 
 
 
-Make Octogon node:
-
-![octogon](./imgs/octogon.JPG) 
-
-The 4 corners of the square are individually selected, then boolean-intersected with smaller squares rotated at a 45 degree angle, to create the octogon.
+>Make Octogon node:
+>
+>![octogon](./imgs/octogon.JPG) 
+>
+><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+>alt="octogon" width="240" height="180" border="10" /></a>
+>
+>The 4 corners of the square are individually selected, then boolean-intersected with smaller squares rotated at a 45 degree angle, to create >the octogon.
