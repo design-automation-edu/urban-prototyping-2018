@@ -6,5 +6,7 @@
 ![gras](imgs/I1P1.jpg)
 ## Background
   The Neighborhood Unit theory can be seen as a development of the La Ville Radieuse in the automotive context. It move green spaces and other public facilities to the center of each residential units. Creating a physically and emotionally safe environment without motor vehicles. This theory has profoundly affected the planning of residential areas in the Soviet Union and China
-
-
+![gras](imgs/I1P3.jpg)
+## Generation process
+I tried to restore this living mode in my scheme, the difference is that other service functions were placed in the center of each unit. Each unit is 90 meters wide and the entire site is cut through by four main roads, which are all wide boulevards. The center of each plot are all pedestrians. The central service complex includes supermarkets, three-dimensional parking, entertainments and offices.
+![gras](imgs/I1P2.jpg)
