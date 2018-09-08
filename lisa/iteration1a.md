@@ -3,10 +3,12 @@
 
 An octogonal grid is first constructed. Then courtyards are punched into the individual building blocks, and plot areas less than 1000m2 are converted into parks. 
 
-<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1aworkflow.jpg"
-alt="1aworkflow" width="620" height="177.25" border="10" /></a>
+>Grid > Polyexpand > 'Make-Octogon' > Boolean Intersect (with site) > Boolean Intersect (with courtyards)
+><img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1aworkflow.jpg"
+>alt="1aworkflow" width="620" height="177.25" border="10" /></a>
 
-Grid > Polyexpand > 'Make-Octogon' > Boolean Intersect (with site) > Boolean Intersect (with courtyards)
+**Final results**
+
 <img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1aviewfactor.JPG" 
 alt="octogon" width="544.5" height="306.5" border="10" /></a>
 
