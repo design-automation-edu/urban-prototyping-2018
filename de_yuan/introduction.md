@@ -1,10 +1,11 @@
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A typical approach of planning was adopted in the preliminary stages of design. Sensitive response to context was set as a top priority in the design, therefore there is a need to first indicate the conditions of the existing environment, 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The western edge of the site is occupied by numerous education institutes with the National University of Singapore in the greatest proximity. This suggests the potential of engaging the large student community into the neighborhood. The AYE highway runs along the southern edge, presenting a barrier to connection with anything beyond. Four stations, namely, Kent Ridge, One - North, Buona vista and Dover, in the order of proximity, closest to furthest, lie around the site. This presents the potential for the design of a carlite, pedestrian-focused neighborhood. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The site was first zoned in response to zoning patterns along its periphery. Residential is planned to line the western and northern edge, plots are divided to increase the ease of entry. Industrial units line the southern edge, alongside AYE, acting as a barrier against the sound and exhaust from traffic flow.
 
+![zoning](zoning.jpg)
 
 
