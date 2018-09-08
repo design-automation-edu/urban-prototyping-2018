@@ -7,7 +7,7 @@ An octogonal grid is first constructed. Then courtyards are punched into the ind
 
 Grid > Polyexpand > 'Make-Octogon' > Boolean Intersect (with site) > Boolean Intersect (with courtyards)
 
-(make octogon node)
+![octogon](./imgs/make_hexagon_node.JPG) 
 
 (view factor)
 (passive factor)
