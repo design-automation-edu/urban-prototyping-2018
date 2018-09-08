@@ -24,7 +24,7 @@ Iteration 01/A features the first block typology where the upper one-third of th
 
 ![Passive Area Ratio and View Factor](./imgs/t1r3_passiveview.png)
 
-![.](./imgs/t1r3_daylightsolar.png)
+![Daylight Factor and Solar Factor](./imgs/t1r3_daylightsolar.png)
 
 
 ## 01 / C
