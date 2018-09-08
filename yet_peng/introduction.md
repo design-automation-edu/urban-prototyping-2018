@@ -6,7 +6,7 @@ The first two iterations will revolve around the same three road networks shown 
 
 **Road Network 01**
 ![Arterial Road Network 1](./imgs/road2.png)
-This network acts as a control to test the efficiency of an urban typology in a generic grid system. 5 primary roads run in the North-South axis while 3 in the East-West axis parallel to the site boundaries. Each plot is then subdivided into 4 individual plots by 2 secondary roads.
+This network acts as a control to test the efficiency of an urban typology in a generic grid system. Five primary roads run in the North-South axis while 3 in the East-West axis parallel to the site boundaries. Each plot is then subdivided into four individual plots by two secondary roads.
 
 **Road Network 02**
 ![Arterial Road Network 2](./imgs/road3.png)
@@ -16,3 +16,4 @@ This road network pushes the idea of a woonerf street on an urban scale for a ca
 
 **Road Network 03**
 ![Arterial Road Network 3](./imgs/road1.jpg)
+The third network fuses the idea of a grid and the woonerf. By extending existing roads into the site with two vertical primary roads and one horizontal across, a network of irregular secondary roads are formed within the six subsequent plots. This would cater to both the high-speed motorists passing through and residents.
