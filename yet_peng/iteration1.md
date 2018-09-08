@@ -1,5 +1,6 @@
 
 # Iteration 1
+Iterations 01/A-C features simulations based on one block typology situated in the three road networks described in the introduction of this chapter.
 
 ## 01 / A
 ![Typology Diagram](./imgs/T1R2_diagram.png)
@@ -17,7 +18,26 @@ Iteration 01/A features the first block typology where the upper one-third of th
 ## 01 / B
 ![Typology Diagram](./imgs/t1r3_diagram.png)
 
+![Overall Render](./imgs/edited_t1r3.png)
+
+![.](./imgs/t1r3_gbgw.png)
+
+![.](./imgs/t1r3_passiveview.png)
+
+![.](./imgs/t1r3_daylightsolar.png)
 
 
 ## 01 / C
 ![Typology Diagram](./imgs/T1R1_diagram.png)
+
+![Overall Render](./imgs/edited_t1r1.png)
+
+![.](./imgs/t1r1_gbgw.png)
+
+![.](./imgs/t1r1_passiveview.png)
+
+![.](./imgs/t1r1_daylightsolar.png)
+
+
+
+
