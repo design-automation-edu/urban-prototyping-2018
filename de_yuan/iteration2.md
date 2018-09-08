@@ -23,3 +23,5 @@ In order to better improve the living environment, large residential blocks are 
 ![gras](imgs/2_5.PNG)
 
 However, there are still observations made that suggests more room for improvement. A most prominent would be the towering heights of the residential blocks. Though displaying optimum results in terms of building performance, the height of taller blocks range from 10 - 62 storeys. In order to produce for realistic projections, theres is a need to revise the distribution of the residential units.
+
+![gras](imgs/2_floor.PNG)
