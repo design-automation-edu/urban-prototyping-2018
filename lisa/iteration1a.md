@@ -32,4 +32,8 @@ After going through the evaluation nodes I realised the reasons why.
 2. The individual buildings were too wide, resulting in a bad passive factor and subsequently bad buildings.
 
 
+<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1aflow.JPG" 
+alt="1aflow" width="642" height="754" border="10" />
+
+Overall workflow
 
