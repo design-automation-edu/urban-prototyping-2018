@@ -1,5 +1,5 @@
-# Name of project
+# Megapolis and the Garden City
 
-**SURNAME First Names**
+**CHIA Yet Peng**
 
-Abstract: No more than around 200 words. This abstract should give a very brief overview of your whole project, from start to finish. It should describe how many iterations you did, and what the aims was. It should give a brief summary of what was achieved, and of any conclusions. No more than around 200 words. This abstract should give a very brief overview of your whole project, from start to finish. It should describe how many iterations you did, and what the aims was. It should give a brief summary of what was achieved, and of any conclusions. No more than around 200 words. This abstract should give a very brief overview of your whole project, from start to finish. It should describe how many iterations you did, and what the aims was. It should give a brief summary of what was achieved, and of any conclusions. No more than around 200 words. This abstract should give a very brief overview of your whole project, from start to finish. It should describe how many iterations you did, and what the aims was. It should give a brief summary of what was achieved, and of any conclusions.
+Situated at the heart of a growing, cutting edge technological research and commercial site abutting the National University of Singapore, the design aims to encapsulate the concept of a megapolis in a Garden City. Bringing in the Dutch concept of a woonerf street, the subsequent chapters will simulate certain block typologies in 3 main road networks. The final simulation will involve the iteration that best manifests the design concept as well as quantifiable simulation results.
