@@ -4,7 +4,7 @@ This project was inspired by the urban planning done in Barcelona - my personal 
 
 The essence of Barcelona is its hexagon-shaped building blocks.
 
-![barcelona](./imgs/barcelona.jpg)
+![barcelona](./imgs/barcelona.png)
 >Source: Google Maps
 
 
