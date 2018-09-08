@@ -6,6 +6,6 @@ The western edge of the site is occupied by numerous education institutes with t
 
 The site was first zoned in response to zoning patterns along its periphery. Residential is planned to line the western and northern edge, plots are divided to increase the ease of entry. Industrial units line the southern edge, alongside AYE, acting as a barrier against the sound and exhaust from traffic flow.
 
-![zoning](zoning.jpg)
+![gras](imgs/zoning.jpg)
 
 
