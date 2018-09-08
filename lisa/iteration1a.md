@@ -7,7 +7,6 @@ An octogonal grid is first constructed. Then courtyards are punched into the ind
 
 Grid > Polyexpand > 'Make-Octogon' > Boolean Intersect (with site) > Boolean Intersect (with courtyards)
 
-![octogon](./imgs/make_hexagon_node.JPG) 
 
 (view factor)
 (passive factor)
@@ -21,3 +20,8 @@ After going through the evaluation nodes I realised the reasons why.
 
 
 
+Make Octogon node:
+
+![octogon](./imgs/octogon.JPG) 
+
+The 4 corners of the square are individually selected, then boolean-intersected with smaller squares rotated at a 45 degree angle, to create the octogon.
