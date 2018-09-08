@@ -6,5 +6,5 @@
 ![gras](imgs/I1P1.jpg)
 ## Background
   The Neighborhood Unit theory can be seen as a development of the La Ville Radieuse in the automotive context. It move green spaces and other public facilities to the center of each residential units. Creating a physically and emotionally safe environment without motor vehicles. This theory has profoundly affected the planning of residential areas in the Soviet Union and China
-![gras](imgs/I1P2.jpg)
+
 
