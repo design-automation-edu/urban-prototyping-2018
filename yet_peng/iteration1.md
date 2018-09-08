@@ -8,4 +8,8 @@ Iteration 01/A features the first block typology where the upper one-third of th
 
 ![Overall Render](./imgs/edited_t1r2.png)
 
-![.](./imgs/t1r2_gb and gw.png)
+![.](./imgs/t1r2_gbgw.png)
+
+![.](./imgs/t1r2_passiveview.png)
+
+![.](./imgs/t1r2_daylightsolar.png)
