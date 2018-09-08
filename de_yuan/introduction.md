@@ -10,7 +10,7 @@ The site was first zoned in response to zoning patterns along its periphery. Res
 
 The proposal also plans to respond to daily flow of traffic during peak hours, by distributing residential and industrial traffic flow along different roads. Entry and exit into the block is planned to occur along separate axes to allow congestion to ease naturally. Such is one of the potentials presented by engaging the dynamics of the crossroad.
 
-![gras](imgs/iteration 1_1.png)
+![gras](imgs/1_1.png)
 
 The primary and secondary axes dedicated to the commercial and industrial functions lie in opposite directions. This as a result creates synergy along points of intersection. The commercial zone is therefore aptly placed within the core to respond to such synergy and to serve the neighborhood along the periphery.
 
