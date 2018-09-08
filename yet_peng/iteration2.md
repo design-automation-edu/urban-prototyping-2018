@@ -16,7 +16,7 @@ Iteration 01/A features the first block typology where the upper one-third of th
 ![.](./imgs/t2r2_daylightsolar.png)
 
 ## 02 / B
-![Typology Diagram](./imgs/t2r3_diagram.png)
+![Typology Diagram](./imgs/t2r3_Diagram.png)
 
 ![Overall Render](./imgs/edited_t2r3.png)
 
@@ -28,9 +28,9 @@ Iteration 01/A features the first block typology where the upper one-third of th
 
 
 ## 02 / C
-![Typology Diagram](./imgs/T2R1_diagram.png)
+![Typology Diagram](./imgs/t2r1_Diagram.png)
 
-![Overall Render](./imgs/edit_t2r1.png)
+![Overall Render](./imgs/edited_t2r1.png)
 
 ![.](./imgs/t2r1_gbgw.png)
 
