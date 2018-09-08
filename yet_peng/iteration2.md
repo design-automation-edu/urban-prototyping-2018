@@ -9,22 +9,22 @@ Iteration 02/A features the second block typology where the shops and offices oc
 
 ![Overall Render](./imgs/edited_t2r2.png)
 
-![.](./imgs/t2r2_gbgw.png)
+!["Good Building" and "Good Window" Simulation](./imgs/t2r2_gbgw.png)
 
-![.](./imgs/t2r2_passiveview.png)
+![Passive Area Ratio and View Factor](./imgs/t2r2_passiveview.png)
 
-![.](./imgs/t2r2_daylightsolar.png)
+![Daylight Factor and Solar Factor](./imgs/t2r2_daylightsolar.png)
 
 ## 02 / B
 ![Typology Diagram](./imgs/t2r3_Diagram.png)
 
 ![Overall Render](./imgs/edited_t2r3.png)
 
-![.](./imgs/t2r3_gbgw.png)
+!["Good Building" and "Good Window" Simulation](./imgs/t2r3_gbgw.png)
 
-![.](./imgs/t2r3_passiveview.png)
+![Passive Area Ratio and View Factor](./imgs/t2r3_passiveview.png)
 
-![.](./imgs/t2r3_daylightsolar.png)
+![Daylight Factor and Solar Factor](./imgs/t2r3_daylightsolar.png)
 
 
 ## 02 / C
@@ -32,13 +32,10 @@ Iteration 02/A features the second block typology where the shops and offices oc
 
 ![Overall Render](./imgs/edited_t2r1.png)
 
-![.](./imgs/t2r1_gbgw.png)
+!["Good Building" and "Good Window" Simulation](./imgs/t2r1_gbgw.png)
 
-![.](./imgs/t2r1_passiveview.png)
+![Passive Area Ratio and View Factor](./imgs/t2r1_passiveview.png)
 
-![.](./imgs/t2r1_daylightsolar.png)
-
-
-
+![Daylight Factor and Solar Factor](./imgs/t2r1_daylightsolar.png)
 
 
