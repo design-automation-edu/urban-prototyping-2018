@@ -30,7 +30,7 @@ Iteration 01/A features the first block typology where the upper one-third of th
 ## 01 / C
 ![Typology Diagram](./imgs/T1R1_diagram.png)
 
-![Overall Render](./imgs/edited_t1r1.png)
+![Overall Render](./imgs/edit_t1r1.png)
 
 ![.](./imgs/t1r1_gbgw.png)
 
