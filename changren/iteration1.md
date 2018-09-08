@@ -12,12 +12,13 @@ I tried to restore this living mode in my scheme, the difference is that other s
 ![gras](imgs/I1P2.jpg)
 ![gras](imgs/I1P4.png)
 ## Evaluation
-After evaluation, the results show that most of the residential buildings are bad buildings.
+After evaluation, the results show that most of the buildings are bad buildings.
 ![gras](imgs/I1P5.jpg)
 The main reason is that the complex inside the unit completely obscures the lighting and scenery of most windows. After the central complex was removed, the situation improved. However, due to the difficulty of the direction, residential buildings in east-west direction would receive too much sunshine every day, and still could not achieve better living conditions.
 ![gras](imgs/I1P6.jpg)
 ## Improvement
 there are two main improvement methods. First, the service function should be arranged separately from the residence, but this does not match my starting point, so the remaining method is that the two are arranged in a straight line, or distributed up and down. Also, buildings oriented in bad directions should be removed
 ### P.S.
-All the discussions above are based on the higher threshold, if use the low threshold( ***view_threshold>0.4,daylight_threshold>0.1,solar_threshold<0.2,For good building thresholds,,passive_threshold>0.5
+All the discussions above are based on the higher threshold, if taking the low threshold( ***view_threshold>0.4,daylight_threshold>0.1,solar_threshold<0.2,For good building thresholds,,passive_threshold>0.5
 good_window_threshold>0.1***)as standard, then most of the buildings will be acceptable.
+![gras](imgs/I1P7.jpg)
