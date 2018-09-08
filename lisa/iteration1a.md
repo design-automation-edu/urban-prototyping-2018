@@ -7,6 +7,12 @@ An octogonal grid is first constructed. Then courtyards are punched into the ind
 ><img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1bworkflow.jpg"
 >alt="1aworkflow" width="1240" height="354.5" border="10" />
 
+Overall workflow
+
+<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1aflow.JPG" 
+alt="1aflow" width="642" height="754" border="10" />
+
+
 **Final results**
 
 <img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1aviewfactor.JPG" 
@@ -32,8 +38,5 @@ After going through the evaluation nodes I realised the reasons why.
 2. The individual buildings were too wide, resulting in a bad passive factor and subsequently bad buildings.
 
 
-<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1aflow.JPG" 
-alt="1aflow" width="642" height="754" border="10" />
 
-Overall workflow
 
