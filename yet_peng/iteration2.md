@@ -5,7 +5,7 @@ Iterations 02/A-C, similar to Iteration 1, features simulations based on one blo
 ## 02 / A
 ![Typology Diagram](./imgs/t2r2_diagram.png)
 
-Iteration 01/A features the first block typology where the upper one-third of the plot is allocated for shops on ground level, offices above it, and two smaller residential blocks 3-6m away from the commercial block with an ample amount of courtyard space in the middle of the three blocks. Situated in the control grid road network, commercial blocks will be clustered towards the AYE to act as a noise buffer for the residential blocks, which will be clustered towards the MRT nodes.
+Iteration 02/A features the second block typology where the shops and offices occupy three-quarters of the area, much larger than the first typology to reduce obstructions for the residential towers, with added courtyards to improve passive area ratio for the larger commercial blocks. Density does not change in this iteration - i.e. commercial blocks cluster towards the AYE while residential blocks towards the MRT nodes.
 
 ![Overall Render](./imgs/edited_t2r2.png)
 
