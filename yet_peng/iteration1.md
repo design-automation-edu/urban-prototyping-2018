@@ -9,20 +9,20 @@ Iteration 01/A features the first block typology where the upper one-third of th
 
 ![Overall Render](./imgs/edited_t1r2.png)
 
-![.](./imgs/t1r2_gbgw.png)
+!["Good Building" and "Good Window" Simulation](./imgs/t1r2_gbgw.png)
 
-![.](./imgs/t1r2_passiveview.png)
+![Passive Area Ratio and View Factor](./imgs/t1r2_passiveview.png)
 
-![.](./imgs/t1r2_daylightsolar.png)
+![Daylight Factor and Solar Factor](./imgs/t1r2_daylightsolar.png)
 
 ## 01 / B
 ![Typology Diagram](./imgs/t1r3_diagram.png)
 
 ![Overall Render](./imgs/edited_t1r3.png)
 
-![.](./imgs/t1r3_gbgw.png)
+!["Good Building" and "Good Window" Simulation](./imgs/t1r3_gbgw.png)
 
-![.](./imgs/t1r3_passiveview.png)
+![Passive Area Ratio and View Factor](./imgs/t1r3_passiveview.png)
 
 ![.](./imgs/t1r3_daylightsolar.png)
 
@@ -32,11 +32,11 @@ Iteration 01/A features the first block typology where the upper one-third of th
 
 ![Overall Render](./imgs/edit_t1r1.png)
 
-![.](./imgs/t1r1_gbgw.png)
+!["Good Building" and "Good Window" Simulation](./imgs/t1r1_gbgw.png)
 
-![.](./imgs/t1r1_passiveview.png)
+![Passive Area Ratio and View Factor](./imgs/t1r1_passiveview.png)
 
-![.](./imgs/t1r1_daylightsolar.png)
+![Daylight Factor and Solar Factor](./imgs/t1r1_daylightsolar.png)
 
 
 
