@@ -58,7 +58,7 @@
   * [Iteration 3](jhia_hao/iteration3.md)
   * [Discussion](jhia_hao/discussion.md)
   
-* [Title For de_yuan's Project](de_yuan/overview.md)
+* [Crossroads](de_yuan/overview.md)
   * [Introduction](de_yuan/introduction.md)
   * [Iteration 1](de_yuan/iteration1.md)
   * [Iteration 2](de_yuan/iteration2.md)
@@ -71,13 +71,6 @@
   * [Iteration 2](gerald/iteration2.md)
   * [Iteration 3](gerald/iteration3.md)
   * [Discussion](gerald/discussion.md)
-  
-* [Title For sulbee's Project](sulbee/overview.md)
-  * [Introduction](sulbee/introduction.md)
-  * [Iteration 1](sulbee/iteration1.md)
-  * [Iteration 2](sulbee/iteration2.md)
-  * [Iteration 3](sulbee/iteration3.md)
-  * [Discussion](sulbee/discussion.md)
   
 * [Title For jie_zhi's Project](jie_zhi/overview.md)
   * [Introduction](jie_zhi/introduction.md)
