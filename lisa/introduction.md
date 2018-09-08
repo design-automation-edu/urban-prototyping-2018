@@ -6,6 +6,4 @@ The essence of Barcelona is its hexagon-shaped building blocks.
 
 ![barcelona](./imgs/barcelona.jpg)
 
-h3 { Source: Google Maps
-     font-size: 24px;
-}
+>Source: Google Maps
