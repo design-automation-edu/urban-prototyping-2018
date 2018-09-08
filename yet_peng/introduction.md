@@ -20,9 +20,9 @@ The third network fuses the idea of a grid and the woonerf. By extending existin
 
 [^2]: Subsequent simulations will be based on the following standards:
 * For good windows,
- * view_threshold>0.4
- * daylight_threshold>0.1
- * solar_threshold<0.2
+  * view_threshold>0.4
+  * daylight_threshold>0.1
+  * solar_threshold<0.2
 * For good building thresholds,
- * passive_threshold>0.5
- * good_window_threshold>0.1
+  * passive_threshold>0.5
+  * good_window_threshold>0.1
