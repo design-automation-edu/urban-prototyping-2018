@@ -1,10 +1,8 @@
 # Discussion
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Situating different typologies into three different road networks was an interesting exercise to test out a variety to parameters and specifications and their effectiveness in terms of quantifiable factors. Although the end target was geared towards a road network that could satisfy both the urban community concept of a woonerf street and daylight qualities of the built form (i.e. 01/C, 02/C), iterations A and B were able to illustrate which areas to adjust to achieve certain results.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+With an end result of 85.7% good buildings and 91.1% good windows, iteration 3 improved tremendously from 01/C which had 55.7% good buildings and 79.2% good windows. Areas of improvement, however, include maximum floor count, view factor and daylight factor which deteriorated from 01/C.
 
 
 
