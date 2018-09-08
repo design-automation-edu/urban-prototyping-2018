@@ -88,7 +88,8 @@
   
 * [Title For lisa's Project](lisa/overview.md)
   * [Introduction](lisa/introduction.md)
-  * [Iteration 1](lisa/iteration1.md)
+  * [Iteration 1a](lisa/iteration1a.md)
+  * [Iteration 1b](lisa/iteration1b.md)
   * [Iteration 2](lisa/iteration2.md)
   * [Iteration 3](lisa/iteration3.md)
   * [Discussion](lisa/discussion.md)
