@@ -27,3 +27,34 @@ Main idea is increasing the population density through large-scale buildings, sa
 Other impacts on the building arrangement are: MRT stations & Dover Road .The closer to the subway station, the more living people there should be, and the closer to Dover Road, the larger the commercial area should be.
 
 ![gras](imgs/Intro5.jpg)
+
+### P.S.
+There are two standards I took to evaluate buildings.
+
+1.
+
+> For good windows:
+
+>view_threshold>0.4
+daylight_threshold>0.1
+solar_threshold<0.2
+
+>For good building thresholds:
+
+>passive_threshold>0.5
+good_window_threshold>0.1
+
+2.
+
+> For good windows:
+
+>view_threshold>0.5
+daylight_threshold>0.15
+solar_threshold<0.15
+
+>For good building thresholds:
+
+>passive_threshold>0.5
+good_window_threshold>0.3
+
+Considering the key concept is providing sunshine and green,the low threshold will be easy to achieve,so most of the adjustments will be based on the higher threshold, that is the second one.
