@@ -27,7 +27,7 @@ The broad space between buildings can ensure a good amount of lighting for most 
 
 ![gras](imgs/I2P6.jpg)
 
-Take this one as an example, all windows have not reached the final lighting standard, but all other conditions are met.
+Take this commercial building as an example, all windows have not reached the final lighting standard, but all other conditions are met.
 
 ![gras](imgs/I2P7.jpg)
 
