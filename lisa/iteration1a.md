@@ -38,10 +38,11 @@ Daylight Factor Ratio: 84.04%
 
 Solar Factor Ratio: 70.46%
 
-><u>Conclusion</u>
->
->The results were astonishing as almost all the buildings were bad buildings. After going through the evaluation nodes I realised it was >because the passive area ratio was very low. My buildings were too thick - so I explored ways of 'thinning' my building block down.
+```
+Conclusion
 
+The results were astonishing as almost all the buildings were bad buildings. After going through the evaluation nodes I realised it was because the passive area ratio was very low. My buildings were too thick - so I explored ways of 'thinning' my building block down.
+```
 
 
 
