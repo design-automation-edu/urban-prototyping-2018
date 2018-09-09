@@ -38,8 +38,9 @@ However, the buildings can still be further improved. As a large number of build
 The residential blocks should also be less east-west facing to reduce solar radiation into the buildings.
 
 
+Houdini Workflow:
 
-
+![1a](./imgs/2workflow.JPG)
 
 
 
