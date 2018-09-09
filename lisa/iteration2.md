@@ -6,8 +6,8 @@ For iteration 2, other than decreasing the thickness of the buildings, I also se
 
 >Grid> Polyexpand> Split> 'Make-Octogon'> Boolean Intersect (with site)> Boolean Intersect (with courtyard)> Split (different typologies)
 
-![1a](./imgs/1process1.jpg)
-![1a](./imgs/1process2.jpg)
+![1a](./imgs/2process1.jpg)
+![1a](./imgs/2process2.jpg)
 
 **Final results**
 
