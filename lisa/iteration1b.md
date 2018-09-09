@@ -34,6 +34,6 @@ This can be done by:
 1) Increasing the size of the urban grid
 2) Increasing the size of the inner courtyard
 
-Overall Houdini Workflow:
+Houdini overall workflow:
 
 ![1a](./imgs/1bflow.JPG)
