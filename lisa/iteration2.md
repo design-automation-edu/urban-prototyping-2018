@@ -2,12 +2,12 @@
 
 For iteration 2, other than decreasing the thickness of the buildings, I also separated the buildings into 4 different typologies - industrial, offices, residential and commercial.
 
-![1a](./imgs/3btypology.jpg)
+![1a](./imgs/3btypology.JPG)
 
 >Grid> Polyexpand> Split> 'Make-Octogon'> Boolean Intersect (with site)> Boolean Intersect (with courtyard)> Split (different typologies)
 
-![1a](./imgs/2process1.jpg)
-![1a](./imgs/2process2.jpg)
+![1a](./imgs/2process1.JPG)
+![1a](./imgs/2process2.JPG)
 
 **Final results**
 
