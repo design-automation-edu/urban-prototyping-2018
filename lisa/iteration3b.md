@@ -1,46 +1,44 @@
-# Iteration 2
+# Iteration 3b
 
-For iteration 2, other than decreasing the thickness of the buildings, I also separated the buildings into 4 different typologies - industrial, offices, residential and commercial.
+For iteration 3b, Voronoi Fracture is experimented on the industrial urban blocks. This creates 2 rows of industrials buildings, instead of 3 rows (in iteration 3a). The middle rows in iteration 3a are thus gotten rid of because they do not have a good unobstructed view factor.
 
-![1a](./imgs/3btypology.JPG)
+![1a](./imgs/3btypology.jpg)
 
 >Grid> Polyexpand> Split> 'Make-Octogon'> Boolean Intersect (with site)> Boolean Intersect (with courtyard)> Split (different typologies)
 
 ![1a](./imgs/2process1.JPG)
-![1a](./imgs/2process2.JPG)
+![1a](./imgs/3bprocess.jpg)
 
 **Final results**
 
-Total number of buildings evaluated: 123
+Total number of buildings evaluated: 199
 
-![1a](./imgs/2gbw.jpg)
+![1a](./imgs/3bgbw.jpg)
 
-"Good" Building Ratio: 24.39%
+"Good" Building Ratio: 94.97%
 
-"Good" Window Ratio: 59.64%
+"Good" Window Ratio: 55.75%
 
-![1a](./imgs/2pavf.jpg)
+![1a](./imgs/3bpavf.jpg)
 
-Passive Area Ratio: 33.41%
+Passive Area Ratio: 100%
 
-Unobstructed View Factor Ratio: 77.76%
+Unobstructed View Factor Ratio: 77.96%
 
-![1a](./imgs/2dfsf.jpg)
+![1a](./imgs/3bdfsf.jpg)
 
-Daylight Factor Ratio: 79.70%
+Daylight Factor Ratio: 82.40%
 
-Solar Factor Ratio: 74.95%
+Solar Factor Ratio: 79.04%
 
 Conclusion
 
-The Passive Area Ratio has improved a lot from iteration 1a and 1b, and so have the "good" building and "good" window ratios.
-However, the buildings can still be further improved. As a large number of buildings with low passive area are industrial/offices, those buildings blocks can be further broken up to allow for better passive lighting into the building. 
-The residential blocks should also be less east-west facing to reduce solar radiation into the buildings.
+Almost 100% "good" building ratio has been achieved. The industrial/office building blocks that are hidden behind the shopping malls are deleted because they are unable to enjoy good unobstructed views. The leftover land can be converted into a public park, possibly used to hold events and festivals near the shopping malls, acting as a node within the neighbourhood.
 
 
 Houdini overall workflow:
 
-![1a](./imgs/2workflow.JPG)
+![1a](./imgs/3bworkflow.JPG)
 
 
 
