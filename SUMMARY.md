@@ -79,7 +79,7 @@
   * [Iteration 3](jie_zhi/iteration3.md)
   * [Discussion](jie_zhi/discussion.md)
   
-* [Title For lisa's Project](lisa/overview.md)
+* [Chaflán](lisa/overview.md)
   * [Introduction](lisa/introduction.md)
   * [Iteration 1a](lisa/iteration1a.md)
   * [Iteration 1b](lisa/iteration1b.md)
