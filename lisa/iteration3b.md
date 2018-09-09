@@ -7,7 +7,7 @@ For iteration 3b, Voronoi Fracture is experimented on the industrial urban block
 >Grid> Polyexpand> Split> 'Make-Octogon'> Boolean Intersect (with site)> Boolean Intersect (with courtyard)> Split (different typologies)
 
 ![1a](./imgs/2process1.JPG)
-![1a](./imgs/3bprocess.JPG)
+![1a](./imgs/2process2.JPG)
 
 **Final results**
 
