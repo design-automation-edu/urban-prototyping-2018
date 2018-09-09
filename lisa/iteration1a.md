@@ -37,7 +37,7 @@ After going through the evaluation nodes I realised it was because the passive a
 My buildings were too thick - so I explored ways of 'thinning' my building block down.
 
 
-Houdini overall workflow
+Houdini overall workflow:
 
 ![1a](./imgs/1aflow.JPG)
 
