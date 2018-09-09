@@ -7,6 +7,16 @@ The essence of Barcelona is its octagon-shaped building blocks. A basic grid is 
 ![barcelona](./imgs/barcelona.JPG) 
 Source: Google Maps
 
+```
+The thresholds for determining a good/bad building is as follows:
+Good window thresholds
+   View threshold > 0.4
+   Daylight threshold > 0.1
+   Solar threshold < 0.2
+Good building thresholds
+   Passive threshold > 0.5
+   Good window threshold > 0.1
+```
 
 This node is present in all my iterations, used to create the octogonal shape of the building blocks.
 
