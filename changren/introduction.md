@@ -10,3 +10,18 @@
   
 ![gras](imgs/Intro2.jpg)
 
+Yet because of his idea of functionalist zoning coincides with the communist state's emphasis on order and public, therefore, the Soviet Union, China, East Germany and other socialist countries in large part inherited the theory of Corbusier during their postwar reconstruction, which still has an impact today. Other countries like United Kingdom, Netherlands, etc. also have residential areas affected by this theory.
+
+![gras](imgs/Intro3.jpg)
+
+Now it has to be acknowledged that the impersonal functionalist division has a negative impact on the vitality and security of the city. The mixed urban function and the sense of place are the development direction of cites. Despite this, this article still wants to do a series of simulations to test whether its physical parameters can really reach a that high level which Corbusier claims.
+
+In the three iterations, I have carried out several variants of apartment blocks.
+
+![gras](imgs/Intro4.jpg)
+
+Main idea is increasing the population density through large-scale buildings, saving the land to provide sufficient sunshine and greening, and ensuring a neat grid transportation system for travel convenience. Each residential building is connected to a commercial building that can solve the daily life of residents, which contains offices, food courts and other entertainments. I tried to make every building group a self-sustained system. Then through the analysis of its physical parameters, adjust to find whether there is an optimal solution.
+
+Other impacts on the building arrangement are: MRT stations & Dover Road .The closer to the subway station, the more living people there should be, and the closer to Dover Road, the larger the commercial area should be.
+
+![gras](imgs/Intro5.jpg)
