@@ -13,7 +13,7 @@ For iteration 3a, the thickness of the industrial buildings are decreased, and t
 
 Total number of buildings evaluated: 161
 
-![1a](./imgs/3gbw.jpg)
+![1a](./imgs/3agbw.jpg)
 
 "Good" Building Ratio: 87.58%
 
