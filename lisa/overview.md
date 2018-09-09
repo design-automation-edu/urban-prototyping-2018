@@ -2,7 +2,7 @@
 
 **KOH Lisa**
 
-![food](./imgs/food.jpg)
+![render](./imgs/render.jpg)
 
 
 El Chaflán, which means 'chamfer' in Spanish, refers to chamferring of the corners of a typical urban grid. Inspired by the urban layout of the city of Barcelona, this project seeks to discover the efficiency of such a plan (widths of streets and buildings are taken from that of Barcelona's), and ways to improve on it. It also seeks to understand how well such a plan could fit into the context of Singapore.
