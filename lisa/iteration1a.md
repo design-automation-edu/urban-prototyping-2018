@@ -21,23 +21,26 @@ Total number of buildings evaluated: 53
 alt="octogon" width="1089" height="613" border="10" />
 
 "Good" Building Ratio: 1.89%
+
 "Good" Window Ratio: 35.85%
 
 <img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1apavf.JPG" 
 alt="octogon" width="1075" height="596" border="10" />
 
 Passive Area Ratio: 1.89%
+
 Unobstructed View Factor Ratio: 81.72%
 
 <img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1adfsf.JPG" 
 alt="octogon" width="1087" height="701" border="10" />
 
 Daylight Factor Ratio: 84.04%
+
 Solar Factor Ratio: 70.46%
 
-<u>Conclusion</u>
-
-The results were astonishing as almost all the buildings were bad buildings. After going through the evaluation nodes I realised it was because the passive area ratio was very low. My buildings were too thick - so I explored ways of 'thinning' my building block down.
+><u>Conclusion</u>
+>
+>The results were astonishing as almost all the buildings were bad buildings. After going through the evaluation nodes I realised it was >because the passive area ratio was very low. My buildings were too thick - so I explored ways of 'thinning' my building block down.
 
 
 
