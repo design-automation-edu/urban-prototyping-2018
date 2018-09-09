@@ -16,7 +16,7 @@ First, rectangular building bases are used to generate commercial buildings (inc
 
 Second step is to move the building bottom which later will be used to generate residences upward, each one moves at a specific distance determined by the height of its corresponding commercial building. The area allocation will be affected by the three MRT stations. The closer to the MRT station, the more residents should be. The highest apartment block has 40 floors.
 
-![gras](imgs/I2P3.jpg)
+![gras](imgs/I2P4.png)
 ![gras](imgs/I2P8.png)
 
 ## Evaluation
