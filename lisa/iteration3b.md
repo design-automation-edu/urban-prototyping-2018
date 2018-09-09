@@ -2,12 +2,12 @@
 
 For iteration 3b, Voronoi Fracture is experimented on the industrial urban blocks. This creates 2 rows of industrials buildings, instead of 3 rows (in iteration 3a). The middle rows in iteration 3a are thus gotten rid of because they do not have a good unobstructed view factor.
 
-![1a](./imgs/3btypology.jpg)
+![1a](./imgs/3btypology.JPG)
 
 >Grid> Polyexpand> Split> 'Make-Octogon'> Boolean Intersect (with site)> Boolean Intersect (with courtyard)> Split (different typologies)
 
 ![1a](./imgs/2process1.JPG)
-![1a](./imgs/3bprocess.jpg)
+![1a](./imgs/3bprocess.JPG)
 
 **Final results**
 
