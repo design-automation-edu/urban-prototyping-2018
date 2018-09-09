@@ -2,29 +2,26 @@
 # Iteration 1b
 
 >Grid> Polyexpand> 'Make-Octogon'> Boolean Intersect (with courtyards)> Boolean Intersect (with site)> Boolean Subtract (with road going through entire site)
-><img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1aworkflow.jpg"
->alt="1aworkflow" width="620" height="177.25" border="10" /></a>
+
+![1a](./imgs/1aworkflow.jpg)
 
 **Final results**
 
 Total number of buildings evaluated: 66
 
-<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1bgbw.jpg" 
-alt="gbw" width="1089" height="613" border="10" />
+![1a](./imgs/1bgbw.jpg)
 
 "Good" Building Ratio: 59.09%
 
 "Good" Window Ratio: 36.36%
 
-<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1bpavf.jpg" 
-alt="pavf" width="1075" height="596" border="10" />
+![1a](./imgs/1bpavf.jpg)
 
 Passive Area Ratio: 33.33%
 
 Unobstructed View Factor Ratio: 19.54%
 
-<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1bdfsf.jpg" 
-alt="dfsf" width="1087" height="701" border="10" />
+![1a](./imgs/1bdfsf.jpg)
 
 Daylight Factor Ratio: 20.42%
 
@@ -37,5 +34,6 @@ This can be done by:
 1) Increasing the size of the urban grid
 2) Increasing the size of the inner courtyard
 
+Overall Houdini Workflow:
 
-
+![1a](./imgs/1bflow.JPG)
