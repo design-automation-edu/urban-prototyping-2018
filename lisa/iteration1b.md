@@ -7,21 +7,28 @@
 
 **Final results**
 
-View Factor Evaluation
+Total number of buildings evaluated: 66
 
-<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1bviewfactor.JPG" 
+<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1bgbw.JPG" 
 alt="octogon" width="1089" height="613" border="10" />
 
-Passive Ratio Evaluation
+"Good" Building Ratio: 59.09%
 
-<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1bpassiveratio.JPG" 
+"Good" Window Ratio: 36.36%
+
+<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1bpavf.JPG" 
 alt="octogon" width="1075" height="596" border="10" />
 
-Good Building Evaluation
+Passive Area Ratio: 33.33%
 
-<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/iteration1bgbbldg.JPG" 
+Unobstructed View Factor Ratio: 19.54%
+
+<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1bdfsf.JPG" 
 alt="octogon" width="1087" height="701" border="10" />
 
+Daylight Factor Ratio: 20.42%
+
+Solar Factor Ratio: 29.31%
 
 
 The results were showed that my building blocks in iteration 1a were in fact, too thick. The buildings along the road that cuts through the entire site are better buildings than the others, because they enjoy better passive lighting and hence, better windows. This concludes that in order to improve the conditions of the other buildings, I had to improve passive lighting into my buildings and give them better views (increase the distance between buildings).
