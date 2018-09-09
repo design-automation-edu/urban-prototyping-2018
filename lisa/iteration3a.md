@@ -7,7 +7,7 @@ For iteration 3a, the thickness of the industrial buildings are decreased, and t
 >Grid> Polyexpand> Split> 'Make-Octogon'> Boolean Intersect (with site)> Boolean Intersect (with courtyard)> Split (different typologies)
 
 ![1a](./imgs/2process1.JPG)
-![1a](./imgs/3aprocess.JPG)
+![1a](./imgs/3aprocess.jpg)
 
 **Final results**
 
@@ -33,7 +33,7 @@ Solar Factor Ratio: 80.89%
 
 Conclusion
 
-The Passive Area Ratio has improved a lot from 2 (it is now 100%), and so have the "good" building ratios. 
+The Passive Area Ratio has improved a lot from iteration 2 (it is now 100%), and so have the "good" building ratios. 
 
 
 Houdini overall workflow:
