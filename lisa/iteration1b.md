@@ -9,21 +9,21 @@
 
 Total number of buildings evaluated: 66
 
-<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1bgbw.JPG" 
+<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1bgbw.jpg" 
 alt="gbw" width="1089" height="613" border="10" />
 
 "Good" Building Ratio: 59.09%
 
 "Good" Window Ratio: 36.36%
 
-<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1bpavf.JPG" 
+<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1bpavf.jpg" 
 alt="pavf" width="1075" height="596" border="10" />
 
 Passive Area Ratio: 33.33%
 
 Unobstructed View Factor Ratio: 19.54%
 
-<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1bdfsf.JPG" 
+<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1bdfsf.jpg" 
 alt="dfsf" width="1087" height="701" border="10" />
 
 Daylight Factor Ratio: 20.42%
