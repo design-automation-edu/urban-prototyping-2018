@@ -15,28 +15,29 @@ alt="1aflow" width="642" height="754" border="10" />
 
 **Final results**
 
-View Factor Evaluation
+Total number of buildings evaluated: 53
 
-<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1aviewfactor.JPG" 
+<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1agbw.JPG" 
 alt="octogon" width="1089" height="613" border="10" />
 
-Passive Ratio Evaluation
+"Good" Building Ratio: 1.89%
+"Good" Window Ratio: 35.85%
 
-<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1apassiveratio.JPG" 
+<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1apavf.JPG" 
 alt="octogon" width="1075" height="596" border="10" />
 
+Passive Area Ratio: 1.89%
+Unobstructed View Factor Ratio: 81.72%
 
-Good Building Evaluation
-
-<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/iteration1agbbldg.JPG" 
+<img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/1adfsf.JPG" 
 alt="octogon" width="1087" height="701" border="10" />
 
+Daylight Factor Ratio: 84.04%
+Solar Factor Ratio: 70.46%
 
-The results were astonishing as almost all the buildings were bad buildings. 
+<u>Conclusion</u>
 
-After going through the evaluation nodes I realised the reasons why.
-1. The buliding blocks were too close together, resulting in bad views and subsequently bad windows. 
-2. The individual buildings were too wide, resulting in a bad passive factor and subsequently bad buildings.
+The results were astonishing as almost all the buildings were bad buildings. After going through the evaluation nodes I realised it was because the passive area ratio was very low. My buildings were too thick - so I explored ways of 'thinning' my building block down.
 
 
 
