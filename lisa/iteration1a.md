@@ -6,10 +6,6 @@ An octogonal grid is first constructed. Then courtyards are punched into the ind
 >Grid> Polyexpand> 'Make-Octogon'> Boolean Intersect (with courtyards)> Boolean Intersect (with site)
 >![1a](./imgs/1bworkflow.jpg) 
 
-Overall workflow
-
-![1a](./imgs/1aflow.JPG)
-
 **Final results**
 
 Total number of buildings evaluated: 53
@@ -40,6 +36,10 @@ The results were astonishing as almost all the buildings were bad buildings.
 After going through the evaluation nodes I realised it was because the passive area ratio was very low. 
 My buildings were too thick - so I explored ways of 'thinning' my building block down.
 
+
+Houdini overall workflow
+
+![1a](./imgs/1aflow.JPG)
 
 
 
