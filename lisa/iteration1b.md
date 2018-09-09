@@ -3,25 +3,25 @@
 
 >Grid> Polyexpand> 'Make-Octogon'> Boolean Intersect (with courtyards)> Boolean Intersect (with site)> Boolean Subtract (with road going through entire site)
 
-![1a](./imgs/1aworkflow.jpg)
+![Iteration 1b workflow](./imgs/1aworkflow.jpg)
 
 **Final results**
 
 Total number of buildings evaluated: 66
 
-![1a](./imgs/1bgbw.jpg)
+![Iteration 1b](./imgs/1bgbw.jpg)
 
 "Good" Building Ratio: 59.09%
 
 "Good" Window Ratio: 36.36%
 
-![1a](./imgs/1bpavf.jpg)
+![Iteration 1b](./imgs/1bpavf.jpg)
 
 Passive Area Ratio: 33.33%
 
 Unobstructed View Factor Ratio: 19.54%
 
-![1a](./imgs/1bdfsf.jpg)
+![Iteration 1b](./imgs/1bdfsf.jpg)
 
 Daylight Factor Ratio: 20.42%
 
@@ -36,4 +36,4 @@ This can be done by:
 
 Houdini overall workflow:
 
-![1a](./imgs/1bflow.JPG)
+![Iteration 1b workflow](./imgs/1bflow.JPG)
