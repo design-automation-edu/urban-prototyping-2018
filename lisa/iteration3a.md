@@ -2,7 +2,7 @@
 
 For iteration 3a, the thickness of the industrial buildings are decreased, and the east-west facing sides of the residential blocks are decreased as well.
 
-![1a](./imgs/3aresichange.jpg)
+![1a](./imgs/3aresichange2.jpg)
 
 ![1a](./imgs/3atypology.jpg)
 
