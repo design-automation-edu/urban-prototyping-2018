@@ -22,7 +22,6 @@ This node is present in all my iterations, used to create the octogonal shape of
 
 >Make Octogon node:
 >
-><img src="https://raw.githubusercontent.com/design-automation/urban-prototyping-2018/master/lisa/imgs/octogon.JPG" 
->alt="octogon" width="482" height="750" border="10" />
+>![octogon node](./imgs/octogon.JPG) 
 >
 >The 4 corners of the square are individually selected, then boolean-intersected with smaller squares rotated at a 45 degree angle, to create the octogon.
