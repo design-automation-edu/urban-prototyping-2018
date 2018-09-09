@@ -16,6 +16,8 @@ Yet because of his idea of functionalist zoning coincides with the communist sta
 
 Now it has to be acknowledged that the impersonal functionalist division has a negative impact on the vitality and security of the city. The mixed urban function and the sense of place are the development direction of cites. Despite this, this article still wants to do a series of simulations to test whether its physical parameters can really reach a that high level which Corbusier claims.
 
+## Main Concept
+
 In the three iterations, I have carried out several variants of apartment blocks.
 
 ![gras](imgs/Intro4.jpg)
