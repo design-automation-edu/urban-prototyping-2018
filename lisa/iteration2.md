@@ -2,30 +2,30 @@
 
 For iteration 2, other than decreasing the thickness of the buildings, I also separated the buildings into 4 different typologies - industrial, offices, residential and commercial.
 
-![1a](./imgs/2typology.jpg)
+![Iteration 2 workflow](./imgs/2typology.jpg)
 
 >Grid> Polyexpand> Split> 'Make-Octogon'> Boolean Intersect (with site)> Boolean Intersect (with courtyard)> Split (different typologies)
 
-![1a](./imgs/2process1.JPG)
-![1a](./imgs/2process2a.jpg)
+![Iteration 2](./imgs/2process1.JPG)
+![Iteration 2](./imgs/2process2a.jpg)
 
 **Final results**
 
 Total number of buildings evaluated: 123
 
-![1a](./imgs/2gbw.jpg)
+![Iteration 2](./imgs/2gbw.jpg)
 
 "Good" Building Ratio: 24.39%
 
 "Good" Window Ratio: 59.64%
 
-![1a](./imgs/2pavf.jpg)
+![Iteration 2](./imgs/2pavf.jpg)
 
 Passive Area Ratio: 33.41%
 
 Unobstructed View Factor Ratio: 77.76%
 
-![1a](./imgs/2dfsf.jpg)
+![Iteration 2](./imgs/2dfsf.jpg)
 
 Daylight Factor Ratio: 79.70%
 
@@ -40,7 +40,7 @@ The residential blocks should also be less east-west facing to reduce solar radi
 
 Houdini overall workflow:
 
-![1a](./imgs/2workflow.JPG)
+![Iteration 2 workflow](./imgs/2workflow.JPG)
 
 
 
