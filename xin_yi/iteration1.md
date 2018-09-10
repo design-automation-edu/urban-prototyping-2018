@@ -13,11 +13,7 @@ Dividing site into urban blocks > Forming plots > Specifying relative density fo
 
 ![Generative process](imgs/01generativeprocess.PNG)
 
-### Computational Process
-
 ![Computational process](imgs/01computationallogic1.png)
-
-(do note that diagrams are only a graphical representation and not accurate to scale)
 
 ### Parameters
 
@@ -34,6 +30,8 @@ Dividing site into urban blocks > Forming plots > Specifying relative density fo
       * done by editing scale of primitive of both the podium plots: x:0.6, y:0.4, z:1
       
 ![Widening street width and Rotating building angle](imgs/01stwidthanglerotate.jpg)
+
+(do note that diagrams are only a graphical representation and not accurate to scale)
 
 ### Evaluation of Results
 
