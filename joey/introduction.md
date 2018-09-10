@@ -19,6 +19,22 @@ With research and education as the main backbone of the program, the floor area 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 22m2  | 8m2  | 2 m2  | 3 m2  | 35 m2  |
 
+## Site Conditions
+Firstly, since the majority of residents living in the area are students and young adults, it is expected that there will be a high dependency on public transport systems. Secondly, the Ayer-Rajah Expressway (AYE) along South of the site is expected to be an undesirable source of air and noise pollution. The 6-lane expressway disconnects the site from the National University of Singapore (NUS) campus and the West Coast residential enclave. To get across AYE, one must use one of five overhead pedestrian bridges identified in the site surrounding. The following diagrams presents the location of Mass-Rapid Transit (MRT) stations and overhead pedestrian bridges in the site vicinity: 
 
-| No. of persons | ----- | xxxxx |
-| No. of persons | ----- | xxxx  | 
+## Design Goals
+With the existing site conditions in mind, a concept plan in relation to surrounding developments was generated to kickstart the iterative urban prototyping process. 
+
+> Clean-Tech Industrial will be located along AYE as it is an undesirable source of air and noise pollution.
+
+> Residential spaces will be located along Dover Road to be in close proximity to existing MRT stations (Dover MRT, One-North MRT and Kent Ridge MRT). These spaces are located in the middle of Offices/Education and Industrial spaces as they are to be shared among either users.
+
+> Residents in the area must be within comfortable walking distance to existing overhead bridges so that there is a continuous flow instead of a disconnection created by AYE. 
+
+To guide the evaluation process, each of the iterations will be tested against the following ‘liveable’ conditions:
+
+> Daylight Factor - assesses the quality of natural lighting (sunlight) on a surface
+> Solar Factor - assesses the amount of heat passing through a surface
+> View Factor - assesses the availability and quality of vistas
+
+In conclusion, the study identifies ‘good’ buildings in each urban massing iteration. In addition to the liveable conditions mentioned above, ‘good’ buildings must adhere to the design goals established.
