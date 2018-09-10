@@ -4,7 +4,8 @@
 
 Abstract: This project seeks to continue Zaha Hadid’s concept for one-north masterplan, which aims to permit a heterogeneous urban grid with a green connector across the plot as a space for respite and connectivity. 
 
-
+![Figure 1 Zaha Hadid masterplan sketch. Source: Zaha Hadid architects](./imgs/onenorth_masterplan_zha.png)
+Figure 1 Zaha Hadid masterplan sketch. Source: Zaha Hadid architects
 
 one-north industrial park was developed by JTC Corporation for the R&D and high technology cluster, comprising biomedical sciences, info-communication technology and media industries. Just situated in adjacency to National University of Singapore, Singapore Polytechnique and Science park.
 
