@@ -2,7 +2,7 @@
 
 This chapter seeks to explore the site context of the one-north district, finding main connections to integrate current roads and identifying important attractor and repeller points in the vicinity that would affect the planning of the urban scape. Also, three different urban grids will be explored in distributing the plot.
 
-![Figure 2. Plot location and adjacent roads](imgs/site.PNG) 
+![Figure 2. Plot location and adjacent roads](./imgs/site.png) 
 
 
 ## 2.1.	Main connections
