@@ -1,7 +1,7 @@
 
 # Iteration 1: Urban Form (Plot Size)
 
-_1.1 Iteration 1A: Small Plots_
+__1.1 Iteration 1A: Small Plots__
 
 ![Fig. 1: Iteration 1A](imgs/1_1.jpg)
 
@@ -11,7 +11,7 @@ Overall, it has a majority of bad buildings. This is largely due to view obstruc
 
 
 
-_1.2 Iteration 1B: Big Plots_
+__1.2 Iteration 1B: Big Plots__
 
 ![Fig. 1: Iteration 1B](imgs/1_2.jpg)
 
@@ -21,7 +21,7 @@ Hence, the overall good building ratio is very low. This is largely due to the t
 
 
 
-_1.3 Iteration 1C: Combined_
+__1.3 Iteration 1C: Combined__
 
 ![Fig. 1: Iteration 1C](imgs/1_3.jpg)
 
