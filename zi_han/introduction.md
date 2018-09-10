@@ -21,6 +21,21 @@ From the plotted mapping, its determined relative density is visualised with a c
 
 Various organisational methods and road widths were considered when dividing the plot. We came out with 3 types of grid distribution and gave them an evaluation in terms of its density, road organisation, avaliability of green spaces and its implications on view and facings. This is to understand the benefits of each apportionment method and bring its lessons forward to a scheme that is “bent and heterogeneous”.
 
+![Figure 5. Comparison of plot distribution types](./imgs/grid table.png)
+
+## 2.4.	Standards for simulations
+
+Subsequent simulations will be based on the following standards
+
+For good windows, 
+*view_threshold>0.4 
+*daylight_threshold>0.1 
+*solar_threshold<0.2 
+
+For good building thresholds, 
+*passive_threshold>0.5 
+*good_window_threshold>0.1
+
 # Introduction 3
 ## 3.1
 1. one
