@@ -28,8 +28,8 @@ Figure 5.Comparison of plot distribution types
 
 ## 2.4.	Standards for simulations
 
-```
 Subsequent simulations will be based on the following standards:
+```
 Good window thresholds
    View threshold > 0.4
    Daylight threshold > 0.1
