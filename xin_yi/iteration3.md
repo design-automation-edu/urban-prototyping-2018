@@ -28,13 +28,13 @@ __Parameters__
 * Institutional storey height: 4m
 * Roads: xx m
 * Attribute composite blending weights (Institutional Blocks)
-  * air path: 0.33
-  * AYE: 0.40
-  * Utown: 0.95
+  * air path: 0.50
+  * AYE: 0.75
+  * Utown: 0.60
 * Attribute composite blending weights (Institutional Blocks)
-  * air path: 0.
-  * AYE: 0.
-  * MRT stations: 0.
+  * air path: 0.50
+  * AYE: 0.35
+  * MRT stations: 0.65
 
 __Evaluation of Results__
 
