@@ -12,6 +12,8 @@ Dividing site into urban blocks > Forming plots > Specifying relative density fo
 An image: ![gras](img/urban-prototyping-2018/xin_yi/imgs/01generativeprocess.PNG)
 An image: ![Generative process](img/https://raw.githubusercontent.com/chongxinyi/urban-prototyping-2018/master/xin_yi/imgs/01computationallogic1.png)
       urban-prototyping-2018/xin_yi/imgs/01generativeprocess.PNG
+
+![text label](./imgs/urban-prototyping-2018/xin_yi/imgs/01generativeprocess.PNG)
     
 
 __Computational Process__
