@@ -28,13 +28,13 @@ Figure 5.Comparison of plot distribution types
 
 ## 2.4.	Standards for simulations
 
-Subsequent simulations will be based on the following standards
-
-For good windows, 
-* view_threshold>0.4 
-* daylight_threshold>0.1 
-* solar_threshold<0.2 
-
-For good building thresholds, 
-* passive_threshold>0.5 
-* good_window_threshold>0.1
+```
+Subsequent simulations will be based on the following standards:
+Good window thresholds
+   View threshold > 0.4
+   Daylight threshold > 0.1
+   Solar threshold < 0.2
+Good building thresholds
+   Passive threshold > 0.5
+   Good window threshold > 0.1
+```
