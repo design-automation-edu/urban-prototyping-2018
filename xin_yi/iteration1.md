@@ -4,20 +4,24 @@ For the first iteration, the different “tiers” of the urban block are genera
 
 
 __Generative Process__
+
 This is generated through the following process:
 
 Dividing site into urban blocks > Forming plots > Specifying relative density for each required program > Make building > Evaluate building
 
 __Computational Process__
+
 (do note that diagrams are only a graphical representation and not accurate to scale)
 
 __Parameters__
+
 * Residential storey height: 3m
 * Commercial storey height: 5m
 * Institutional storey height: 4m
 * Roads: 8m
 
 __Changes to Iteration__ 
+
 * increasing the street width (thereby improving the view factor and daylight factor)
   * changed polyexpand setting: offset (inside) from 4m to m
 * rotating building angle to better align with east-west orientation, for better daylight
