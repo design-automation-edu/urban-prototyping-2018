@@ -31,6 +31,10 @@ Take this commercial building as an example, all windows have not reached the fi
 
 ![gras](imgs/I2P10.jpg)
 
+So Under this urban morphology,most buildings can meet up with the higher standard. 
+
+The road is wide,and public spaces are evenly distributed to each apartment block.Although the commercial cannot get enough daylight, it is still acceptable for not having too much sunshine in such non-residential structure.The good window ratio of them does not reach 0.3, yet most of them are above 0.25, which is still a rather high value.
+
 ## P.S. Simulation of good and bad buildings using lower threshold
 
 ![gras](imgs/I2P9.jpg)
