@@ -29,7 +29,7 @@ The broad space between buildings can ensure a good amount of lighting for most 
 
 Take this commercial building as an example, all windows have not reached the final lighting standard,although the difference is quite low. And all other conditions are met.
 
-![gras](imgs/I2P7.jpg)
+![gras](imgs/I2P10.jpg)
 
 ## P.S. Simulation of good and bad buildings using lower threshold
 
