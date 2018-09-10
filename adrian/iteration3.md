@@ -1,7 +1,7 @@
 # Iteration 3
 
 
-•	![Fig. 1: Plot Overview](imgs/fig 3a_plot division.JPG) 
+![Fig. 1: Plot Overview](imgs/fig 3a_plot division.JPG) 
 
 
 For Iteration 3, I wanted to introduce ways in which the site can connect to adjacent estates as well as within internal clusters. Here the plot is divided into 4 key clusters.
@@ -14,4 +14,7 @@ With these plot zones in mind, I then proceeded to introduce typologies within e
 
 
 
-•	![Fig. 1: This is your caption](imgs/fig 3b_overall view.JPG) 
+![Fig. 1: This is your caption](imgs/fig 3b_overall view.JPG) 
+![Fig. 1: This is your caption](imgs/Fig 3d_rotating building and solar.jpg) 
+
+
