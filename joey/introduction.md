@@ -8,4 +8,7 @@ URA’s concept in bringing back the ‘kampung spirit’ in Kampung Admiralty r
 
 ## Requirements
 Some parameters of the project established are as follows: 
+| <b>No. of Persons</b>  | 75 000 |
+| Floor Area per Person  | 35m2  |
+| Total Floor Area  | 2.6 million m2  |
 
