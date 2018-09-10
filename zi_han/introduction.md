@@ -12,16 +12,19 @@ The plot of the project site between AYE and Dover road. We are interested to pl
 For the following iterations and simulations, a different set of criteria will be used to determine the density of residential and commercial developments to be planned within the plot. The main criteria that determines this density is its proximity to MRT stations in which it will have a positive relationship, and its proximity to AYE in which it will have a negative relationship with. 
 
 ![Figure 3. Relative densities based on MRT and AYE](./imgs/comm_vs_resi_rd_density.png)
+Figure 3. Relative densities based on MRT and AYE
 
 From the plotted mapping, its determined relative density is visualised with a colour density map shown in Figure 3. The redder/warmer spots show higher density of population while the bluer/cooler spots show lower population and hence lower density of developments.
 
 ## 2.3.	Plot Distribution
 
 ![Figure 4.Plot distribution options](./imgs/plot_types.png)
+Figure 4.Plot distribution options
 
 Various organisational methods and road widths were considered when dividing the plot. We came out with 3 types of grid distribution and gave them an evaluation in terms of its density, road organisation, avaliability of green spaces and its implications on view and facings. This is to understand the benefits of each apportionment method and bring its lessons forward to a scheme that is “bent and heterogeneous”.
 
 ![Figure 5.Comparison of plot distribution types](./imgs/grid_table.PNG)
+Figure 5.Comparison of plot distribution types
 
 ## 2.4.	Standards for simulations
 
