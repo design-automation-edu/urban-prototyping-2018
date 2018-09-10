@@ -126,9 +126,9 @@
   * [Introduction](zi_han/introduction.md)
   * [Iteration 1](zi_han/iteration1.md)
   * [Iteration 2](zi_han/iteration2.md)
-  * [Iteration 3](zi_han/iteration3a.md)
-  * [Iteration 3](zi_han/iteration3b.md)
-  * [Iteration 3](zi_han/iteration3c.md)
+  * [Iteration 3a](zi_han/iteration3a.md)
+  * [Iteration 3b](zi_han/iteration3b.md)
+  * [Iteration 3c](zi_han/iteration3c.md)
   * [Discussion](zi_han/discussion.md)
   
 * [Title For jing_si's Project](jing_si/overview.md)
