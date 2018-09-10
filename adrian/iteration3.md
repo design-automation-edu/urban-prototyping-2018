@@ -1,9 +1,9 @@
 # Iteration 3
 
 
-•	![Fig. 1: Plot Overview](imgs/fig 3a_plot division.PNG) 
+•	![Fig. 1: Plot Overview](imgs/figure 3g.jpg) 
 
-
+![view_factor](imgs/2_4.PNG)
 
 For Iteration 3, I wanted to introduce ways in which the site can connect to adjacent estates as well as within internal clusters. Here the plot is divided into 4 key clusters.
 Work-Live Zone is located nearest to the respective MRT Stations, facilitating residents who take the public transport.
