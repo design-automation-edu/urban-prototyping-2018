@@ -122,11 +122,13 @@
   * [Iteration 3](yih_xi/iteration3.md)
   * [Discussion](yih_xi/discussion.md)
   
-* [Title For zi_han's Project](zi_han/overview.md)
+* [Bent and Heterogeneous Urbanscape](zi_han/overview.md)
   * [Introduction](zi_han/introduction.md)
   * [Iteration 1](zi_han/iteration1.md)
   * [Iteration 2](zi_han/iteration2.md)
-  * [Iteration 3](zi_han/iteration3.md)
+  * [Iteration 3](zi_han/iteration3a.md)
+  * [Iteration 3](zi_han/iteration3b.md)
+  * [Iteration 3](zi_han/iteration3c.md)
   * [Discussion](zi_han/discussion.md)
   
 * [Title For jing_si's Project](jing_si/overview.md)
