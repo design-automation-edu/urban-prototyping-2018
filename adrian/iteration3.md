@@ -15,6 +15,9 @@ With these plot zones in mind, I then proceeded to introduce typologies within e
 
 
 ![Fig. 1: This is your caption](imgs/fig 3b_overall view.JPG) 
+
+
+
 ![Fig. 1: This is your caption](imgs/Fig 3d_rotating building and solar.jpg) 
 
 
