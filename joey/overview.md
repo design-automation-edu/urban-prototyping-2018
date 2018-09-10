@@ -6,4 +6,4 @@ The Ridge is located at a 75ha plot of land at Dover and is conceptualised as a 
 
 Urban prototyping studies were conducted with the aid of Houdini. As the impetus of the project focuses on the liveability of inhabitants, iterations were generated and evaluated based on 3 'liveability' assessment: 1. Daylight Factor 2. Solar Factor and 3. View Factor. The iterative process culminates in the identification of 'good' buildings based on certain threshold values. The exercise culminates in a largely successful iteration (Model 3b) based on lessons extracted from previous iterations. The Ridge is an example of the benefits stakeholders gain when assessment and planning is done at an early stage. 
 
-Keywords: <em>Liveability, intensification, daylight factor, solar factor, view factor.</em>
+<strong>Keywords:</strong> <em>Liveability, intensification, daylight factor, solar factor, view factor.</em>
