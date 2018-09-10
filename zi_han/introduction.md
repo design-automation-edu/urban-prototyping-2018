@@ -28,13 +28,13 @@ Various organisational methods and road widths were considered when dividing the
 Subsequent simulations will be based on the following standards
 
 For good windows, 
-*view_threshold>0.4 
-*daylight_threshold>0.1 
-*solar_threshold<0.2 
+* view_threshold>0.4 
+* daylight_threshold>0.1 
+* solar_threshold<0.2 
 
 For good building thresholds, 
-*passive_threshold>0.5 
-*good_window_threshold>0.1
+* passive_threshold>0.5 
+* good_window_threshold>0.1
 
 # Introduction 3
 ## 3.1
