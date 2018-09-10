@@ -3,7 +3,7 @@
 This chapter seeks to explore the site context of the one-north district, finding main connections to integrate current roads and identifying important attractor and repeller points in the vicinity that would affect the planning of the urban scape. Also, three different urban grids will be explored in distributing the plot.
 
 ![Figure 2. Plot location and adjacent roads](./imgs/site.png) 
-
+Figure 2. Plot location and adjacent roads
 
 ## 2.1.	Main connections
 The plot of the project site between AYE and Dover road. We are interested to plan this plot as a mixed-used commercial and residential development. Circulation into and within the site was an important first step. The main access to this plot is through Dover road. Continuing from Dover rise and Dover avenue, we extend the roads into our site. Across the plot, we planned for a green connector from college avenue to the end of dover road, connecting the NUS campus to the one-north R&D and High-tech cluster.
