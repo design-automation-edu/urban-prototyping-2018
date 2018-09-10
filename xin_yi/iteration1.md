@@ -8,9 +8,9 @@ __Generative Process__
 This is generated through the following process:
 
 Dividing site into urban blocks > Forming plots > Specifying relative density for each required program > Make building > Evaluate building
-An image: ![gras](img/urban-prototyping-2018/xin_yi/imgs/01generativeprocess.PNG)
-An image: ![gras](img/urban-prototyping-2018/xin_yi/imgs/01generativeprocess.PNG)
 
+An image: ![gras](img/urban-prototyping-2018/xin_yi/imgs/01generativeprocess.PNG)
+An image: ![Generative process](img/https://raw.githubusercontent.com/chongxinyi/urban-prototyping-2018/master/xin_yi/imgs/01computationallogic1.png)
       urban-prototyping-2018/xin_yi/imgs/01generativeprocess.PNG
     
 
