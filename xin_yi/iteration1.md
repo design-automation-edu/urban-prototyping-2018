@@ -1,5 +1,4 @@
-
-# Iteration 1 - MORPHOLOGY OF URBAN BLOCK
+# Iteration 1 - Morphology of Urban Block
 
 For the first iteration, the different “tiers” of the urban block are generated in order to form the podium + tower typology.
 
