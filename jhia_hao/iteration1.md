@@ -1,11 +1,10 @@
 
-# Iteration 1
+# Iteration 1: Urban Form (Plot Size)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+_2.1 Iteration 1A: Small Plots_
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Fig. 1: Iteration 1A](imgs/1_1.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In this mini-iteration, both Dover and AYE precinct are split into 40 segments, generating a mixture of slab and point blocks for the residential, industrial, office and commercial function. They range from low-rise 3-storey blocks to 10-storey blocks with commercial being the lowest (yellow) and residential the highest (red). These blocks are lined along the meandering pedestrianized corridor. Overall, it is a carpet of low-rise to mid-rise blocks that follows the sensual curves of the pedestrianized corridor.
 
-
-
+Overall, it has a majority of bad buildings. This is largely due to view obstructions caused by the close proximity of the blocks, resulting in a high concentration of bad windows amongst the blocks. However, the closely packed slab blocks are good for shielding direct sunlight, thus registered acceptable range of solar factor. 
