@@ -1,3 +1,5 @@
+# Iteration 3 Regularized Grid with Primary and Secondary Roads (Bent and Heterogeneous)
+
 ## Iteration C
 In this iteration, a standard tower typology is explored to investigate its efficiency, should developers be interested to build a tower without a central courtyard.
 
