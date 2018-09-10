@@ -18,3 +18,7 @@ With research and education as the main backbone of the program, the floor area 
 | Residential  | Offices / Education | Retail  | Clean-tech Industrial  | Total Floor Area per Person  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 22m2  | 8m2  | 2 m2  | 3 m2  | 35 m2  |
+
+
+| No. of persons | ----- | xxxxx |
+| No. of persons | ----- | xxxx  | 
