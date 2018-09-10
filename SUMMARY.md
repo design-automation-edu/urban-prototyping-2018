@@ -84,7 +84,8 @@
   * [Iteration 1a](lisa/iteration1a.md)
   * [Iteration 1b](lisa/iteration1b.md)
   * [Iteration 2](lisa/iteration2.md)
-  * [Iteration 3](lisa/iteration3.md)
+  * [Iteration 3a](lisa/iteration3a.md)
+  * [Iteration 3b](lisa/iteration3b.md)
   * [Discussion](lisa/discussion.md)
   
 * [Title For chung_yan's Project](chung_yan/overview.md)
