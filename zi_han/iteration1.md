@@ -37,33 +37,8 @@ Figure 7. Iteration 1 Building simulations
 * Good window ratio = 92.56%
 
 ## 3.3.	Evaluation
+
 While this iteration proved a high number of good buildings, this iteration has a high number of bad windows. This is due to the way the grid had been laid out, with irregular 4 to 6-sided polygon blocks with windows facing closely to adjacent blocks. This in turn also affects the view factor, giving it xxx.
 From an Urban morphology point of view, the irregular 4 to 6-sided polygon blocks are less desirable for land developers to purchase and build. Also, it leads to impractical road situations with junctions of 3 and 5 roads.
 In the next iteration, the plot will be divided more regularly with the Manhattan grid so as to improve view factors and hence more good window.
 
-
-
-
-
-## 2.3.	Plot Distribution
-
-![Figure 4.Plot distribution options](./imgs/plot_types.png)
-Figure 4.Plot distribution options
-
-Various organisational methods and road widths were considered when dividing the plot. We came out with 3 types of grid distribution and gave them an evaluation in terms of its density, road organisation, avaliability of green spaces and its implications on view and facings. This is to understand the benefits of each apportionment method and bring its lessons forward to a scheme that is “bent and heterogeneous”.
-
-![Figure 5.Comparison of plot distribution types](./imgs/grid_table.PNG)
-Figure 5.Comparison of plot distribution types
-
-## 2.4.	Standards for simulations
-
-Subsequent simulations will be based on the following standards
-
-For good windows, 
-* view_threshold>0.4 
-* daylight_threshold>0.1 
-* solar_threshold<0.2 
-
-For good building thresholds, 
-* passive_threshold>0.5 
-* good_window_threshold>0.1
