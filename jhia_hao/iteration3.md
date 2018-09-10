@@ -1,4 +1,4 @@
-# 3. Iteration 3: Urban Typology (U-shaped blocks)
+# 3 Iteration 3: Urban Typology (U-shaped blocks)
 
 __3.1 Iteration 3A: Thick U-shaped blocks__
 
