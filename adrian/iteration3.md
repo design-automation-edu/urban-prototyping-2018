@@ -1,7 +1,7 @@
 # Iteration 3
 
 
-•	![Fig. 1: Plot Overview](imgs/fig3a_plot division.jpg) 
+•	![Fig. 1: Plot Overview](imgs/fig 3a_plot division.JPG) 
 
 
 
