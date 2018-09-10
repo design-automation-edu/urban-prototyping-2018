@@ -7,8 +7,15 @@ The impetus of the project will focus on the liveability of inhabitants. Beginni
 URA’s concept in bringing back the ‘kampung spirit’ in Kampung Admiralty reminds us that the well-being of inhabitants should remain at the core of the design process. There are many precedence in conducting meaningful feasibility studies. On the other hand, the liveability of residents play second fiddle to economic interests and are always assessed after a few years of occupation. This retrospective approach of identifying flaws and faults in design decisions is largely futile. 
 
 ## Requirements
-Some parameters of the project established are as follows: 
+Some parameters of the project established are as follows:
+
+| No. of Persons  | 75 000 |
+| ------------- | ------------- |
+| Content Cell  | 35m2  |
+| Content Cell  | 2.6 million m2  |
+
 | <b>No. of Persons</b>  | 75 000 |
+|-----------|-----------|
 | Floor Area per Person  | 35m2  |
 | Total Floor Area  | 2.6 million m2  |
 
