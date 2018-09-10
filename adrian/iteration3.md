@@ -1,7 +1,7 @@
 # Iteration 3
 
 
-Figure 3a: Plot Allocation
+•	![Fig. 1: Plot Overview](imgs/fig 3a_plot division.jpg) 
 
 
 For Iteration 3, I wanted to introduce ways in which the site can connect to adjacent estates as well as within internal clusters. Here the plot is divided into 4 key clusters.
