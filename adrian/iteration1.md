@@ -4,7 +4,7 @@
 In iteration 1, programs are arranged responding to its adjacent programs and transport amenities.
  ![](imgs/1a.JPG) 
 
-<p align="center"> _Figure 1a: Iteration 1 Plot Division in Relation to adjacent MRT Stations_
+<p align="center"> _Figure 1a: Iteration 1 Plot Division in relation to adjacent MRT Stations_
 
 
 **Industrial** 
