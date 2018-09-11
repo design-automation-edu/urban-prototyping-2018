@@ -6,10 +6,9 @@ Figure 1.0 Iteration 1
 
 For the first iteration, the different “tiers” of the urban block are generated in order to form the podium + tower typology.
 
-![Urban block morphology and Street canyon](imgs/01streetcanyon.jpg)
+<img src="imgs/01streetcanyon.jpg" width = "300"> 
 
-Figure 1.1 Community and recreation space within atrium and podium blockprocess for iteration 2
-
+Figure 1.1 Urban block morphology and Street canyon
 
 ### Generative Process
 
@@ -38,8 +37,8 @@ Figure 1.3 Computational process for iteration 1
      * changed polyexpand setting: offset (inside) from 4m to 6m
 * rotating building angle to better align with east-west orientation, for better daylight
      * done by editing scale of primitive of both the podium plots: x:0.6, y:0.4, z:1
-      
-![Widening street width and Rotating building angle](imgs/01stwidthanglerotate.jpg)
+     
+<img src="imgs/01stwidthanglerotate.jpg" width = "450"> 
 
 Figure 1.4 Widening street width and Rotating building angle
 
