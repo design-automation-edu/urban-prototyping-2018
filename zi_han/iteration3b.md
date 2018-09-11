@@ -46,5 +46,5 @@ Figure 13b. Iteration 3b Building simulations
 ### Evaluation
 With reduced width and depth of residential towers, view factor and good window improved significantly. Good window has increased to 25.35% from its previous 19.74%. Good building has also increased to 83.68%, up from its previous 63.23%.
 
-The low perentage of good window here is still low at 25.35%. However, this is due to the block typology of a courtyard residential tower. All inner courtyard facing windows are considered to be unpleasant in this simulation. In reality, inner facing windows are to be considered desirable as the courtyard was meant be filled with greenery and landscape. Hence, the number of good window would be significantly higher.
+The low percentage of good window here is still low at 25.35%. However, this is due to the block typology of a courtyard residential tower. All inner courtyard facing windows are considered to be unpleasant in this simulation. In reality, inner facing windows are to be considered desirable as the courtyard was meant be filled with greenery and landscape. Hence, the number of good windows would be significantly higher.
 
