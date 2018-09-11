@@ -27,19 +27,19 @@ Residential: 50m^2
 <p align="center"><img src="imgs/iteration2_GB.jpg" width = "1000"> 
 <p align="center"> 4 analysis of good buildings
 
-It is visible from the analysis that the majority of the good buildings are the residential blocks. This is in line with the good results from the passive ratio and daylight factor. However, in terms of the solar factor, it is exposed to high amount of solar radiation from the east-west facing windows, resulting in some "bad" readings of the buildings. 
+In addition to the "good" residential buildings, there is a visible amount of offices that are "good" as well. This is in reaction to the localized greens on each plot that allows for greater passive ratio. That being said, the solar factor has also visibly increased due to the exposure to solar element in "empty" green plots. It has always been a balance in terms of allowing for dayighting and passivity in contrast to the solar radiation that each building will be exposed to. Overall, the percentage of "good" buildings has increased to 50.4% in comparison to iteration 1.  
 
 ````
-Percentage of Good Buildings: 38.6% 
+Percentage of Good Buildings: 50.4% 
 ````
 
-<p align="center"><img src="imgs/iteration1_GW.jpg" width = "1000"> 
+<p align="center"><img src="imgs/iteration2_GW.jpg" width = "1000"> 
 <p align="center"> 4 analysis of good windows
 
-The high percentage of good windows came as a surprise due to the high amount of solar radiation that high-rised buildings would be exposed to. Overall, the view factor was positive, as well as the good window ratio. 
+Unexpectedly, as what we observe from iteration 1, the high percentage of "good" windows has still maintained although statistically, it has decreased by 1%. The   
 
 ````
-Percentage of Good Windows: 83.9% 
+Percentage of Good Windows: 82.6% 
 ````
 
 > <p align="center"><img src="imgs/2_overall.jpg" width = "1000">
