@@ -3,3 +3,7 @@
 **AU Kah Thang Adrian**
 
 Abstract: My project seeks to develop the proposed site to fulfill the growing programmatic requirements and additional spaces required by adjacent neighbours of National University of Singapore and one-north. Commercial, residential, office and industrial needs were first identified and then stratified across the site. The first few iteration looks into sufficient provision of land for the respective programs as well as hybrid program mix that provides additional benefits for users. Subsequently, through several iterations, parameters were modified with the aim of achieving better land use as well as more optimal building typologies. The final iteration takes into consideration accessibility to the site as well as navigation within the site. Strategies such as plot layout, insertion of primary and secondary roads were utilised to achieve an overall better usability and accessibility of the site. Thereby reflectic a more holistic considerations for transportation needs, wayfinding and access to public spaces.
+
+__Iteration 1:__ Stratification of programs to MRT proximity and AYE buffer.
+__Iteration 2:__ Introduce strip plot and vehicular circulation strategy.
+__Iteration 3:__ Redefined strip plot by reducing excessive industrial plots. Focus on connecting adjacent plots of programs.
