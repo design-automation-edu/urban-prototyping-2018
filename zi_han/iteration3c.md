@@ -28,13 +28,16 @@ Figure 14. Block typology and Urban morphology for Iteration 3c
 
 ### Building Simulation
 
-![Figure 13. Iteration 3c Building simulations](./imgs/eval_3c.png)
-Figure 13. Iteration 3c Building simulations
+![Figure 13. Iteration 3c Building simulations](./imgs/eval_3cgb.png)
+Figure 13a. Iteration 3c Building simulations
 
 #### Good Building = 76.69%
 * Daylight factor = 62.18%
 * Passive ratio = 98.36%
 * Solar Factor = 82.18% 
+
+![Figure 13. Iteration 3c Building simulations](./imgs/eval_3cgw.png)
+Figure 13b. Iteration 3c Building simulations
 
 #### Good Window =36.95%
 * View Factor = 62.82%
