@@ -8,7 +8,7 @@
  ![2b Iteration 2 overview](imgs/2b.JPG) 
 
 <p align="center"> _Figure 2b: Iteration 2 overview_
-  
+<p align="center"> _(Grey: Industrial, Yellow: Residential, Red: Retail, Blue: Offices, Green: Parks)_
   
 For Iteration 2 I wanted to devise a clearer plot allocation that also suggest circulation routes within the site (Figure 2a). The central zone forms a ring road, functioning as the main circulation path for vehicular traffic. Secondary roads branch out from the central main road, towards the outer ring of programs. This filtration of traffic in a radial pattern creates specific parcels of lands around the periphery that contains programs related to existing programs on site.
 The overview of the building typologies displays building forms laid out in a band strip on site (Figure 2b).
