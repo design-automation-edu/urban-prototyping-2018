@@ -1,6 +1,6 @@
 # Iteration 1 - Morphology of Urban Block
 
-![Iteration 1](imgs/h010site.png)
+![Iteration 1](imgs/h11site2.PNG)
 
 Figure 1.0 Iteration 1
 
@@ -45,15 +45,19 @@ Figure 1.4 Widening street width and Rotating building angle
 
 (do note that diagrams are only a graphical representation and not accurate to scale)
 
-![Iteration 1a and iteration 1b](imgs/hr11s.jpg)
+<img src="imgs/hc11.png" width = "400"> 
 
 Figure 1.5 Iteration 1a and iteration 1b
 
 ### Evaluation of Results
 
-![Comparison between Iteration 1a and iteration 1b](imgs/hr11.jpg)
+![Comparison between Iteration 1a and iteration 1b](imgs/hit11.png)
 
-Figure 1.5 Comparison between Iteration 1a and iteration 1b
+Figure 1.5 Iteration 1a results
+
+![Comparison of results between Iteration 1a and iteration 1b](imgs/hc11.png)
+
+Figure 1.6 Comparison of results between Iteration 1a and iteration 1b
 
 WRITE THIS PORTION AGAIN - refered to the wrong diagram.
 
