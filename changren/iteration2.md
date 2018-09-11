@@ -15,10 +15,18 @@ The green space together with the neighborhood segment the lane boundary effecti
 
 ![gras](imgs/I3P2.jpg)
 
-![gras](imgs/I3P6.jpg)
+![gras](imgs/I3P6.png)
 
+## Evaluation
 
+![gras](imgs/I3P11.png)
+
+Some residential buildings have not reached the standard, mainly because of the height. For having commercial buildings underneath, the residences are higher than it should be.
+
+![gras](imgs/I3P12.png)
+
+Again, most of the residences' daylight and view factor are above the threshold.
 
 ## Improvement
-Some residential buildings have not reached the standard, mainly because the height is too high, resulting in insufficient spacing. This is easy to solve and does not need to change the building pattern. For the unsatisfactory commercial part, another arrangement needs to be considered, provided that each residential building still needs a commercial building around.
+Try to decrease the height of recidences, which is helpful for lighting and view. or the unsatisfactory commercial part, another arrangement needs to be considered, provided that each residential building still needs a commercial building around.
 
