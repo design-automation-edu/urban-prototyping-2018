@@ -1,7 +1,7 @@
 
 # Iteration 1
 
-## Three Distinct Clusters 
+### Three Distinct Clusters 
 
 ![](imgs/01-1.jpg)
 <p align="center"> *Three Distinct Clusters*
