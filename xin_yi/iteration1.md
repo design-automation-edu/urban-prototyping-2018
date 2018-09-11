@@ -52,7 +52,10 @@ Figure 1.5 Iteration 1a and iteration 1b
 ### Evaluation of Results
 
 ![Comparison between Iteration 1a and iteration 1b](imgs/hr11.jpg)
+
 Figure 1.5 Comparison between Iteration 1a and iteration 1b
+
+WRITE THIS PORTION AGAIN
 
 Significant increase in number of good windows in tower blocks, owing to change in angle of building's long axis (affect mainly daylight factor and solar factor, less so view factor).
 
