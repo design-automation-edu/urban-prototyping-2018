@@ -2,7 +2,7 @@
 
 This iteration features simulation based on the same block typology tested on Type 2 Manhattan grid as described in the introduction of the chapter. Iteration 2 features the same typology where the residential tower sits on the commercial podium block.
 
-![Figure 8. Block typology and Urban morphology for Iteration 2](./imgs/iteration_2.png)
+![Figure 8. Block typology and Urban morphology for Iteration 2](./imgs/iteration_2v2.png)
 Figure 8. Block typology and Urban morphology for Iteration 2
 
 ## Set-up 
