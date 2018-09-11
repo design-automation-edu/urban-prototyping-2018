@@ -1,6 +1,6 @@
 # Introduction
 
-![Proposed Site](imgs/00.jpg)
+![](imgs/00.jpg)
 <p align="center"> *Proposed Site*
 
 
