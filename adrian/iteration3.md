@@ -24,23 +24,27 @@ Programs include residential units and office blocks. High Rise residential towe
 ![Fig. 3c: Residential Towers and Good Window Results](imgs/3c.jpg) 
 <p align="center"> _Figure 3c: Residential Towers and Good Window Results_
 
-![Fig. 3d: Revised Residential Towers and Good Window Results](imgs/3d.JPG) 
-
+![Fig. 3d: Revised Residential Towers and Good Window Results](imgs/3d.jpg) 
+<p align="center"> _Figure 3d: Revised Residential Towers and Good Window Results_
 
 
 __Research and Development Zone__
-![Fig. 3e: Research and Development Clusters](imgs/3e.JPG) 
+![Fig. 3e: Research and Development Clusters](imgs/3e.jpg) 
+<p align="center"> _Figure 3e: Research and Development Clusters_
+ 
 Key Programs include Industrial warehouse and office spaces for researchers, forming a symbiotic relationship between production and research activities. The industrial complex have a higher floor height of 10m and the form a ‘U’ shape facing AYE. The office blocks encloses the ‘U’ form, allowing workers to transit from production to office spaces and vice versa.
 
-a
+
 
 __Collaboration Zone__
-![Fig. 3f: Collaboration Zone](imgs/3f.JPG) 
+![Fig. 3f: Collaboration Zone](imgs/3f.jpg) 
+<p align="center"> _Figure 3f: Collaboration Zone_
+ 
 In the collaboration zone, programs include retail, office and short-term accommodation. Here, the housing tower typologies remain consistent, however they follow the arrangement of a spine. Extending across the length of the entire site, intermixed with retail and green spaces. This zone aims to foster interactions and exchange of information for the various parties on site. Therefore the zone is accessible from all sides of the site, as well as directly connecting to NUS. 
 
 
 
 __Evaluation Results__
-![Fig. 3g: Optimising for Good Building](imgs/3g.JPG) 
-
+![Fig. 3g: Optimising for Good Building](imgs/3g.jpg) 
+<p align="center"> _Figure 3g: Optimising for Good Building_
 Overall, Iteration 3 displayed an improved good building results with optimal results for residential, retail and office typologies. Some industrial buildings experience shortfall in view factor due to its compact footprint and close proximity. However due to the nature of the programs being within controlled enclose environment, the impact could be negligible.
