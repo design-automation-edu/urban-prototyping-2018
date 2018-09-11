@@ -12,7 +12,7 @@ The greens are allocated in 2 ways: one of the subplot in the urban plot that ma
 
 ````
 Road Width: 20m
-Total No. of Buildings: 801
+Total No. of Buildings: 774
 ````
 
 <p align="center"><img src="imgs/2_plotallocation.jpg" width = "600"><img src="imgs/3_plotallocation.jpg" width = "600">  
@@ -30,7 +30,7 @@ Residential: 50m^2
 In addition to the "good" residential buildings, there is a visible amount of offices that are "good" as well. This is in reaction to the localized greens on each plot that allows for greater passive ratio. That being said, the solar factor has also visibly increased due to the exposure to solar element in "empty" green plots. It has always been a balance in terms of allowing for dayighting and passivity in contrast to the solar radiation that each building will be exposed to. Overall, the percentage of "good" buildings has increased to 50.4% in comparison to iteration 1.  
 
 ````
-Percentage of Good Buildings: 50.4% 
+Percentage of Good Buildings: 52.2% 
 ````
 
 <p align="center"><img src="imgs/iteration2_GW.jpg" width = "1000"> 
@@ -42,7 +42,7 @@ Unexpectedly, as what we observe from iteration 1, the high percentage of "good"
 Percentage of Good Windows: 82.6% 
 ````
 
-> <p align="center"><img src="imgs/2_overall.jpg" width = "1000">
+> <p align="center"><img src="imgs/2_overall_new.jpg" width = "1000">
 >   
 > ### Evaluation 
 > This iteration had purposefully allocated localized subplots within each urban block for greens. This is to improve the views as well as the daylight factor. One huge contrast that has been highlighted in both iteration 1 and 2 is that while simulation has proven that the typology has provided positive view factor and good window factor, it becomes queer that the percentage of "good" window is so drastically different in result. 
