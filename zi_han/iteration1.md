@@ -38,7 +38,7 @@ Figure 7. Iteration 1 Building simulations
 
 ## Evaluation
 
-While this iteration proved a high number of good buildings, this iteration has a high number of bad windows. This is due to the way the grid had been laid out, with irregular 4 to 6-sided polygon blocks with windows facing closely to adjacent blocks. This in turn also affects the view factor, giving it xxx.
+While this iteration proved a high number of good buildings, this iteration has a high number of bad windows. This is due to the way the grid had been laid out, with irregular 4 to 6-sided polygon blocks with windows facing closely to adjacent blocks. This in turn also affects the view factor, giving it only 60.97% of windows within the acceptable range.
 From an Urban morphology point of view, the irregular 4 to 6-sided polygon blocks are less desirable for land developers to purchase and build. Also, it leads to impractical road situations with junctions of 3 and 5 roads.
 In the next iteration, the plot will be divided more regularly with the Manhattan grid so as to improve view factors and hence more good window.
 
