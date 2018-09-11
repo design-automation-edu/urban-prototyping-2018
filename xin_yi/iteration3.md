@@ -2,6 +2,8 @@
 
 ![Iteration 3](imgs/h31site2.PNG)
 
+<img src="imgs/h31sitelongele.PNG" height = "230"> <img src="imgs/h31sitetransele.PNG" height = "230">
+
 Figure 3.0 Iteration 3
 
 Various attributes are mapped in as parameter within the modelling network. 
@@ -60,7 +62,7 @@ Figure 3.5 Composited attribute effect on RD. (Left: Institutional buildings. Ri
 
 ### Evaluation of Results
 
-<img src="imgs/hit23.png" width = "400"> 
+<img src="imgs/hit12.png" width = "400"> 
 
 Figure 3.6 Iteration 2 and iteration 3
 
