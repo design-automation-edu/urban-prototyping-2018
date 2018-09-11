@@ -3,7 +3,7 @@
 ## Iteration A
 This iteration features simulation based on the same block typology tested on Type 3 Regularized grid with primary and secondary roads, as described in the introduction of the chapter. Iteration 3A features the same typology where the residential tower sits on the commercial podium block.
 
-![Figure 10. Block typology and Urban morphology for Iteration 3a](./imgs/iteration_3a.png)
+![Figure 10. Block typology and Urban morphology for Iteration 3a](./imgs/iteration_3av2.png)
 Figure 10. Block typology and Urban morphology for Iteration 3a
 
 ### Set-up
