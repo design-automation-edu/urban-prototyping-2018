@@ -55,7 +55,7 @@ Figure 1.5 Iteration 1a and iteration 1b
 
 Figure 1.5 Comparison between Iteration 1a and iteration 1b
 
-WRITE THIS PORTION AGAIN
+WRITE THIS PORTION AGAIN - refered to the wrong diagram.
 
 Significant increase in number of good windows in tower blocks, owing to change in angle of building's long axis (affect mainly daylight factor and solar factor, less so view factor).
 
