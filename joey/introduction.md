@@ -32,16 +32,18 @@ With the existing site conditions in mind, a concept plan in relation to surroun
 ![Fig. 4: Conceptual zoning plan based on parameters](imgs/CONCEPT.jpg)
 
 The design goals are:
-  **1.  Clean-Tech Industrial will be located along AYE as it is an undesirable source of air and noise pollution.**
+**1.  Clean-Tech Industrial will be located along AYE as it is an undesirable source of air and noise pollution.**
 
-  **2.  Residential spaces will be located along Dover Road to be in close proximity to existing MRT stations (Dover MRT, One-North MRT and Kent Ridge MRT). These spaces are located in the middle of Offices/Education and Industrial spaces as they are to be shared among either users.**
+**2.  Residential spaces will be located along Dover Road to be in close proximity to existing MRT stations (Dover MRT, One-North MRT and Kent Ridge MRT). These spaces are located in the middle of Offices/Education and Industrial spaces as they are to be shared among either users.**
 
-  **3.  Residents in the area must be within comfortable walking distance to existing overhead bridges so that there is a continuous flow instead of a disconnection created by AYE.**
+**3.  Residents in the area must be within comfortable walking distance to existing overhead bridges so that there is a continuous flow instead of a disconnection created by AYE.**
 
 To guide the evaluation process, each of the iterations will be tested against the following ‘liveable’ conditions:
 
-  **a.  Daylight Factor - assesses the quality of natural lighting (sunlight) on a surface**
-  **b.  Solar Factor - assesses the amount of heat passing through a surface**
-  **c.  View Factor - assesses the availability and quality of vistas**
+**a.  Daylight Factor - assesses the quality of natural lighting (sunlight) on a surface**
+
+**b.  Solar Factor - assesses the amount of heat passing through a surface**
+
+**c.  View Factor - assesses the availability and quality of vistas**
 
 In conclusion, the study identifies ‘good’ buildings in each urban massing iteration. In addition to the liveable conditions mentioned above, ‘good’ buildings must adhere to the design goals established.
