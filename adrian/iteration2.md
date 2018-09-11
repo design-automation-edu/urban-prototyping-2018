@@ -36,7 +36,7 @@ Arranged in strips, the industrial and commercial clusters connect both ends of 
 
 # Performance Analysis
 
-![](imgs/2e.JPG) 
+![](imgs/2e.jpg) 
 
 <p align="center"> _Figure 2e: Good Window Factors_
  
