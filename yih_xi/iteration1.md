@@ -28,7 +28,7 @@ Residential: 50m^2
 <p align="center"><img src="imgs/iteration1_GB.jpg" width = "1000"> 
 <p align="center"> 4 analysis of good buildings
 
-It is visible from the analysis that the majority of the good buildings are the residential blocks. This is in line with the good results from the passive ratio and daylight factor. However, in terms of the solar factor, it is exposed to high amount of solar radiation resulting in some "bad" readings of the buildings. 
+It is visible from the analysis that the majority of the good buildings are the residential blocks. This is in line with the good results from the passive ratio and daylight factor. However, in terms of the solar factor, it is exposed to high amount of solar radiation from the east-west facing windows, resulting in some "bad" readings of the buildings. 
 
 ````
 Percentage of Good Buildings: 38.6% 
