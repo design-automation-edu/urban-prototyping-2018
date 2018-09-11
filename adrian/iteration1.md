@@ -2,6 +2,9 @@
 # Iteration 1
 
 In iteration 1, programs are arranged responding to its adjacent programs and transport amenities.
+ ![](imgs/1a.JPG) 
+
+<p align="center"> _Figure 1a: Iteration 1 Plot Division_
 
 
 **Industrial** 
