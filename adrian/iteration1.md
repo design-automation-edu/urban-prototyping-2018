@@ -45,7 +45,7 @@ For podium blocks (Figure 1d), retail programs (Red) occupy the first 2 floors, 
 # Office
 
 
-  ![](imgs/1f.JPG) 
+ ![](imgs/1f.JPG) 
 
 <p align="center"> _Figure 1f: Office Within Residential and Commercial Programs_
  
@@ -54,7 +54,7 @@ Office developments are positioned between residential and retail programs (Figu
 
 # Performance Analysis
 
-![](imgs/1g.JPG) 
+![](imgs/1g.jpg) 
 
 <p align="center"> _Figure 1g: Good Window Factors_
  
