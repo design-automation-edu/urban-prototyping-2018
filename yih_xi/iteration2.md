@@ -42,7 +42,7 @@ Unexpectedly, as what we observe from iteration 1, the high percentage of "good"
 Percentage of Good Windows: 82.6% 
 ````
 
-> <p align="center">
+> <p align="center"><img src="imgs/2_overall_new.jpg" width = "1000">
 >   
 > ### Evaluation 
 > This iteration had purposefully allocated localized subplots within each urban block for greens. This is to improve the views as well as the daylight factor. One huge contrast that has been highlighted in both iteration 1 and 2 is that while simulation has proven that the typology has provided positive view factor and good window factor, it becomes queer that the percentage of "good" window is so drastically different in result. 
