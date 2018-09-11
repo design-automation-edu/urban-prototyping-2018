@@ -1,6 +1,6 @@
 # Introduction
 
- ![site overview](imgs/intro site.jpg) 
+ ![site overview](imgs/1.1.jpg) 
 
 <p align="center"> _Site context and Adjacency Building Coverage_
 
