@@ -11,11 +11,10 @@ This first iteration is an example of a highly dense built-up environment. The h
 
 The greens are allocated in the periphery of the urban plot that manifest itself as leftover spaces of areas less than 150m^2. This is an enactment of when the naturalscape is not accounted for, or purposefully designed for. 
 
-> mmm
-````
-Road Width: 16m
-Total No. of Buildings: 948
-````
+>````
+>Road Width: 16m
+>Total No. of Buildings: 948
+>````
 
 <p align="center"><img src="imgs/1_plotallocation.jpg" width = "600"> 
 <p align="center"> 3 plot allocation
