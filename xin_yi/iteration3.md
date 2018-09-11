@@ -69,10 +69,4 @@ Figure 3.6 Iteration 2 and iteration 3
 ![Comparison between Iteration 1b and iteration 2](imgs/hc23.png)
 Figure 3.7 Comparison between Iteration 2 and iteration 3
 
-
-Performance based
-
-human
-
-future considerations/ critique of current
-form. performance. 
+__Precinct block.__ The improvement in solar factor is evident in the urban blocks where the relative density for the residential building was increased (tower blocks providing shade for the precinct blocks). Those precinct blocks meet the threshold for good building. While the precinct blocks fared well for passive area ratio, they fared poorly for the good window criteria, because they mostly have mediocre daylight factor and poor view factor. 
