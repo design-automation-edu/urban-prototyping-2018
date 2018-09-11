@@ -5,7 +5,7 @@
 <p align="center"> _Figure 2a: Plot Allocation_
  
  
- ![2b Iteration 2 overview](imgs/2a.JPG) 
+ ![2b Iteration 2 overview](imgs/2b.JPG) 
 
 <p align="center"> _Figure 2b: Iteration 2 overview_
   
@@ -26,7 +26,7 @@ For Iteration 2 I wanted to devise a clearer plot allocation that also suggest c
 To reduce residential sprawl within the site, I decided to utilise high rise tower typologies for residential blocks. In Iteration 2, the towers form the perimeter of a plot, coupled with low rise office blocks as well. The juxtaposition of high and low typologies aim to allow optimal views and daylight factor. However an undesirable solar factor is observed in this case, specifically in the east-west face of the tower. Subsequent iterations will aim to resolve this issue by rotating the block form to reduce solar exposure.
 
 ## Industries
-![2d  Industrial and Commercial District](imgs/2d.jpg) 
+![2d  Industrial and Commercial District](imgs/2d.JPG) 
 
 <p align="center"> _Figure 2d:  Industrial and Commercial District_
 Arranged in strips, the industrial and commercial clusters connect both ends of residential apartments. Industrial closest to the AYE, followed by retail and office programs above. The respective strips comprises of low rise typologies and a continuous green corridor throughout. The intention was to allow each unit block to have access to open plazas and green spaces, which could also function as exhibition showcase venues and collaborative platforms. Opening along the central area creates access points for the top and bottom bands, allowing programs and circulation to permeate the site.
