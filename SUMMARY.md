@@ -11,8 +11,8 @@
 
 * [Title For abraham's Project](abraham/overview.md)
   * [Introduction](abraham/introduction.md)
-  * [Iteration 1](abraham/iteration1.md)
-  * [Iteration 2](abraham/iteration2.md)
+  * [Iteration 1](abraham/POLYGON.md)
+  * [Iteration 2](abraham/TETRIS.md)
   * [Iteration 3](abraham/iteration3.md)
   * [Discussion](abraham/discussion.md)
   
