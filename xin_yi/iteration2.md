@@ -58,16 +58,6 @@ Figure 2.5 Iteration 1b and iteration 2
 
 Figure 2.6 Comparison of results between Iteration 1b and iteration 2
 
-good building inc Podium blocks- why talk abt unobstructed views, passive area ratio and solar factor.
-good building no change in tower block (cause didnt change anything)
+__Podium block__ Including an atrium in the podium block greatly improved the passive area ratio. It did not improve the number of good windows, because adding an atrium does have much effect on the daylight factor, solar factor or view factor. With the introduction of the atrium, there is an opportunity to develop new void deck typology or incorporate more social spaces.
 
-Passive ratio improve a lot for podium block
-why
-
-precinct block morphological changes did not improve building efficiency performance.
-why
-
-human-scale implication /urban qualities.
-What. Gardens? courtyards/parks? streetscape? new void deck typology? Opp/ mis opps etc
-
-Lorem ipsum dolor sit amet
+There is no significant improvement in the number of good buildings for the precinct blocks. The morphological changes to the precinct block did not improve the building efficiency performance. However the main purpose of the change was for increased connectivity rather than to meet the evaluative standards. 
