@@ -43,7 +43,7 @@ The high percentage of good windows came as a surprise due to the high amount of
 Percentage of Good Windows: 83.9% 
 ````
 
-> <p align="center"><img src="imgs/1_overall.jpg" width = "500">
+> <p align="center"><img src="imgs/1_overall.jpg" width = "1000">
 >   
 > ### Evaluation 
 > Although this was an iteration that did not take into account of the greens, the percentage of good windows was unexpectedly good. However, whether or not this would lead to a better urban environment would require more simulations.
