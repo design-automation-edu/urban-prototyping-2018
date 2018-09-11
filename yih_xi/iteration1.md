@@ -13,7 +13,7 @@ The greens are allocated in the periphery of the urban plot that manifest itself
 
 ````
 Road Width: 16m
-Total No. of Buildings: 948
+Total No. of Buildings: 855
 ````
 
 <p align="center"><img src="imgs/1_plotallocation.jpg" width = "600"> 
