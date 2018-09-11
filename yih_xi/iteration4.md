@@ -43,10 +43,10 @@ Similar to the daylight factor in the analysis of the "good buildings", the view
 Percentage of Good Windows: 49.8% 
 ````
 
-> <p align="center"><img src="imgs/4_overall.jpg" width = "1000">
+> <p align="center"><img src="imgs/4_overall_new.jpg" width = "1000">
 >   
 > ### Evaluation 
-> This iteration has only kickstarted more variations and more possibilities in terms of how Houdini could help to simulate the synthesis between green spaces and buildings.  
+> This iteration has only kickstarted more variations and more possibilities in terms of how Houdini could help to simulate the synthesis between green spaces and buildings. The major takeaway from this iteration would be that the daylight factor and view factor were not compromised even in low-rise townhouse building typology. 
 
 
 
