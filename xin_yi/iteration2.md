@@ -39,7 +39,9 @@ Figure 2.4 Computational process for iteration 2
 * Residential storey height: 3m
 * Commercial storey height: 5m
 * Institutional storey height: 4m
-* Roads: xx m
+* Road width: 12m
+* Precinct opening width: 8m
+* Atrium width: 10m
 
 ### Evaluation of Results
 
