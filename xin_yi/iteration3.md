@@ -8,7 +8,7 @@ Various attributes are mapped in as parameter within the modelling network.
 
 Residential buildings (the tower blocks) are planned wtih increasing relative density (RD) in closer proximity to MRT stations to encourage the use of public transportation. They are also situated further from the AYE for the comfort of the residents (issues of traffic noise etc). Institution buildings (the podium blocks) are zoned close to Utown, facilitating ease of knonwledge exchange betweeen instituitions and offices and R&D from the convenience of proximity. They are also planned in increasing relative density along the AYE (since those buildings are more likely to be air-conditioned and closed off, where noise will be less of a concern), allowing a buffer distance between residential blocks and AYE. Commercial buildings (the precinct blocks) are present in every urban block, providing a sense of enclosure for the public space that resides within it. 
 
-![Left: Factors affecting RD of Institutional buildings. Right:  Factors affecting RD of Residential buildings.](imgs/03instiresiall.jpg)
+<img src="imgs/03instiresiall.jpg" width = "450"> 
 
 Figure 3.1 Factors affecting RD of Institutional buildings
 
@@ -49,7 +49,7 @@ Figure 3.3 Computational process for iteration 3
   * AYE: 0.35
   * MRT stations: 0.65
   
-<img src="imgs/03attribweight.jpg" width = "450"> 
+<img src="imgs/03attribweight.jpg" width = "650"> 
 
 Figure 3.4 Various attributes and their individual effects on RD
 
