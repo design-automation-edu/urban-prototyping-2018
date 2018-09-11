@@ -1,10 +1,25 @@
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This chapter will be focusing on using Houdini to understand the effects of greens typology on the urban environment. This is pertaining to popular belief that the addition of greens will have some form of positive effect on the built environment. The 3 iterations will show 3 types of greens: the leftover spaces that are "green", greens on every plot and finally a central green in the middle of the development. A final iteration will be of a greater urban grid to test the widely believed positive typology of courtyard green with a central park green.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Iteration 1: Leftover Greens 
+![Fig. 1: iteration 1 plan view](imgs/1_figureground.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Using a formal road grid system, the built-up area is maximized with no intention of planting greens. The greens appear in the form of leftover spaces of odd shapes and areas lesser than 130m^2. 
+
+## Iteration 2: Greens for Everyone 
+
+### next heading
+
+__hi__
+*hi*
+
+* adfadf
+  *dffsf
+
+
+
+
 
 
 
