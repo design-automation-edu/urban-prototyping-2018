@@ -12,11 +12,11 @@
   
 For Iteration 2 I wanted to devise a clearer plot allocation that also suggest circulation routes within the site (Figure 2a). The central zone forms a ring road, functioning as the main circulation path for vehicular traffic. Secondary roads branch out from the central main road, towards the outer ring of programs. This filtration of traffic in a radial pattern creates specific parcels of lands around the periphery that contains programs related to existing programs on site.
 The overview of the building typologies displays building forms laid out in a band strip on site (Figure 2b).
-1. Central Zone: contains mainly commercial retail programs and a green park which stretches the entire length of the plot.
+__1. Central Zone:__ contains mainly commercial retail programs and a green park which stretches the entire length of the plot.
 
-2. Residential: Located at the west and east ends of the site, with close proximity to existing MRT stations. Its location at both ends also allows residents to access the band of programs in the middle of the site.
+__2. Residential:__ Located at the west and east ends of the site, with close proximity to existing MRT stations. Its location at both ends also allows residents to access the band of programs in the middle of the site.
 
-3. Industrial: Stretches along the length of the AYE.
+__3. Industrial:__ Stretches along the length of the AYE.
 
 
 ## Residential
