@@ -37,7 +37,7 @@ Industrial buildings acts as a physical buffer between the Ayer Rajah Expressway
  
   ![](imgs/1e.JPG) 
 
-<p align="center"> _Figure 1d: Retail / Residential Podium with Community Plaza_
+<p align="center"> _Figure 1e: Retail / Residential Podium with Community Plaza_
  
 Residential programs (Yellow) are located primarily along Dover road and north Buona Vista road, for greater accessibility to Dover, one-north MRT Stations. Residential typology comes in the form of podium blocks as well as high rise towers (Figure 1c). 
 For podium blocks (Figure 1d), retail programs (Red) occupy the first 2 floors, with residential on the top 7 floors. The mix of high rise and low rise residential accommodations within the site, in turn influences the intimacy of community spaces created (private green, community parks). 
@@ -54,20 +54,22 @@ Office developments are positioned between residential and retail programs (Figu
 
 # Performance Analysis
 
-  ![](imgs/1g.JPG) 
+![](imgs/1g.JPG) 
 
 <p align="center"> _Figure 1g: Good Window Factors_
  
  
-   ![](imgs/1h.JPG) 
+ ![](imgs/1h.JPG) 
 
 <p align="center"> _Figure 1h: Overall Good Window Ratio Results_
  
-    ![](imgs/1i.JPG) 
+ 
+ ![](imgs/1i.JPG) 
 
 <p align="center"> _Figure 1i: Passive Ratio Results_
  
-    ![](imgs/1j.JPG) 
+ 
+![](imgs/1j.JPG) 
 
 <p align="center"> _Figure 1j: Good Building Results_
  
