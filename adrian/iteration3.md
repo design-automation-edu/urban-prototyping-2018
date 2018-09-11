@@ -3,7 +3,7 @@
 
 ![3a Plot Allocation](imgs/fig 3a_plot division.JPG) 
 
- <b>Fig 3a: Plot Allocation:</b><br>
+ <b>Fig 3a: Plot Allocation</b><br>
 
 For Iteration 3, I wanted to introduce ways in which the site can connect to adjacent estates as well as within internal clusters. Here the plot is divided into 4 key clusters.
 Work-Live Zone is located nearest to the respective MRT Stations, facilitating residents who take the public transport.
