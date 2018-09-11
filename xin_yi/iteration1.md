@@ -1,6 +1,6 @@
 # Iteration 1 - Morphology of Urban Block
 
-![Iteration 1](imgs/01streetcanyon.jpg)
+![Iteration 1](imgs/h010site.png)
 
 Figure 1.0 Iteration 1
 
@@ -45,10 +45,25 @@ Figure 1.4 Widening street width and Rotating building angle
 
 (do note that diagrams are only a graphical representation and not accurate to scale)
 
-![Iteration 1 and iteration 1b](imgs/PLACEHOLDER1streetcanyon.jpg)
+![Iteration 1a and iteration 1b](imgs/hr11s.jpg)
 
-Figure 1.5 Iteration 1 and iteration 1b
+Figure 1.5 Iteration 1a and iteration 1b
 
 ### Evaluation of Results
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Comparison between Iteration 1a and iteration 1b](imgs/hr11.jpg)
+Figure 1.5 Comparison between Iteration 1a and iteration 1b
+
+Significant increase in number of good windows in tower blocks, owing to change in angle of building's long axis (affect mainly daylight factor and solar factor, less so view factor).
+
+Significant increase in number of good buildings for podium block, mainly due to the better passive ratio achieved through widening streets (and therefore decreasing size of podium plots).
+
+Human/social portion, implications of change - 
+if distance between two buildings is going to be increased to a width of 12m, cant all go to roads, > opportunity for designing livelier streetscape suitable for pedestrians.
+
+
+*Wide, accessible streets, squares, parks, sidewalks, bike paths and urban furniture stimulate interaction between people and the environment, generate a positive use of space and increase urban vitality.*
+
+opp for shared spaces. car-light neighbourhood cycling etc.
+
+*Wherever possible, public areas should be thought of following the principles of Complete Streets and “shared spaces.” The Complete Streets concept defines streets designed to ensure the safe circulation of all users—pedestrians, cyclists, drivers and users of public transport. Sidewalks in good condition, infrastructure for bicycles, street furniture and signage for all users are among the elements that can compose a complete street.*
