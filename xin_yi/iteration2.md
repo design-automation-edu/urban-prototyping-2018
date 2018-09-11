@@ -5,6 +5,7 @@ Urban permeability is achieved by bisecting the precinct blocks, allowing ease o
 The potential for integrating public space and community and recreation space within each urban block can be achieved by providing a sheltered area within the atrium of the podium block. In terms of building performance, this helps to increase the passive area ratio of the building. 
 
 ![Community and recreation space within atrium and podium block](imgs/02communityarea.jpg)
+
 Figure 2.1 Community and recreation space within atrium and podium block
 
 ### Changes from iteration #01
@@ -16,6 +17,8 @@ Figure 2.1 Community and recreation space within atrium and podium block
   
 ![Changes to precinct and podium block](imgs/02atriumprecinct111.jpg)
 
+Figure 2.2 Changes to precinct and podium block
+
 
 ### Generative Process
 
@@ -25,7 +28,11 @@ Dividing site into urban blocks > __Forming plots__ > Specifying relative densit
 
 ![Generative process](imgs/02generativeprocess.PNG)
 
-![Computational process](imgs/02computationallogic.png) 
+Figure 2.3 Generative process for iteration 2
+
+![Computational process](imgs/02computationallogic.png)
+
+Figure 2.4 Computational process for iteration 2
 
 ### Parameters
 
