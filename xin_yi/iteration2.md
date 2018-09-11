@@ -1,5 +1,9 @@
 # Iteration 2 - Urban Porosity
 
+![Iteration 2](imgs/h022site.PNG)
+
+Figure 2.0 Iteration 2
+
 Urban permeability is achieved by bisecting the precinct blocks, allowing ease of pedestrian access, increasing connectivity.
 
 The potential for integrating public space and community and recreation space within each urban block can be achieved by providing a sheltered area within the atrium of the podium block. In terms of building performance, this helps to increase the passive area ratio of the building. 
@@ -45,4 +49,20 @@ Figure 2.4 Computational process for iteration 2
 
 ### Evaluation of Results
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Comparison between Iteration 1b and iteration 2](imgs/hr12.jpg)
+
+Figure 2.5 Comparison between Iteration 1b and iteration 2
+
+good building inc Podium blocks- why talk abt unobstructed views, passive area ratio and solar factor.
+good building no change in tower block (cause didnt change anything)
+
+Passive ratio improve a lot for podium block
+why
+
+precinct block morphological changes did not improve building efficiency performance.
+why
+
+human-scale implication /urban qualities.
+What. Gardens? courtyards/parks? streetscape? new void deck typology? Opp/ mis opps etc
+
+Lorem ipsum dolor sit amet
