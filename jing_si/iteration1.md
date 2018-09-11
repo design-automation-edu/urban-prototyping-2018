@@ -1,16 +1,18 @@
 
 # Iteration 1
 
-### Three Distinct Clusters 
+## Three Distinct Clusters 
 
 ![](imgs/01-1.jpg)
-<p align="center"> *Three Distinct Clusters*
+<p align="center"> 
+*(Three Distinct Clusters)* 
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The first iteration explores the zoning of three distinct clusters derived from the existing roads, with two parks inserted in between them. Cluster #01 aims to house a mixture of residential, commercial shops and offices, creating a self-sustaining ecosystem. This arrangement is inspired by the work-live-play lifestyle that many are adopting. Similar to Cluster #01, Cluster #02 utilises the podium-tower typology. It consist of mainly mixed-use residential blocks, with commercial shops at the podium and residential tower above. Cluster #03 acts as a buffer zone between the residential areas of the previous two clusters and Ayer Rajah Expressway (AYE). Thus, it is lined with industrial buildings and offices along AYE.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Distribution of Program
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![](imgs/01-1.jpg)
+<p align="center"> *Program Distribution*
 
-
-
+### Residential
+*(highlighted in yellow)*
