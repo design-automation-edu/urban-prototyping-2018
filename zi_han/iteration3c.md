@@ -44,4 +44,4 @@ Figure 13b. Iteration 3c Building simulations
 * Good window ratio = 77.64%
 
 ### Evaluation
-Comparing Iteration 3C with Iteration 3B, Good buildings have became worse, with 76.69% of good buildings, down from its previous 83.68%. While Good Window seems to have increased to 36.95%, in reality, this option is worse-off due to the misapportunity for the tower blocks to contain courtyard gardens which would significantly increase its good window ratio.
+Comparing Iteration 3C with Iteration 3B, Good buildings have became worse, with 76.69% of good buildings, down from its previous 83.68%. While Good Windows seems to have increased to 36.95%, in reality, this option is worse-off due to the mis-opportunity for the tower blocks to contain courtyard gardens which would significantly increase its good window ratio.
