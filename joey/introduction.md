@@ -8,6 +8,7 @@ URA’s concept in bringing back the ‘kampung spirit’ in Kampung Admiralty r
 
 ## Requirements
 ![Fig. 1: Project@Dover Site](imgs/BASE MAP.jpg)
+
 Some parameters of the project established are as follows:
 
 | No. of Persons  | Floor Area per Person | Total Floor Area  |
