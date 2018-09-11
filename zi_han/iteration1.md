@@ -24,13 +24,16 @@ Figure 6. Block typology and Urban morphology for Iteration 1
 
 ## Building Simulation
 
-![Figure 7. Iteration 1 Building simulations](./imgs/eval_1.png)
-Figure 7. Iteration 1 Building simulations
+![Figure 7. Iteration 1 Building simulations](./imgs/eval_1gb.png)
+Figure 7a. Iteration 1 Building simulations
 
 ### Good Building = 91.64%
 * Daylight factor = 65.74%
 * Passive ratio = 96.15%
 * Solar Factor = 83.19% 
+
+![Figure 7. Iteration 1 Building simulations](./imgs/eval_1gw.png)
+Figure 7b. Iteration 1 Building simulations
 
 ### Good Window =36.86%
 * View Factor = 60.97%
