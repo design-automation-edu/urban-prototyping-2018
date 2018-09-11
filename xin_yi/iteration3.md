@@ -6,6 +6,8 @@ Residential buildings (the tower blocks) are planned wtih increasing relative de
 
 ![Left: Factors affecting RD of Institutional buildings. Right:  Factors affecting RD of Residential buildings.](imgs/03instiresiall.jpg)
 
+Figure 3.1 Factors affecting RD of Institutional buildings
+
 ### Changes from iteration #02
 
 * changes to required relative density for institutional buildings
@@ -19,9 +21,14 @@ Dividing site into urban blocks > Forming plots > __Specifying relative density 
 
 ![Generative process](imgs/03generativeprocess.PNG)
 
+
+Figure 3.2 Generative process for iteration 3
+
 ![Computational process - Institutional Buildings](imgs/03computationallogicInsti.png)
 
 ![Computational process - Residential Buildings](imgs/03computationallogicResi.png)
+
+Figure 3.3 Computational process for iteration 3
 
 ### Parameters
 
@@ -39,10 +46,14 @@ Dividing site into urban blocks > Forming plots > __Specifying relative density 
   * MRT stations: 0.65
   
 ![Various attributes and their individual effects on RD](imgs/03attribweight.jpg)
- 
-![Composited attribute for Instituitional buildings](imgs/03Insti_composite.png)
-  
-![Composited attribute for Residential buildings](imgs/03Resi_composite.png)
+
+Figure 3.4 Various attributes and their individual effects on RD
+
+<img src="imgs/03Insti_composite.png" width = "400"> <img src="imgs/03Resi_composite.png" width = "400">
+
+Figure 3.5 Composited attribute effect on RD
+
+
 
 ### Evaluation of Results
 
