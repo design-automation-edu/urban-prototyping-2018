@@ -1,6 +1,6 @@
 # Iteration 2 - Urban Porosity
 
-![Iteration 2](imgs/h022site.PNG)
+![Iteration 2](imgs/h21site2.PNG)
 
 Figure 2.0 Iteration 2
 
@@ -45,13 +45,17 @@ Figure 2.4 Computational process for iteration 2
 * Institutional storey height: 4m
 * Road width: 12m
 * Precinct opening width: 8m
-* Atrium width: 10m
+* Podium block width: 12m
+
+<img src="imgs/hit12.png" width = "400"> 
+
+Figure 2.5 Iteration 1b and iteration 2
 
 ### Evaluation of Results
 
-![Comparison between Iteration 1b and iteration 2](imgs/hr12.jpg)
+![Comparison of results between Iteration 1b and iteration2](imgs/hc12.png)
 
-Figure 2.5 Comparison between Iteration 1b and iteration 2
+Figure 2.6 Comparison of results between Iteration 1b and iteration 2
 
 good building inc Podium blocks- why talk abt unobstructed views, passive area ratio and solar factor.
 good building no change in tower block (cause didnt change anything)
