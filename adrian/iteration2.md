@@ -29,4 +29,5 @@ To reduce residential sprawl within the site, I decided to utilise high rise tow
 ![2d  Industrial and Commercial District](imgs/2d.JPG) 
 
 <p align="center"> _Figure 2d:  Industrial and Commercial District_
+ 
 Arranged in strips, the industrial and commercial clusters connect both ends of residential apartments. Industrial closest to the AYE, followed by retail and office programs above. The respective strips comprises of low rise typologies and a continuous green corridor throughout. The intention was to allow each unit block to have access to open plazas and green spaces, which could also function as exhibition showcase venues and collaborative platforms. Opening along the central area creates access points for the top and bottom bands, allowing programs and circulation to permeate the site.
