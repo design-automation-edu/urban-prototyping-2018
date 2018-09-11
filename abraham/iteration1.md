@@ -30,9 +30,17 @@ Industry building growth pattern
 Greenspace ratio
 
 
-
-
-
-
+![text label](./imgs/a1.png)
+![text label](./imgs/a2.png)
+![text label](./imgs/a3.png)
+![text label](./imgs/a4.png)
+![text label](./imgs/a5.png)
+![text label](./imgs/a6.png)
+![text label](./imgs/a7.png)
+![text label](./imgs/a8.png)
+![text label](./imgs/a9.png)
+![text label](./imgs/a10.png)
+![text label](./imgs/a11.png)
+![text label](./imgs/a12.png)
 
 
