@@ -22,8 +22,8 @@ Using a formal road grid system, the built-up area has placed consideration in p
 
 In an attempt to test out specifically the effect of a central park and courtyard greens, this iteration was originally one that held the hypothesis of being one that would have the highest rate of good buildings, which in turn will signify as a better urban environment. 
 
-The thresholds for determining a good/bad building is as follows:
 ```
+The thresholds for determining a good/bad building are: 
 Good window thresholds
    View threshold > 0.4
    Daylight threshold > 0.1
@@ -31,4 +31,11 @@ Good window thresholds
 Good building thresholds
    Passive threshold > 0.5
    Good window threshold > 0.1
+```
+
+```
+Urban parameters:  
+Area: 75ha
+Expected Population: 75,000
+Area/ person: 75m^2 
 ```
