@@ -58,6 +58,6 @@ Figure 2.5 Iteration 1b and iteration 2
 
 Figure 2.6 Comparison of results between Iteration 1b and iteration 2
 
-__Podium block__ Including an atrium in the podium block greatly improved the passive area ratio. It did not improve the number of good windows, because adding an atrium does have much effect on the daylight factor, solar factor or view factor. With the introduction of the atrium, there is an opportunity to develop new void deck typology or incorporate more social spaces.
+__Podium block.__ Including an atrium in the podium block greatly improved the passive area ratio. It did not improve the number of good windows, because adding an atrium does have much effect on the daylight factor, solar factor or view factor. With the introduction of the atrium, there is an opportunity to develop new void deck typology or incorporate more social spaces.
 
 There is no significant improvement in the number of good buildings for the precinct blocks. The morphological changes to the precinct block did not improve the building efficiency performance. However the main purpose of the change was for increased connectivity rather than to meet the evaluative standards. 
