@@ -1,11 +1,11 @@
 
 # Iteration 1
 
-![Iteration 1 overview](./imgs/Iteration 1 overview.png)
-
+![Iteration 1 overview](./imgs/Iteration_1_overview.png)
 Iteration 1 was conceived as a test bed for different building typologies within the site. Each neighbourhood was divided into its own specialised programme (residential, industrial and commercial). The typology of each programme would be applied consistently throughout each neighbourhood, based on existing typologies of the respective programme. Through varying the typology, we can determine the effectiveness of each in terms of the qualitative environmental analysis (solar radiation, daylighting and views). 
 
 (image of resi 1 typology)
+![Building Typologies](./imgs/combined_typologies_it1.jpg)
 Residential typology 1 was developed by dividing the plots into a 15-metre2 grid; within each plot, peripheral subdivisions would be systematically removed in order to create a single long orthogonal residential tower sitting above each plot of greenery. 
 
 (image of resi 2 typology)
