@@ -45,13 +45,13 @@ Figure 1.4 Widening street width and Rotating building angle
 
 (do note that diagrams are only a graphical representation and not accurate to scale)
 
-<img src="imgs/hc11.png" width = "400"> 
+<img src="imgs/hit11.png" width = "400"> 
 
 Figure 1.5 Iteration 1a and iteration 1b
 
 ### Evaluation of Results
 
-![Comparison between Iteration 1a and iteration 1b](imgs/hit11.png)
+![Comparison between Iteration 1a and iteration 1b](imgs/hi11.png)
 
 Figure 1.5 Iteration 1a results
 
