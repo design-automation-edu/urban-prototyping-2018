@@ -1,6 +1,6 @@
 # Iteration 3 - Zoning through Parametric Attractors
 
-![Iteration 3](imgs/h030site.PNG)
+![Iteration 3](imgs/h31site2.PNG)
 
 Figure 3.0 Iteration 3
 
@@ -49,7 +49,7 @@ Figure 3.3 Computational process for iteration 3
   * AYE: 0.35
   * MRT stations: 0.65
   
-![Various attributes and their individual effects on RD](imgs/03attribweight.jpg)
+<img src="imgs/03attribweight.jpg" width = "450"> 
 
 Figure 3.4 Various attributes and their individual effects on RD
 
@@ -60,8 +60,12 @@ Figure 3.5 Composited attribute effect on RD. (Left: Institutional buildings. Ri
 
 ### Evaluation of Results
 
-![Comparison between Iteration 1b and iteration 2](imgs/hr23.jpg)
-Figure 3.6 Comparison between Iteration 1b and iteration 2
+<img src="imgs/hit23.png" width = "400"> 
+
+Figure 3.6 Iteration 2 and iteration 3
+
+![Comparison between Iteration 1b and iteration 2](imgs/hc23.png)
+Figure 3.7 Comparison between Iteration 2 and iteration 3
 
 
 Performance based
