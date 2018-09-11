@@ -35,7 +35,7 @@ Industrial buildings acts as a physical buffer between the Ayer Rajah Expressway
 <p align="center"> _Figure 1d: High-rise Residential Towers with Private Green_
  
  
-  ![](imgs/1d.JPG) 
+  ![](imgs/1e.JPG) 
 
 <p align="center"> _Figure 1d: Retail / Residential Podium with Community Plaza_
  
@@ -63,7 +63,13 @@ Office developments are positioned between residential and retail programs (Figu
 
 <p align="center"> _Figure 1h: Overall Good Window Ratio Results_
  
+    ![](imgs/1i.JPG) 
 
-Industrial, offices, podium typologies demonstrates good results for both passive ratio and good window. However high rise residential tower exhibit shortfalls in these both aspects. In particular high rise residential towers displayed an average good window ratio of 0.04 and passive ratio of 0.32. This result is exceptionally bad and far off from the desired good building thresholds (good window threshold > 0.1, passive ratio > 0.5). This result is likely attributed to the large floor area of the towers, forming a larger active area as compared to passive area. In subsequent iterations, plot sizes were reduced and proximity between towers were adjusted to produce better buildings
+<p align="center"> _Figure 1i: Passive Ratio Results_
+ 
+    ![](imgs/1j.JPG) 
 
+<p align="center"> _Figure 1j: Good Building Results_
+ 
 
+Industrial, offices, podium typologies demonstrates good results for both passive ratio and good window. However high rise residential tower exhibit shortfalls in these both aspects (Figure 1i, 1j). In particular high rise residential towers displayed an average good window ratio of 0.04 and passive ratio of 0.32. This result is exceptionally bad and far off from the desired good building thresholds (good window threshold > 0.1, passive ratio > 0.5). This result is attributed to the large floor area of the towers, forming a larger active area as compared to passive area. In subsequent iterations, plot sizes were reduced and proximity between towers were adjusted to produce more optimal buildings.
