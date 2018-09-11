@@ -3,7 +3,7 @@
 ![](imgs/01-01.jpg)
 <p align="center"> __Proposed Site__
 
-The proposed site is located between Dover Road to the north, Ayer Rajah Expressway (AYE) to the south and surrounded by educational institutions such as National Univerisity of Singapore, Angolo Chinese Junior College and Singapore Polytechnic as well as One North Industrial Park.
+The proposed site is located between Dover Road to the north, Ayer Rajah Expressway (AYE) to the south and surrounded by residential blocks, educational institutions such as National Univerisity of Singapore, Angolo Chinese Junior College, Singapore Polytechnic as well as One North Industrial Park.
 
 ![](imgs/01-02.jpg)
 <p align="center"> __New York City__
