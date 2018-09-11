@@ -3,12 +3,12 @@
 <img src="imgs/3_elevation.jpg" width = "1000">
 <p align="center"> 1 elevation
 
-The second iteration is continues the typology of a highly dense built-up environment. The height of the residential blocks are affected by the proximity to the MRT nodes. The elevation shows the skyline of the urban planning. The distribution is slightly steeper. There was a sudden increase in building height, where 1 building is an anomaly in its extreme height. This is likely due to the allocation of one of the existing plot for a localized green that decreased the area of usable land for programmable land use. 
+The typology of the third iteration is in lieu with iteration 1 and 2, emulating one of a highly dense built-up environment. The height of the residential blocks are affected by the proximity to the MRT nodes, although certain anomalies have started to appear. This is probably due to the stress placed on the fulfilment of the allocated 75m^2 per person on the site while still having to satisfy the notion of preplanned greens and designation of central park in this iteration. The elevation shows the skyline of the urban planning. The distribution is becoming one of large discrepancy between the residency and others programmes like commerical and offices. There was a sudden increase in building height, where 1 building is an anomaly in its extreme height, as well as a number of pretty tall skyscrapers.  
 
-<p align="center"><img src="imgs/2_figureground.jpg" width = "400">
+<p align="center"><img src="imgs/3_figureground.jpg" width = "400">
 <p align="center"> 2 urban plan
 
-The greens are allocated in one of the subplot in the urban plot that manifest itself as a localized green space to be shared by each plot's users. The area amount to about 1000m^2. 
+The greens are allocated in 2 ways: one of the subplot in the urban plot that manifest itself as a 1000m^2 localized green space to be shared by each plot's users and the other in the form of a central park.  
 
 ````
 Road Width: 20m
