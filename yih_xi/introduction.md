@@ -33,8 +33,8 @@ Good building thresholds
    Good window threshold > 0.1
 ```
 
-```
-Urban parameters:  
+The following are the urban parameters that sets the background for the series of exercises. These are kept constant throughout all the iterations. 
+``` 
 Area: 75ha
 Expected Population: 75,000
 Area/ person: 75m^2 
