@@ -27,7 +27,7 @@ Residential: 50m^2
 <p align="center"><img src="imgs/iteration3_GB.jpg" width = "1000"> 
 <p align="center"> 4 analysis of good buildings
 
-In addition to the "good" residential buildings, there is a visible amount of offices that are "good" as well. This is in reaction to the localized greens on each plot that allows for greater passive ratio. That being said, the solar factor has also visibly increased due to the exposure to solar element in "empty" green plots. It has always been a balance in terms of allowing for dayighting and passivity in contrast to the solar radiation that each building will be exposed to. Overall, the percentage of "good" buildings has increased to 50.4% in comparison to iteration 1.  
+One thing noticeable is the constant reading of "good" building for the residential blocks, even as they start to go oddly disproportionate in terms of scale. Commerical facing the central park has changed its reading to "good" as well; this may raise further hypothesis of the benefits of multiple satellite greens on one urban (instead of iteration 3 where there is only 1 central park) that may benefit the buildings. The passive ratio has been increasing while solar factor, as always, suffers as the daylight factor and passive ratio increases.    
 
 ````
 Percentage of Good Buildings: 52.2% 
@@ -36,7 +36,7 @@ Percentage of Good Buildings: 52.2%
 <p align="center"><img src="imgs/iteration3_GW.jpg" width = "1000"> 
 <p align="center"> 4 analysis of good windows
 
-Unexpectedly, as what we observe from iteration 1, the high percentage of "good" windows has still maintained although statistically, it has decreased by 1%. The percentage of "good" views and good window ratio is still positive overall.   
+The readings for good windows has been contradicatory. The percentage showcases a high of 83.2% when the simulation has described multiples of "bad" windows. In stark contrast, the view factor and good window ratio has visibly improved.   
 
 ````
 Percentage of Good Windows: 83.2% 
@@ -45,7 +45,7 @@ Percentage of Good Windows: 83.2%
 > <p align="center"><img src="imgs/3_overall.jpg" width = "1000">
 >   
 > ### Evaluation 
-> This iteration  
+> This iteration further demonstrated the connection between green spaces and the certain increases in certain factors such as daylight factor, view factor and passive ratio. However, the connection that drives the disappointing results of the good window, solar factor and good building is also one to note specifically. 
 
 
 
