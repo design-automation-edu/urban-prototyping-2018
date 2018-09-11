@@ -23,9 +23,13 @@ With research and education as the main backbone of the program, the floor area 
 
 ## Site Conditions
 Firstly, since the majority of residents living in the area are students and young adults, it is expected that there will be a high dependency on public transport systems. Secondly, the Ayer-Rajah Expressway (AYE) along South of the site is expected to be an undesirable source of air and noise pollution. The 6-lane expressway disconnects the site from the National University of Singapore (NUS) campus and the West Coast residential enclave. To get across AYE, one must use one of five overhead pedestrian bridges identified in the site surrounding. The following diagrams presents the location of Mass-Rapid Transit (MRT) stations and overhead pedestrian bridges in the site vicinity: 
+![Fig. 2: MRT Stations located around site](imgs/MRT.jpg)
+![Fig. 3: Pedestrian overhead bridges connecting site to West Coast Precinct](imgs/PEDESTRIAN.jpg)
 
 ## Design Goals
 With the existing site conditions in mind, a concept plan in relation to surrounding developments was generated to kickstart the iterative urban prototyping process. 
+
+![Fig. 4: Conceptual zoning plan based on parameters](imgs/CONCEPT.jpg)
 
 > 1.  Clean-Tech Industrial will be located along AYE as it is an undesirable source of air and noise pollution.
 
