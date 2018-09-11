@@ -2,7 +2,7 @@
 
  ![site overview](imgs/1.1.jpg) 
 
-<p align="center"> _Site context and Adjacency Building Coverage_
+<p align="center"> _Site Context and Adjacency Building Coverage_
 
 # Proposed Masterplanning Strategy
 The proposed site located adjacent to National University of Singapore and one-north is projected to be an industrial and collaboration hub in the district, tapping upon the wealth of resources and information from the university and one-north. The projected masterplan will house an intensified mix of research clusters, production facilities, housing accommodations and cross disciplinary platforms. Thereby engendering a healthy mix of established industries as well as entrepreneurship startups, a testbed for the development and creation of new technologies and innovation. However the existing site does present certain issues of disconnectivity to its neighbours, segregated by the Ayer Rajah Expressway and several main roads. 
