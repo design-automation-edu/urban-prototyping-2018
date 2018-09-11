@@ -40,7 +40,7 @@ The algorithm is generated in the following steps:
 
 9.	Performance analysis of this typology has returned good results. However, one tower scored low on solar exposure. This is due to a large facade facing the east. This would not be a problem if we consider the towers as one continuous development. The solar exposure ratio would be balanced out by the north south facing windows of other towers. Therefore,  in order to give a balanced overall assesment, we've decided to reduce the solar exposure threashold to 0.25 (easier) and increase the view factor to 0.45 (harder) so as to adapt the thresholds to this specific typology. The rest of the parameters remains unchanged.
 
-
+![text label](./imgs/a7.png)
 ![text label](./imgs/a6.png)
 
 
@@ -53,7 +53,6 @@ The algorithm is generated in the following steps:
        *   Towers vary in height for better view 
 
 
-![text label](./imgs/a7.png)
 ![text label](./imgs/a8.png)
 
 11. With the above improvements, good building percentage has increased to 85%. However, the entire urban fabric can be improved further. The rectangular grid could be changed to a Voronoi grid. A Voronoi grid is going to create more turns and multiedged urban block that create more excitement in walking and more dynamism in views
