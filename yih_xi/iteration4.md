@@ -15,7 +15,7 @@ Road Width: 20m
 Total No. of Buildings: 774
 ````
 
-<p align="center"><img src="imgs/2_plotallocation.jpg" width = "600"><img src="imgs/3_plotallocation.jpg" width = "600">  
+<p align="center"><img src="imgs/4_plotallocation.jpg" width = "600"><img src="imgs/4_plotallocation2.jpg" width = "600">  
 <p align="center"> 3 plot allocation
    
 A total of 75m^2 is allocated to each person on site. The following is the breakdown of the allocation of plot percentage. Residential was allocated the highest percentage for improved standard of living. 
