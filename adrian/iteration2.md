@@ -20,21 +20,21 @@ __2. Residential:__ Located at the west and east ends of the site, with close pr
 __3. Industrial:__ Stretches along the length of the AYE.
 
 
-# Residential Towers
+## Residential Towers
 ![2c Residential Tower and Solar Factor Evaluation](imgs/2c.jpg) 
 
 <p align="center"> _Figure 2c: Residential Tower and Solar Factor Evaluation_
 
 To reduce residential sprawl within the site, I decided to utilise high rise tower typologies for residential blocks. In Iteration 2, the towers occupy both ends of the site, coupled with low rise office blocks. The juxtaposition of high and low typologies aim to allow optimal views and adequate daylighting. However an undesirable solar factor is observed in this case, specifically in the east-west face of the tower. Subsequent iterations will aim to resolve this issue by rotating the block form to reduce solar exposure.
 
-# Programmatic Strips
+## Programmatic Strips
 ![2d  Industrial and Commercial District](imgs/2d.JPG) 
 
 <p align="center"> _Figure 2d:  Industrial and Commercial District_
  
 Arranged in strips, the industrial and commercial clusters connect both ends of residential apartments. Industrial closest to the AYE, followed by retail and office programs above. The respective strips comprises of low rise typologies and a continuous green corridor throughout. The intention was to allow each unit block to have access to open plazas and green spaces, which could also function as exhibition showcase venues and collaborative platforms. Opening along the central area creates access points for the top and bottom bands, allowing programs and circulation to permeate the site.
 
-# Performance Analysis
+## Performance Analysis
 
 ![](imgs/2e.jpg) 
 
