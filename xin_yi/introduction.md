@@ -43,4 +43,13 @@ The other considerations that influenced the overall design goals are as follows
   * Institution buildings, podium block- Increase relative density with closer proximity to Utown, and AYE (since those buildings are more likely to be air-conditioned and closed off, where noise will be less of a concern), allowing a buffer distance between residential blocks and AYE. 
   * Commercial, precinct blocks providing each urban block with a sense of enclosure for the public space that resides within it. 
 
+### Evaluation of Building Performance
+
+* Good window thresholds
+  * View factor > 0.4
+   * Daylight factor > 0.1
+  * Solar factor < 0.2
+* Good building thresholds
+  * Passive area ratio > 0.5
+  * Good window threshold > 0.1
 
