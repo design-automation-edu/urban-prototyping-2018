@@ -8,11 +8,11 @@
 
 For Iteration 3, I wanted to introduce ways in which the site can connect to adjacent estates as well as within internal clusters. Here the plot is divided into 3 key clusters.
 
-1. Work-Live Zone is located nearest to the respective MRT Stations, facilitating residents who take the public transport.
+__1. Work-Live Zone__ is located nearest to the respective MRT Stations, facilitating residents who take the public transport.
 
-2. R&D Zone required larger volume buildings, and is located adjacent to the AYE, forming a buffer for the rest of the site. Plot of land required for industrial is reduced from previous iterations, allocating more spaces for the other zones. 
+__2. R&D Zone__ requires larger volume buildings, and is located adjacent to the AYE, forming a buffer for the rest of the site. Plot of land required for industrial is reduced from previous iterations, allocating more spaces for the other zones. 
 
-3. The Collaboration Zone, in the middle, contains a program mix of residential, retail and offices. This zone is designed as a collaborative platform, connecting the adjacent clusters on site as well as direct linkage from NUS itself. Thereby establishing a common ground for research, business and industrial collaboration.
+__3. The Collaboration Zone__ in the middle, contains a program mix of residential, retail and offices. This zone is designed as a collaborative platform, connecting the adjacent clusters on site as well as direct linkage from NUS itself. Thereby establishing a common ground for research, business and industrial collaboration.
 
 With these plot zones in mind, I then proceeded to introduce typologies within each respective cluster, fulfilling the hybrid program mix. 
 _(Grey: Industrial, Yellow: Residential, Red: Retail, Blue: Offices, Green: Parks)_
