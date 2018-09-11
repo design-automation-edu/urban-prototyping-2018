@@ -2,10 +2,15 @@
 # Iteration 1
 The following strategies and typologies were adopted to derive Model 1b which will be the target for evaluation. As a result of the proposed 10m floor height and the deep floor plates of the industrial building blocks, it is expected that internal areas will receive minimal daylight. As a hypothesis, a courtyard typology is expected to alleviate the problem. 
 
+![Fig. 5: Generating Iteration 1](imgs/Iteration1.jpg)
+
 ## Model 1b: Overall 
 Residential and Clean-tech Industrial blocks were aggregated in terms of intensity towards One-North, Kent Ridge and Buona Vista MRT. That is to say, there is an increasing number of units from the West towards the East of the site because its proximity to surrounding MRT stations. This explains the ‘mountainous’ typology resulted in this parametric rule. Shops and Offices were planned along Clementi Road (West) as it is envisioned that there will be greater integration between research institutes (University Town) and research industries (new offices shaded in purple). 
 
+![Fig. 6: Overall Model 1b](imgs/Iteration1b_Overall.jpg)
+
 ### Model 1b: Daylight Factor
+![Fig. 7: Model 1b Daylight Factor Assessment - 'blue' zones are good](imgs/Iteration1b_Daylight_factor.jpg)
 The Daylight Factor assessment fares well as a result of the ‘mountainous’ typology. The urban form maximises the surface area of exposure of individual building blocks which explains the majority of blue zones seen in the evaluation. As a result Daylight is able to reach deeper areas of the building block. 
 
 However, a closer look at the model reveals certain areas that are affected as a result of the close proximity between building blocks. A majority of these building blocks are set apart at a minimum distance of 5 metre. However, this becomes increasingly insufficient as building blocks increase in height. 
