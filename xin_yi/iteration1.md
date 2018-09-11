@@ -58,32 +58,10 @@ Figure 1.5 Iteration 1a results
 
 Figure 1.6 Comparison of results between Iteration 1a and iteration 1b
 
-WRITE THIS PORTION AGAIN - refered to the wrong diagram.
+__Tower block.__ There is a stark increase in the number of good buildings for the tower blocks, owing mainly to the improved passive area ratio. The improvement in the number of good windows (that also contributes to increase in number of good buildings) was due to the improvement in solar factor (less solar heat gain due to increased incident radiation). Both of which are a result of changing the orientation of the buildings' long axes in the east-west direction. 
 
-Significant increase in number of good windows in tower blocks, owing to change in angle of building's long axis (affect mainly daylight factor and solar factor, less so view factor).
+There is no significant improvement in the number of good buildings for the podium and precinct blocks.
 
-Significant increase in number of good buildings for podium block, mainly due to the better passive ratio achieved through widening streets (and therefore decreasing size of podium plots).
+__Implication of Change__
 
-
-
-Human/social portion, implications of change - 
-if distance between two buildings is going to be increased to a width of 12m, cant all go to roads, > opportunity for designing livelier streetscape suitable for pedestrians.
-
-
-*Wide, accessible streets, squares, parks, sidewalks, bike paths and urban furniture stimulate interaction between people and the environment, generate a positive use of space and increase urban vitality.*
-
-opp for shared spaces. car-light neighbourhood cycling etc.
-
-*Wherever possible, public areas should be thought of following the principles of Complete Streets and “shared spaces.” The Complete Streets concept defines streets designed to ensure the safe circulation of all users—pedestrians, cyclists, drivers and users of public transport. Sidewalks in good condition, infrastructure for bicycles, street furniture and signage for all users are among the elements that can compose a complete street.*
-
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-
+In an attempt to improve the view factor of the precinct blocks, the street width was increased from 8m to 12m. Taking the human scale into consdieration, not all of the width should go into the increase in width of vehicular roads, but rather, should be treated as an opportunity for designing livelier streetscapes in the direction of a car-lite neighbourhood. This can be done by providing sidewalks, bike paths, urban furnitures, etc. The increase in street width can be thought of as a shared space that accommodates different user groups (pedestrians, cyclists, drivers, users of public transport) to increase urban vitality.
