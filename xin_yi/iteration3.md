@@ -1,5 +1,9 @@
 # Iteration 3 - Zoning through Parametric Attractors
 
+![Iteration 3](imgs/h030site.PNG)
+
+Figure 3.0 Iteration 3
+
 Various attributes are mapped in as parameter within the modelling network. 
 
 Residential buildings (the tower blocks) are planned wtih increasing relative density (RD) in closer proximity to MRT stations to encourage the use of public transportation. They are also situated further from the AYE for the comfort of the residents (issues of traffic noise etc). Institution buildings (the podium blocks) are zoned close to Utown, facilitating ease of knonwledge exchange betweeen instituitions and offices and R&D from the convenience of proximity. They are also planned in increasing relative density along the AYE (since those buildings are more likely to be air-conditioned and closed off, where noise will be less of a concern), allowing a buffer distance between residential blocks and AYE. Commercial buildings (the precinct blocks) are present in every urban block, providing a sense of enclosure for the public space that resides within it. 
@@ -51,10 +55,18 @@ Figure 3.4 Various attributes and their individual effects on RD
 
 <img src="imgs/03Insti_composite.png" width = "400"> <img src="imgs/03Resi_composite.png" width = "400">
 
-Figure 3.5 Composited attribute effect on RD
-
+Figure 3.5 Composited attribute effect on RD. (Left: Institutional buildings. Right: Residential buildings.)
 
 
 ### Evaluation of Results
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Comparison between Iteration 1b and iteration 2](imgs/hr23.jpg)
+Figure 3.6 Comparison between Iteration 1b and iteration 2
+
+
+Performance based
+
+human
+
+future considerations/ critique of current
+form. performance. 
