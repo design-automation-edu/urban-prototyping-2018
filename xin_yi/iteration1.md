@@ -4,6 +4,8 @@ For the first iteration, the different “tiers” of the urban block are genera
 
 ![Urban block morphology and Street canyon](imgs/01streetcanyon.jpg)
 
+Figure 2.1 Community and recreation space within atrium and podium blockprocess for iteration 2
+
 
 ### Generative Process
 
