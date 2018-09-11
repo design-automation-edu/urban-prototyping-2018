@@ -8,7 +8,7 @@ The programs within this urban prototyping master plan include residential, inst
 
 Figure 0.1 Plot coverage and Building Typology
 
-### Urban ventilation. 
+### Urban ventilation 
 
 The starting point for the generation of urban prototype was the aim of having a good urban wind environment that facilitates ventilation on this neighbourhood/district scale. Adequate urban wind design is relevant because the urban aerodynamic property affects natural ventilation and air quality, affecting thermal comfort. 
 This is achieved by avoiding closely packed high-rise buildings that often result in stagnant air in high-density urban areas, choosing a medium coverage typology that mixes high-rise and low-rise buildings rather than a medium-rise high site coverage design.
