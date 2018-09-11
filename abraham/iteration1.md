@@ -41,6 +41,5 @@ Greenspace ratio
 ![text label](./imgs/a9.png)
 ![text label](./imgs/a10.png)
 ![text label](./imgs/a11.png)
-![text label](./imgs/a12.png)
 
 
