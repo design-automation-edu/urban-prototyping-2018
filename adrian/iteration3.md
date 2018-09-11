@@ -6,13 +6,19 @@
 <p align="center"> _Figure 3a: Plot Allocation_
  
 
-For Iteration 3, I wanted to introduce ways in which the site can connect to adjacent estates as well as within internal clusters. Here the plot is divided into 4 key clusters.
-Work-Live Zone is located nearest to the respective MRT Stations, facilitating residents who take the public transport.
-R&D Zone required larger volume buildings, and is located adjacent to the AYE, forming a buffer for the rest of the site. Plot of land required for industrial is reduced from previous iterations, allocating more spaces for the other zones. 
-The Collaboration Zone, in the middle, contains a program mix of residential, retail and offices. This zone is designed as a collaborative platform, connecting the adjacent clusters on site as well as direct linkage from NUS itself. Thereby establishing a common ground for research, business and industrial collaboration.
+For Iteration 3, I wanted to introduce ways in which the site can connect to adjacent estates as well as within internal clusters. Here the plot is divided into 3 key clusters.
+
+1. Work-Live Zone is located nearest to the respective MRT Stations, facilitating residents who take the public transport.
+
+2. R&D Zone required larger volume buildings, and is located adjacent to the AYE, forming a buffer for the rest of the site. Plot of land required for industrial is reduced from previous iterations, allocating more spaces for the other zones. 
+
+3. The Collaboration Zone, in the middle, contains a program mix of residential, retail and offices. This zone is designed as a collaborative platform, connecting the adjacent clusters on site as well as direct linkage from NUS itself. Thereby establishing a common ground for research, business and industrial collaboration.
 
 With these plot zones in mind, I then proceeded to introduce typologies within each respective cluster, fulfilling the hybrid program mix. 
 _(Grey: Industrial, Yellow: Residential, Red: Retail, Blue: Offices, Green: Parks)_
+
+
+
 
 ![Fig. 3b: Strip Typology with Ring Road](imgs/3b.JPG) 
 <p align="center"> _Figure 3b: Strip Typology with Ring Road_
@@ -23,9 +29,13 @@ Programs include residential units and office blocks. High Rise residential towe
 
 ![Fig. 3c: Residential Towers and Good Window Results](imgs/3c.jpg) 
 <p align="center"> _Figure 3c: Residential Towers and Good Window Results_
+ 
+ 
 
 ![Fig. 3d: Revised Residential Towers and Good Window Results](imgs/3d.jpg) 
 <p align="center"> _Figure 3d: Revised Residential Towers and Good Window Results_
+
+
 
 
 __Research and Development Zone__
@@ -36,11 +46,13 @@ Key Programs include Industrial warehouse and office spaces for researchers, for
 
 
 
+
 __Collaboration Zone__
 ![Fig. 3f: Collaboration Zone](imgs/3f.jpg) 
 <p align="center"> _Figure 3f: Collaboration Zone_
  
 In the collaboration zone, programs include retail, office and short-term accommodation. Here, the housing tower typologies remain consistent, however they follow the arrangement of a spine. Extending across the length of the entire site, intermixed with retail and green spaces. This zone aims to foster interactions and exchange of information for the various parties on site. Therefore the zone is accessible from all sides of the site, as well as directly connecting to NUS. 
+
 
 
 
