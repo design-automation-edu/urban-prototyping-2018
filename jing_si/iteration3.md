@@ -42,7 +42,7 @@ Daylight factor is correlated to the view factor. Since buildings in this iterat
 
 ### Comparative Evaluations
 ![](imgs/03-7.jpg)
-<p align="center">  *Comparative Evaluations for Clusters #01 & #02* '
+<p align="center">  *Comparative Evaluations for Clusters #01 & #02* 
   
 Looking through all the evaluations, Iteration 3 has pretty decent results. Besides some anomalies here and there (which could not be helped regardless of what I did).  
 
