@@ -1,8 +1,8 @@
 # Iteration 3
 
 
-![3a Plot Allocation](imgs/fig 3a_plot division.JPG) 
-![](imgs/fig 3a_plot division.jpg)
+![3a Plot Allocation](imgs/3a.JPG) 
+
 <p align="center"> _Figure 3a: Plot Allocation_
  
 
@@ -31,7 +31,7 @@ __Research and Development Zone__
 ![Fig. 3e: Research and Development Clusters](imgs/fig 3e.jpg) 
 Key Programs include Industrial warehouse and office spaces for researchers, forming a symbiotic relationship between production and research activities. The industrial complex have a higher floor height of 10m and the form a ‘U’ shape facing AYE. The office blocks encloses the ‘U’ form, allowing workers to transit from production to office spaces and vice versa.
 
-
+a
 
 __Collaboration Zone__
 ![Fig. 3f: Collaboration Zone](imgs/fig 3f.jpg) 
