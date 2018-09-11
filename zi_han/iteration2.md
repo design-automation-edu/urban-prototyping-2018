@@ -24,13 +24,16 @@ vResidential storey height: 3m
 
 ## Building Simulation 
 
-![Figure 9. Iteration 2 Building simulations](./imgs/eval_2.png)
-Figure 9. Iteration 2 Building simulations
+![Figure 9. Iteration 2 Building simulations](./imgs/eval_2gb.png)
+Figure 9a. Iteration 2 Building simulations
 
 ### Good Building = 45.47%
 * Daylight factor = 27.07%
 * Passive ratio = 100%
 * Solar Factor = 87.18% 
+
+![Figure 9. Iteration 2 Building simulations](./imgs/eval_2gw.png)
+Figure 9b. Iteration 2 Building simulations
 
 ### Good Window =13.48%
 * View Factor = 23.14%
