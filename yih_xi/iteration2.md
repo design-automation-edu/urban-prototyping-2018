@@ -3,7 +3,7 @@
 <img src="imgs/2_elevation.jpg" width = "1000">
 <p align="center"> 1 elevation
 
-The second iteration is continues the typology of a highly dense built-up environment. The height of the residential blocks are affected by the proximity to the MRT nodes. The elevation shows the skyline of the urban planning. The distribution is slightly steeper. There was 1 sudden increase in building height. This is due to the intended allocation of one of the existing plot for a localized green. 
+The second iteration is continues the typology of a highly dense built-up environment. The height of the residential blocks are affected by the proximity to the MRT nodes. The elevation shows the skyline of the urban planning. The distribution is slightly steeper. There was a sudden increase in building height, where 1 building is an anomaly in its extreme height. This is likely due to the allocation of one of the existing plot for a localized green that decreased the area of usable land for programmable land use. 
 
 <p align="center"><img src="imgs/2_figureground.jpg" width = "400">
 <p align="center"> 2 urban plan
@@ -36,7 +36,7 @@ Percentage of Good Buildings: 50.4%
 <p align="center"><img src="imgs/iteration2_GW.jpg" width = "1000"> 
 <p align="center"> 4 analysis of good windows
 
-Unexpectedly, as what we observe from iteration 1, the high percentage of "good" windows has still maintained although statistically, it has decreased by 1%. The   
+Unexpectedly, as what we observe from iteration 1, the high percentage of "good" windows has still maintained although statistically, it has decreased by 1%. The percentage of "good" views and good window ratio is still positive overall.   
 
 ````
 Percentage of Good Windows: 82.6% 
@@ -45,7 +45,7 @@ Percentage of Good Windows: 82.6%
 > <p align="center"><img src="imgs/2_overall.jpg" width = "1000">
 >   
 > ### Evaluation 
-> Although this was an iteration that did not take into account of the greens, the percentage of good windows was unexpectedly good. However, whether or not this would lead to a better urban environment would require more simulations.
+> This iteration had purposefully allocated localized subplots within each urban block for greens. This is to improve the views as well as the daylight factor. One huge contrast that has been highlighted in both iteration 1 and 2 is that while simulation has proven that the typology has provided positive view factor and good window factor, it becomes queer that the percentage of "good" window is so drastically different in result. 
 
 
 
