@@ -4,7 +4,7 @@
 This iteration features simulation based on the same block typology tested on Type 3 Regularized grid with primary and secondary roads, as described in the introduction of the chapter. Iteration 3B features the same typology where the residential tower sits on the commercial podium block, however, the depth and width of the residential block is reduced.
 
 
-![Figure 12. Block typology and Urban morphology for Iteration 3b](./imgs/iteration_3b.png)
+![Figure 12. Block typology and Urban morphology for Iteration 3b](./imgs/iteration_3bv2.png)
 Figure 12. Block typology and Urban morphology for Iteration 3b
 
 ### Set-up
