@@ -24,7 +24,7 @@ Commercial: 10m^2
 Office: 15m^2 
 Residential: 50m^2
 `````
-<p align="center"><img src="imgs/iteration2_GB.jpg" width = "1000"> 
+<p align="center"><img src="imgs/iteration3_GB.jpg" width = "1000"> 
 <p align="center"> 4 analysis of good buildings
 
 In addition to the "good" residential buildings, there is a visible amount of offices that are "good" as well. This is in reaction to the localized greens on each plot that allows for greater passive ratio. That being said, the solar factor has also visibly increased due to the exposure to solar element in "empty" green plots. It has always been a balance in terms of allowing for dayighting and passivity in contrast to the solar radiation that each building will be exposed to. Overall, the percentage of "good" buildings has increased to 50.4% in comparison to iteration 1.  
@@ -33,19 +33,19 @@ In addition to the "good" residential buildings, there is a visible amount of of
 Percentage of Good Buildings: 52.2% 
 ````
 
-<p align="center"><img src="imgs/iteration2_GW.jpg" width = "1000"> 
+<p align="center"><img src="imgs/iteration3_GW.jpg" width = "1000"> 
 <p align="center"> 4 analysis of good windows
 
 Unexpectedly, as what we observe from iteration 1, the high percentage of "good" windows has still maintained although statistically, it has decreased by 1%. The percentage of "good" views and good window ratio is still positive overall.   
 
 ````
-Percentage of Good Windows: 82.6% 
+Percentage of Good Windows: 83.2% 
 ````
 
-> <p align="center"><img src="imgs/2_overall_new.jpg" width = "1000">
+> <p align="center"><img src="imgs/3_overall.jpg" width = "1000">
 >   
 > ### Evaluation 
-> This iteration had purposefully allocated localized subplots within each urban block for greens. This is to improve the views as well as the daylight factor. One huge contrast that has been highlighted in both iteration 1 and 2 is that while simulation has proven that the typology has provided positive view factor and good window factor, it becomes queer that the percentage of "good" window is so drastically different in result. 
+> This iteration  
 
 
 
