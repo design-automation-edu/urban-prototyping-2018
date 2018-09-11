@@ -32,6 +32,7 @@ With the existing site conditions in mind, a concept plan in relation to surroun
 ![Fig. 4: Conceptual zoning plan based on parameters](imgs/CONCEPT.jpg)
 
 The design goals are:
+
 **1.  Clean-Tech Industrial will be located along AYE as it is an undesirable source of air and noise pollution.**
 
 **2.  Residential spaces will be located along Dover Road to be in close proximity to existing MRT stations (Dover MRT, One-North MRT and Kent Ridge MRT). These spaces are located in the middle of Offices/Education and Industrial spaces as they are to be shared among either users.**
