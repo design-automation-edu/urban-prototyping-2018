@@ -57,8 +57,19 @@ In the collaboration zone, programs include retail, office and short-term accomm
 
 
 
-## Evaluation Results
+## Optimising for Good Building
 ![Fig. 3g: Optimising for Good Building](imgs/3g.jpg) 
 <p align="center"> _Figure 3g: Optimising for Good Building_
  
 Overall, Iteration 3 displayed an improved good building results with optimal results for residential, retail and office typologies. Some industrial buildings experience shortfall in view factor due to its compact footprint and close proximity. However due to the nature of the programs being within controlled enclose environment, the impact could be negligible.
+
+## Performance Analysis
+
+![](imgs/3h.jpg) 
+<p align="center"> _Figure 3h: Good Window Factors_
+
+![](imgs/3i.JPG) 
+<p align="center"> _Figure 3i: Good Window Results_
+
+![](imgs/3j.JPG) 
+<p align="center"> _Figure 3j: Overall Good Building_
