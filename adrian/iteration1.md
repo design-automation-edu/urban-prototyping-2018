@@ -1,10 +1,12 @@
 
 # Iteration 1
 
-In iteration 1, programs are arranged responding to its adjacent programs and transport amenities.
+
  ![](imgs/1a.JPG) 
 
 <p align="center"> _Figure 1a: Iteration 1 Plot Division in relation to adjacent MRT Stations_
+
+In Iteration 1, programs are arranged responding to adjacent programs and proximity to transport nodes. A 500m radius was drawn from the 2 MRT stations on site, highlighting greatest area of accessbility towards the north portion of the plot. This information influenced the subsequent planning of commercial and residential programs consolidating towards the west portion.
 
 
 **Industrial** 
