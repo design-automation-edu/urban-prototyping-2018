@@ -2,8 +2,11 @@
 
 ## Concept
 In this iteration, I will take these requirements as key points, and the final goals are as follows:
+
 1.Every apartment block can have its own greenery
+
 2.Service functions are juxtaposed with residential buildings.
+
 3.Create street hierarchy
 
 So I decided to arrange Residential and commercial buildings in an ABAB form, which solves the problem of lacking sunshine in the previously proposed residential buildings. 
