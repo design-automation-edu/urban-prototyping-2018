@@ -25,8 +25,10 @@ Commercial: 10m^2
 Office: 15m^2 
 Residential: 50m^2
 `````
+<p align="center"><img src="imgs/iteration1_GB.jpg" width = "1000"> 
+<p align="center"> 4 analysis of good buildings
 
-
+Percentage of Good Buildings: 38.6% 
 
 
 
