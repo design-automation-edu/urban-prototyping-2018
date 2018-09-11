@@ -54,7 +54,7 @@ Figure 2.5 Iteration 1b and iteration 2
 
 ### Evaluation of Results
 
-![Comparison of results between Iteration 1b and iteration2](imgs/hc12.png)
+![Comparison of results between Iteration 1b and iteration2](imgs/hc23.png)
 
 Figure 2.6 Comparison of results between Iteration 1b and iteration 2
 
