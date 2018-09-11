@@ -11,12 +11,28 @@ This first iteration is an example of a highly dense built-up environment. The h
 
 The greens are allocated in the periphery of the urban plot that manifest itself as leftover spaces of areas less than 150m^2. This is an enactment of when the naturalscape is not accounted for, or purposefully designed for. 
 
->````
->Road Width: 16m
->Total No. of Buildings: 948
->````
+````
+Road Width: 16m
+Total No. of Buildings: 948
+````
 
 <p align="center"><img src="imgs/1_plotallocation.jpg" width = "600"> 
 <p align="center"> 3 plot allocation
    
+A total of 75m^2 is allocated to each person on site. The following is the breakdown of the allocation of plot percentage. Residential was allocated the highest percentage for improved standard of living. 
+````
+Commercial: 10m^2
+Office: 15m^2 
+Residential: 50m^2
+`````
+
+
+
+
+
+
+
+
+
+
 
