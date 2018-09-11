@@ -19,7 +19,7 @@ For this iteration, the mixed-use podium-tower block typology was adopted, arran
 ### Commercial Shops *(highlighted in red)*
 The commercial shops are located underneath alternate residential blocks so as to serve the both local residences, but also students from Anglo Chinese Junior College, NUS UTown and Singapore Polytechnic. These are strategically located around the courtyard so as to provide an alternative meeting spots for students.
 
-### Commercial Shops *(highlighted in blue)*
+### Offices *(highlighted in blue)*
 Offices are mainly present in the centre of Cluster #01 and along the sides of Cluster #03. This is to facilitate a ecosystem of residents who are able to work within close proximity to their homes. Offices are also placed closed to the commercial shops to allow for ease of access to food and beverage outlets during lunch time.
 
 ### Industrial *(highlighted in purple)*
