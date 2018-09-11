@@ -28,7 +28,7 @@ Some residential buildings have not reached the standard, mainly because of the 
 Again, most of the residences' daylight and view factor are above the threshold.
 
 ## Improvement
-Try to decrease the height of recidences, which is helpful for lighting and view. or the unsatisfactory commercial part, another arrangement needs to be considered, provided that each residential building still needs a commercial building around.
+Try to decrease the height of recidences, which is helpful for lighting and view. as for the unsatisfactory commercial part, another arrangement needs to be considered, provided that each residential building still needs a commercial building around.
 
 ### P.S.
 
