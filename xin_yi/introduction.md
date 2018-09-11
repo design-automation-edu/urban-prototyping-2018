@@ -4,7 +4,7 @@ This chapter is an exploration of urban prototyping where urban ventilation star
 
 The programs within this urban prototyping master plan include residential, institutional (clean-tech R&D, offices), and commercial. 
 
-![Plot coverage and Building Typology](https://static.cambridge.org/resource/id/urn:cambridge.org:id:binary:20170831085823188-0871:9781139016476:84950fig15_10.png?pub-status\u003dlive)
+<img src="imgs/00highlowcoveragerise.png" width ="350">
 
 Figure 0.1 Plot coverage and Building Typology
 
@@ -28,7 +28,7 @@ __Introducing an Air Path, and Orientation of Streets__
 A strip of land with low frontal area density, corresponding to Class 1 wind velocity ratio classification (good pedestrian-level natural ventilation), that can serve as a green link/open area for recreation. 
 As a rule of thumb, breezeways should be aligned in parallel, or up to 30 degrees to the prevailing wind direction, in order to maximise penetration of prevailing winds. As such, apart from the designated air path, the array of main streets, have been oriented along the NNE direction. 
 
-![Wind rose singapore](http://www.weather.gov.sg/wp-content/uploads/2017/01/CCS-Figure8.png)
+<img src="http://www.weather.gov.sg/wp-content/uploads/2017/01/CCS-Figure8.png" width ="350">
 
 Figure 0.3 Annual wind rose (m/s) (1981-2010) Singapore
 
