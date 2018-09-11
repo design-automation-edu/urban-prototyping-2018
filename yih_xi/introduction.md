@@ -20,6 +20,15 @@ Using a formal road grid system, the built-up area has placed consideration in p
 ### Iteration 4: The Greater Grid and Green  
 <img src="imgs/4_figureground.jpg" width = "400">
 
-In an attempt to test out specifically the effect of a central park and courtyard greens, this iteration was originally one that held the hypothesis of being one that would have the highest rate of good buildings as well as a better urban environment. 
+In an attempt to test out specifically the effect of a central park and courtyard greens, this iteration was originally one that held the hypothesis of being one that would have the highest rate of good buildings, which in turn will signify as a better urban environment. 
 
-
+The thresholds for determining a good/bad building is as follows:
+```
+Good window thresholds
+   View threshold > 0.4
+   Daylight threshold > 0.1
+   Solar threshold < 0.2
+Good building thresholds
+   Passive threshold > 0.5
+   Good window threshold > 0.1
+```
