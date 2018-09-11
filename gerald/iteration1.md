@@ -16,6 +16,9 @@ _Industrial_ buildings used a courtyard typology was used under the assumption t
 
 _Commercial_ typology consists of a 1-4 floor podium of shops to create street level engagement with pedestrians, and a tower block of offices sitting above the podium. A courtyard is created to bring additional daylight into the deep slab podium.
 
+
+
+
 __Evaluation__
 
 ![gd bldg eval](./imgs/Good_building_evaluation.jpg)
@@ -23,11 +26,13 @@ __Evaluation__
 _Residential 1_
 
 Percentage of good buildings: 100.0% (10/10 good buildings)
+
 Unexpectedly, the long north-south facing blocks fare well in terms of the environmental evaluation. East-west facing windows however would always score poorly due to excess solar radiation. 
 
 _Residential 2_
 
 Percentage of good buildings: 97.6% (40/41 good buildings)
+
 The random but orthogonal grid proved to successfully generate blocks whose north-south faces created an excellent proportion of windows. It is interesting to note that the moderately dense clustering arrangement of the residential towers was able to mitigate the effects of excessive solar radiation as seen in Residential Typology 1; however certain highly dense clusters would reduce the admission of sunlight, that its daylighting would be deemed insufficient at lower portions of the building. Likewise, the arrangement results in poorer sky exposure within the neighbourhood.
 
 ![gd bldg eval](./imgs/daylighting_analysis_it1_resi.jpg)
