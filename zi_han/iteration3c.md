@@ -4,7 +4,7 @@
 In this iteration, a standard tower typology is explored to investigate its efficiency, should developers be interested to build a tower without a central courtyard.
 
 
-![Figure 14. Block typology and Urban morphology for Iteration 3c](./imgs/iteration_3c.png)
+![Figure 14. Block typology and Urban morphology for Iteration 3c](./imgs/iteration_3cv2.png)
 Figure 14. Block typology and Urban morphology for Iteration 3c
 
 ### Set-up
