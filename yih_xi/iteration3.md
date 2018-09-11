@@ -5,7 +5,7 @@
 
 The second iteration is continues the typology of a highly dense built-up environment. The height of the residential blocks are affected by the proximity to the MRT nodes. The elevation shows the skyline of the urban planning. The distribution is slightly steeper. There was a sudden increase in building height, where 1 building is an anomaly in its extreme height. This is likely due to the allocation of one of the existing plot for a localized green that decreased the area of usable land for programmable land use. 
 
-<p align="center"><img src="imgs/2_figureground.jpg" width = "400"><img src="imgs/3_figureground.jpg" width = "400">
+<p align="center"><img src="imgs/2_figureground.jpg" width = "400">
 <p align="center"> 2 urban plan
 
 The greens are allocated in one of the subplot in the urban plot that manifest itself as a localized green space to be shared by each plot's users. The area amount to about 1000m^2. 
@@ -15,7 +15,7 @@ Road Width: 20m
 Total No. of Buildings: 801
 ````
 
-<p align="center"><img src="imgs/2_plotallocation.jpg" width = "600"> 
+<p align="center"><img src="imgs/2_plotallocation.jpg" width = "600"><img src="imgs/3_plotallocation.jpg" width = "600">  
 <p align="center"> 3 plot allocation
    
 A total of 75m^2 is allocated to each person on site. The following is the breakdown of the allocation of plot percentage. Residential was allocated the highest percentage for improved standard of living. 
