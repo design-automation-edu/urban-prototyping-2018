@@ -19,7 +19,8 @@ Figure 2.1 Community and recreation space within atrium and podium block
 * changes to podium block 
   * polyexpand offset (inwards) by xx m to create atrium
   
-![Changes to precinct and podium block](imgs/02atriumprecinct111.jpg)
+  
+<img src="imgs/02atriumprecinct111.jpg" width = "400"> 
 
 Figure 2.2 Changes to precinct and podium block
 
