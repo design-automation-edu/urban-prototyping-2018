@@ -13,7 +13,7 @@ In Iteration 1, programs are arranged responding to adjacent programs and proxim
  ![](imgs/1b.JPG) 
 
 <p align="center"> _Figure 1b: Overview of Iteration 1_
- 
+<p align="center"> _(Grey: Industrial, Yellow: Residential, Red: Retail, Blue: Offices, Green: Parks)_
  
 # Industrial Buffer and Green Spine
 
