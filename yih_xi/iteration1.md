@@ -5,3 +5,7 @@
 <p align="center"> elevation
 
 
+<img src="imgs/1_plotallocation.jpg" width = "400"> 
+
+>This first iteration deals with highly maximized plot usage.   
+
