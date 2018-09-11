@@ -19,14 +19,19 @@ The green space together with the neighborhood segment the lane boundary effecti
 
 ## Evaluation
 
-![gras](imgs/I3P11.png)
+![gras](imgs/I3P3.jpg)
 
 Some residential buildings have not reached the standard, mainly because of the height. For having commercial buildings underneath, the residences are higher than it should be.
 
-![gras](imgs/I3P12.png)
+![gras](imgs/I3P4.png)
 
 Again, most of the residences' daylight and view factor are above the threshold.
 
 ## Improvement
 Try to decrease the height of recidences, which is helpful for lighting and view. or the unsatisfactory commercial part, another arrangement needs to be considered, provided that each residential building still needs a commercial building around.
 
+### P.S.
+
+All buildings except supermarkets are good buildings when taking higher threshold as standard.
+
+![gras](imgs/I3P7.jpg)
