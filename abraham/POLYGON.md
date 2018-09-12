@@ -34,11 +34,13 @@ The plot is firstly offset from the center with a width of 20m. Next, the podium
 
 Performance analysis of this typology has returned good results. However, one tower scored low on solar exposure. This is due to a large facade facing the east. This would not be a problem if we consider all the towers as an one building as the ratios would be averaged out by the north-south facades of other towers. Therefore, in order to give a balanced overall assesment, we've decided to reduce the solar exposure threashold to 0.25 (easier) and increase the view factor to 0.45 (harder) so as to adapt the thresholds to this specific typology. The rest of the parameters remains unchanged.
 
+
 ![Iteration 1](./imgs/a7.png)
 
 
 
 ![Performance Analysis](./imgs/a6.png)
+
 
 
 After populating the plots with the typology, performance analysis has returned a good building percentage of 81% . We see that some buildings are classified as “bad” due to limited view. Therefore, the following improvements are proposed:
@@ -49,9 +51,11 @@ After populating the plots with the typology, performance analysis has returned 
    *   Convert 20% of plots to open spaces
    *   Towers vary in height for better view 
 
+
 ![Iteration 2](./imgs/a8.png)
 
-With the above improvements, good building percentage has increased to 87.2%. However, the urban fabric still looks too rigid and dense spatially.
+
+With the above improvements, good building percentage has increased to 87.2%. However, the urban fabric still looks too rigid and dense.
 
 
 ![Iteration 3](./imgs/a9.png)
@@ -59,12 +63,16 @@ With the above improvements, good building percentage has increased to 87.2%. Ho
 
 To improve further, the rectangular grid could be changed to a Voronoi grid. A Voronoi grid creates more turns and multi-edged urban blocks which offers higher excitement in walking and more dynamism in views.
 
-![text label](./imgs/a10.png)
-![Performance Analysis](./imgs/a11.png)
+![Performance Analysis 1](./imgs/a10.png)
+
+
+
+![Performance Analysis 2](./imgs/a11.png)
+
 
 With Voronoi, good building ratio has improved further to 90%. It also helps to slow down traffic and increase walkability in the neighbourhoods. Traffic in and out of the city could still take the main roads and trickle down to each urban plot. 
 
-The podium typology creates a good mix between retail and residential and all factory and offices are within walking distance from both UTown and one-north. The green spaces and courtyards would become semi-public spaces that promote interation and community.
+The podium typology creates a good mix of retail and residential and all factory and offices are within walking distance from both UTown and one-north. The green spaces and courtyards would become semi-public spaces that promote interation and community.
 
 
 ![Perspective with Programme Colour](./imgs/r2.jpg)
