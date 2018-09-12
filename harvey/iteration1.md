@@ -44,14 +44,17 @@ The following are the results of iteration 1:
 
 *Figure 7. solar_threshold (<0.2): 0.13*
 
-(figure 8)
-Passive_threshold (>0.5):  0.90
+![](./imgs/it1passive.png)
 
-(figure 9)
-Good_window_threshold (>0.1):  0.11
+*Figure 8. Passive_threshold (>0.5):  0.90*
 
-(figure 10)
-OVERALL GOOD BUILDING PERCENTAGE: 37% 
+![](./imgs/it1%20window.png)
+
+*Figure 9. Good_window_threshold (>0.1):  0.11*
+
+![](./imgs/it1%20good%20building.png)
+
+*Figure 10. OVERALL GOOD BUILDING PERCENTAGE: 37% *
 
 As seen from the results above, iteration 1 met all the required threshold values, albeit the good window threshold was only marginally better than what is required. 
 
