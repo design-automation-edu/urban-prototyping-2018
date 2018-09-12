@@ -25,7 +25,7 @@ Blue color indicates space having good value for solar factor. Most of the build
 
 ![Fig.: Daylight Factor](imgs/OP1_1DAYLIGHTFACTOR.jpg)
 ![Fig.: Daylight Factor](imgs/OP1_2DAYLIGHTFACTOR.jpg)
-* **Daylight Factor**</br>
+* **Daylight Factor**<br/>
 The result reflects that provision of daylighting for South-West or North-West facing elevations is poor. The South-East elevations of some buildings also fail to access sufficient daylight. It might because of the closely packed arrangement among building blocks.<br/>
 <br/><br/>
 
