@@ -33,9 +33,7 @@ To ensure a vibrant life, we are proposing a courtyard-podium + tower typology. 
 
 The plot is firstly offset from the center with a width of 20m. This would ensure good passive area in the podium.
 
-The podium is extruded according to relative density and the roof is further divided into plots for towers. Each tower is offset 8 meters from each other (16m distance from blocks) to facilitate wind flow through the building and increase view factor.
-
-The towers are raised to create a porous roof level for resident access.
+The podium is extruded according to relative density and the roof is further divided into plots for towers. Each tower is offset 8 meters from each other (16m distance from blocks) to facilitate wind flow through the building and increase view factor, and the towers are raised to create a porous roof level for resident access.
 
 Performance analysis of this typology has returned good results. However, one tower scored low on solar exposure. This is due to a large facade facing the east. This would not be a problem if we consider the towers as one continuous development. The solar exposure ratio would be balanced out by the north south facing windows of other towers. Therefore,  in order to give a balanced overall assesment, we've decided to reduce the solar exposure threashold to 0.25 (easier) and increase the view factor to 0.45 (harder) so as to adapt the thresholds to this specific typology. The rest of the parameters remains unchanged.
 
