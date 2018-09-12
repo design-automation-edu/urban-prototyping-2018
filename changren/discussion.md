@@ -27,7 +27,7 @@ Walking in such a 800m x 800m range, you have only 9 choices in Ville Radieuse, 
 
  The population of Amsterdam in the picture below is similar to the population density of Ville Radieuse. If you want to reach the density of Amsterdam or Paris, the Ville Radieuse needs to reach a height of 15 stories.
  
-![gras](imgs/CP6.jpg) 
+![gras](imgs/CP9.jpg) 
 
 Although each building is allocated near greenery, it seems that the vertical distance between people and the green space is not considered. Human beings are inert animals, and such height seems to isolate the relationship between people and the ground.
 
