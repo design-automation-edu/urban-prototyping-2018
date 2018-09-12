@@ -54,7 +54,7 @@ The following are the results of iteration 1:
 
 ![](./imgs/it1%20good%20building.png)
 
-*Figure 10. OVERALL GOOD BUILDING PERCENTAGE: 37% *
+*Figure 10. OVERALL GOOD BUILDING PERCENTAGE: 37%*
 
 As seen from the results above, iteration 1 met all the required threshold values, albeit the good window threshold was only marginally better than what is required. 
 
