@@ -1,7 +1,7 @@
 # Iteration 2
 
 The second iteration is a continuation of the first one, according to the evaluation in literation 1. I tried to still remain the three core zones and deal with the problems in several ways in different zones.
- 
+ ![gras](imgs/未标题-2.jpg)
 Urban morphology settings Changes
 Commercial: 6 sqm per person
 Industrial: 3 sqm per person
@@ -10,11 +10,11 @@ First Level Roads 9m
 Second Level Roads 6m
 Zone 01
 1.	Recreate the scale 
- 
+![gras](imgs/zone01.jpg)
 According to last literation, bad buildings in this part had bad solar factor and daylight factor. This may because of the big scale of the building and small gaps between them. So I tried to change it into smaller scales, gaining more free spaces and taller buildings.
 
 Zone 02
- 
+![gras](imgs/zone022.jpg) 
 1.	Reset the function of residential zone.
 2.	Increase the area of green land.
 In this literation, residential-commercial mixed blocks were used instead of the single function zone. The commercial area was considered as the podium  while the residential area was the tower. The appearance of commercial areas (showing in blue) can be convenient for residents to grab food, buy daily supplies, etc. At the same time, the decrease of residential area (showing in pink) will lead to much taller buildings. This can affect view factor and solar factor which some of the buildings in this zone are bad at. 
@@ -25,19 +25,19 @@ Zone 03
 Since there is only one bad building in this zone, I remained the original form of it. Adjusted the boundary, the gaps between two buildings and the extrude distance between podium and tower.
 The overview of this literation is showing below.
  
-
+![gras](imgs/02overview.jpg) 
 Evaluation Analysis  
- 
+ ![gras](imgs/02good building.jpg)
 Good Building
- 
+  ![gras](imgs/02solar factor.jpg)
 Solar Factor
- 
+  ![gras](imgs/02daylight factor.jpg)
 Daylight Factor
- 
+   ![gras](imgs/02view factor.jpg)
 View Factor
- 
+   ![gras](imgs/02passive ratio.jpg)
 Passive Ratio
- 
+   ![gras](imgs/02good window.jpg) 
 Good Window 
 
 Conclusion:
