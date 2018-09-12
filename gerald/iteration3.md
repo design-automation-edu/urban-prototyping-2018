@@ -13,7 +13,7 @@ Iteration 1’s residential typology 1 was reassigned as office buildings for co
 
 Iteration 1’s industrial typology was adjusted in its building depth and proportions in order to optimise it according to environmental analysis.
 
-![Fig. 1: green](imgs/imgs/it3_greening.jpg)
+![Fig. 1: green](imgs/it3_greening.jpg)
 _Application of the "Greening Attribute" to plots_
 
 ![Fig. 1: superimposed grid](imgs/it3_plan_layered.jpg)
