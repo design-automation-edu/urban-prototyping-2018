@@ -44,7 +44,7 @@
   * [Iteration 3](xin_yi/iteration3.md)
   * [Discussion](xin_yi/discussion.md)
   
-* [Title For derek's Project](derek/overview.md)
+* [Organic and Planned Cities](derek/overview.md)
   * [Introduction](derek/introduction.md)
   * [Iteration 1](derek/iteration1.md)
   * [Iteration 2](derek/iteration2.md)
@@ -72,13 +72,6 @@
   * [Iteration 3](gerald/iteration3.md)
   * [Discussion](gerald/discussion.md)
   
-* [Title For jie_zhi's Project](jie_zhi/overview.md)
-  * [Introduction](jie_zhi/introduction.md)
-  * [Iteration 1](jie_zhi/iteration1.md)
-  * [Iteration 2](jie_zhi/iteration2.md)
-  * [Iteration 3](jie_zhi/iteration3.md)
-  * [Discussion](jie_zhi/discussion.md)
-  
 * [Chaflán](lisa/overview.md)
   * [Introduction](lisa/introduction.md)
   * [Iteration 1a](lisa/iteration1a.md)
@@ -95,14 +88,7 @@
   * [Iteration 3](chung_yan/iteration3.md)
   * [Discussion](chung_yan/discussion.md)
   
-* [Title For rong_guang's Project](rong_guang/overview.md)
-  * [Introduction](rong_guang/introduction.md)
-  * [Iteration 1](rong_guang/iteration1.md)
-  * [Iteration 2](rong_guang/iteration2.md)
-  * [Iteration 3](rong_guang/iteration3.md)
-  * [Discussion](rong_guang/discussion.md)
-  
-* [Title For wei_rong's Project](wei_rong/overview.md)
+* [The Rectangular Grid](wei_rong/overview.md)
   * [Introduction](wei_rong/introduction.md)
   * [Iteration 1](wei_rong/iteration1.md)
   * [Iteration 2](wei_rong/iteration2.md)
@@ -139,14 +125,14 @@
   * [Iteration 3](jing_si/iteration3.md)
   * [Discussion](jing_si/discussion.md)
   
-* [Title For weichen's Project](weichen/overview.md)
+* [Crossing Connections](weichen/overview.md)
   * [Introduction](weichen/introduction.md)
   * [Iteration 1](weichen/iteration1.md)
   * [Iteration 2](weichen/iteration2.md)
   * [Iteration 3](weichen/iteration3.md)
   * [Discussion](weichen/discussion.md)
   
-* [Title For yutong's Project](yutong/overview.md)
+* [Urban Fabric](yutong/overview.md)
   * [Introduction](yutong/introduction.md)
   * [Iteration 1](yutong/iteration1.md)
   * [Iteration 2](yutong/iteration2.md)
@@ -166,20 +152,6 @@
   * [Iteration 2](changren/iteration2.md)
   * [Iteration 3](changren/iteration3.md)
   * [Discussion](changren/discussion.md)
-  
-* [Title For hengyu's Project](hengyu/overview.md)
-  * [Introduction](hengyu/introduction.md)
-  * [Iteration 1](hengyu/iteration1.md)
-  * [Iteration 2](hengyu/iteration2.md)
-  * [Iteration 3](hengyu/iteration3.md)
-  * [Discussion](hengyu/discussion.md)
-  
-* [Title For jiake's Project](jiake/overview.md)
-  * [Introduction](jiake/introduction.md)
-  * [Iteration 1](jiake/iteration1.md)
-  * [Iteration 2](jiake/iteration2.md)
-  * [Iteration 3](jiake/iteration3.md)
-  * [Discussion](jiake/discussion.md)
   
 ---
  
