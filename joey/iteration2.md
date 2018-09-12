@@ -1,9 +1,5 @@
 # Iteration 2
 The courtyard typology of the Industrial building blocks in Model 1b was brought forward into the next iteration. Industrial and Residential blocks adopts this typology as it allows a fair amount of ‘breathability’ between building blocks. Furthermore, daylight is able to reach deeper areas of these blocks. 
-![Fig. 14: Generating Iteration 2](imgs/Iteration2.jpg)
-
-## Model 2b: Overall
-The sprawl of building blocks is not without its order - reiterating the concept of retaining the ridge as a symbolic form of the area, similar to Model 1b, areas are intensified according to the proximity of public transport amenities namely One-North, Kent Ridge and Buona Vista MRT stations. 
 
 **Urban Morphology of Model 2b**
 
@@ -30,6 +26,11 @@ The sprawl of building blocks is not without its order - reiterating the concept
 | Floor Height (m)  | No. of Storeys | Street Width (m) |
 | ------------ | ------------- | ------------- |
 | 6 | 1 | 8 |
+
+![Fig. 14: Generating Iteration 2](imgs/Iteration2.jpg)
+
+## Model 2b: Overall
+The sprawl of building blocks is not without its order - reiterating the concept of retaining the ridge as a symbolic form of the area, similar to Model 1b, areas are intensified according to the proximity of public transport amenities namely One-North, Kent Ridge and Buona Vista MRT stations. 
 
 ![Fig. 15: Overall Model 2b](imgs/Iteration2b_Overall.jpg)
 
