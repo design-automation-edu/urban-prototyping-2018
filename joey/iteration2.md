@@ -5,6 +5,32 @@ The courtyard typology of the Industrial building blocks in Model 1b was brought
 ## Model 2b: Overall
 The sprawl of building blocks is not without its order - reiterating the concept of retaining the ridge as a symbolic form of the area, similar to Model 1b, areas are intensified according to the proximity of public transport amenities namely One-North, Kent Ridge and Buona Vista MRT stations. 
 
+**Urban Morphology of Model 2b**
+
+***Residential***
+
+| Floor Height (m)  | No. of Storeys | Street Width (m) |
+| ------------ | ------------- | ------------- |
+| 3 | 1 - 19 | 6 |
+
+***Clean-tech Industrial*** 
+
+| Floor Height (m)  | No. of Storeys | Street Width (m) |
+| ------------ | ------------- | ------------- |
+| 10 | 9 - 17 | 5 |
+
+***Offices*** 
+
+| Floor Height (m)  | No. of Storeys | Street Width (m) |
+| ------------ | ------------- | ------------- |
+| 3 | 1 - 5 | 8 |
+
+***Retail*** 
+
+| Floor Height (m)  | No. of Storeys | Street Width (m) |
+| ------------ | ------------- | ------------- |
+| 6 | 1 | 8 |
+
 ![Fig. 15: Overall Model 2b](imgs/Iteration2b_Overall.jpg)
 
 ### Model 2b: Daylight Factor
