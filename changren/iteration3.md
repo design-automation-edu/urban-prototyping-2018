@@ -1,4 +1,4 @@
-# Iteration 2
+# Iteration 3
 
 ## Concept
 In this iteration, I will take these requirements as key points, and the final goals are as follows:
@@ -24,22 +24,20 @@ The green space together with the neighborhood segment the lane boundary effecti
 
 ![gras](imgs/I3P3.jpg)
 
-Some residential buildings have not reached the standard, mainly because of the height. For having commercial buildings underneath, the residences are higher than it should be.
+The broad space between buildings can ensure a good amount of lighting for most of the residences even under high standards.One defect still remaining is the lacking of daylight of the commercial buildings underneath.
 
-Good Building Area Ratio: 41.9% (GBAR)  (Good Buildings GFA / Total GFA)
+Good Building Area Ratio: 77.4% (GBAR)  (Good Buildings GFA / Total GFA)
 
 Good Window Ratio: 51.6% (GWR)
 
-When GWR is bigger than GBAR, that means we are having some really big buildings that possess too much good windows, whose area is too large to have a good GWR. (Beacuse GWR = the number of good windows/GFA）
+So Under this urban morphology,most buildings can meet up with the higher standard. 
+
+The road is wide,and public spaces are evenly distributed to each apartment block.Although the commercial cannot get enough daylight, it is still acceptable for not having too much sunshine in such non-residential structure.The good window ratio of them does not reach 0.3, yet most of them are above 0.25, which is still a rather high value.
 
 ![gras](imgs/I3P4.png)
 
 Again, most of the residences' daylight and view factor are above the threshold. Only problem is the commercial part.
 
-## Improvement
-Try to decrease the height of recidences, which is helpful for lighting and view. as for the unsatisfactory commercial part, another arrangement needs to be considered, provided that each residential building still needs a commercial building around.
-
-Aand also, try to make buildings small and sporadic, which can increase the impact of good windows.
 
 ### P.S.
 
