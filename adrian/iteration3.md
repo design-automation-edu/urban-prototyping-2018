@@ -15,13 +15,14 @@ __2. R&D Zone__ requires larger volume buildings, and is located adjacent to the
 __3. The Collaboration Zone__ in the middle, contains a program mix of residential, retail and offices. This zone is designed as a collaborative platform, connecting the adjacent clusters on site as well as direct linkage from NUS itself. Thereby establishing a common ground for research, business and industrial collaboration.
 
 With these plot zones in mind, I then proceeded to introduce typologies within each respective cluster, fulfilling the hybrid program mix. 
-_(Grey: Industrial, Yellow: Residential, Red: Retail, Blue: Offices, Green: Parks)_
+
 
 
 
 
 ![Fig. 3b: Strip Typology with Ring Road](imgs/3b.JPG) 
 <p align="center"> _Figure 3b: Strip Typology with Ring Road_
+<p align="center"> _(Grey: Industrial, Yellow: Residential, Red: Retail, Blue: Offices, Green: Parks)_
 
 
 ## Work-Live Zone
