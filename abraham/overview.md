@@ -2,6 +2,19 @@
 
 **Abraham David Noah**
 
+![POLYGON](./imgs/r1.jpg)
+
+
+
+![TETRIS](./imgs/r4.jpg)
+
+
+
+![XYLEM](./imgs/r6.jpg)
+
+
+
+
 This project is an explorative journey into how different urban fabrics can be quickly generated, visualized and analyzed using procedural methods in Houdini. 
 
 The following chapters traces the evolution of three algorithms that generate distinct urban forms.
