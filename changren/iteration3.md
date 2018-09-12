@@ -43,6 +43,6 @@ Again, most of the residences' daylight and view factor are above the threshold.
 
 ### P.S.
 
-All buildings except supermarkets are good buildings when taking higher threshold as standard.
+All buildings except supermarkets are good buildings when taking lower threshold as standard.
 
 ![gras](imgs/I3P7.jpg)
