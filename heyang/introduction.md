@@ -1,6 +1,6 @@
 # Introduction
 
-## 2.3.1 Site Context
+## Site Context
 
 ![Site Context](./imgs/0-site.PNG)
 
@@ -14,7 +14,7 @@ Key nodes around the site are marked as above, where yellow represents main tran
 Assume there are 75,000 people live on site, and every person gets 35 m2, within which 18m2 goes to residential, 8m2 goes to commercial, 4m2 goes to clean tech industry, and last 5m2 goes to office. 
 
 
-## 2.3.2 Analysis Parameters
+## Analysis Parameters
 
 The thresholds for determining a good/bad window and building are as follows: 
 
