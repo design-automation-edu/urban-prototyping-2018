@@ -2,8 +2,7 @@
 
 ## Inspiration 
 
-Although there are still room for improvement, a few red buildings left, but the desired effect has been achieved. As you can see, Iteration3 gets the best results,
-When new meets old has put forward an optimization idea that is universally applicable to urban construction. It is not only applicable to Singapore, but can be extended to other cities in similar situations. Further, its land use nature is not limited to residential areas, even it can also simulate how to minimize the impact of high buildings when a point-layout CBD is planned next to a residential area.
+Although there are still room for improvement, a few red buildings left, and the building form still needs further explore，but the expected results has been achieved. When new meets old has put forward an optimization idea that is universally applicable to urban construction. It is not only applicable to Singapore, but can be extended to other cities in similar situations. Further, its land use nature is not limited to residential areas, even it can also simulate how to minimize the impact of high buildings when a point-layout CBD is planned next to a residential area.
 
 ## Learning methods
 
