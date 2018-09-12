@@ -33,15 +33,21 @@ The algorithm is constructed in the following steps:
 
 ![text label](./imgs/c6.png)
 
-7. The current structure is reminiscent of the podium typology introduced in POLYGON. By planting the typology function as a module into this algorithm, we obtain a podium-tower typology with residential in the towers and others in the megastructure. 
+7. The current structure is reminiscent of the podium typology introduced in POLYGON. By planting the typology function as a module into this algorithm, we obtain a podium-tower typology with residential in the towers and others in the megastructure. Although performance analysis returned good results, the leaf-like spatial arrangement of the programs in this iteration is not very conducive of community interaction as each residential tower has only two ajacent towers and the roof space is too elongated for walking. Further changes to the urban fabric is required.
 
 ![text label](./imgs/c7.png)
 
-8.
+
+8. The spaces enclosed by the branches of the megastructure offers an ideal location for communities to thrive. These courtyards offerr intimacy to the residents and the branches offers them work, shopping and the quickest way to commute to the fringe. Therefore, we subtracted the building footprint from the site, applied the generative function used in TETRIS on the resulting surface.
 
 ![text label](./imgs/c8.png)
-
 ![text label](./imgs/c9.png)
+
+9. Several density studies are done to find our the optimal setting in this context. Taking 2 blocks out of 5 blocks produces a low rise residential community. However, this model performs badly due to buildings blocking each other's view.
+
 ![text label](./imgs/c10.png)
 ![text label](./imgs/c11.png)
-![text label](./imgs/r5.jpg)
+
+10. After a series of trials, we set the density to 1 out of 5. This creates a mostly point block neighbourhood which returns a good building ratio of 96.38%. The spatial arrangment of the three program spaces is also effective where the private residential blocks are surrounded by semi pivate green spaces and hugged around by public retail and work spaces.This semi-lattice spatial relationship resovles the disadvanges of the megastructure discussed above.
+
+![Perspective with Programme Colour](./imgs/r5.jpg)
