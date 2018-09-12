@@ -1,9 +1,9 @@
 # Iteration 3
 
 ## Concept
-In this iteration, I decide to adopt a new urban morphology, that is distributing service functions such as commercial, office, catering and entertainment under every apartment blocks.At the same time, the east-west facing buildings will be substituted by small shops and greenery which can ensure that each residential building has green spaces adjacent to it.
+In this iteration, I decide to adopt a new urban morphology, that is distributing service functions such as commercial, office, catering and entertainment under every apartment blocks.At the same time, the east-west facing buildings will be substituted by small shops and greenery which can ensure two important things: First is that each residential building has green spaces adjacent to it. Second is that  nearly 30% commercial buildings are broke into small peaces and scattered all over the site.
 
-Another thing is that I try to break commercial buildings into small peaces and scatter them all over the site.
+
 
 ![gras](imgs/I2P1.jpg)
 
