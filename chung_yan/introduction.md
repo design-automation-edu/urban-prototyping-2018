@@ -23,7 +23,7 @@ After getting the above thresholds, subsequent simulations will be based on the 
    Daylight threshold > 0.1
    Solar threshold < 0.2
    
-Good building thresholds
+   Good building thresholds
    Passive threshold > 0.5
    Good window threshold > 0.1
 ```
