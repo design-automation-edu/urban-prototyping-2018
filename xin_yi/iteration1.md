@@ -1,15 +1,14 @@
 # Iteration 1 - Morphology of Urban Block
 
-![Iteration 1](imgs/h010site.png)
+![Iteration 1](imgs/h11site2.PNG)
 
 Figure 1.0 Iteration 1
 
 For the first iteration, the different “tiers” of the urban block are generated in order to form the podium + tower typology.
 
-![Urban block morphology and Street canyon](imgs/01streetcanyon.jpg)
+<img src="imgs/01streetcanyon.jpg" width = "300"> 
 
-Figure 1.1 Community and recreation space within atrium and podium blockprocess for iteration 2
-
+Figure 1.1 Urban block morphology and Street canyon
 
 ### Generative Process
 
@@ -38,35 +37,31 @@ Figure 1.3 Computational process for iteration 1
      * changed polyexpand setting: offset (inside) from 4m to 6m
 * rotating building angle to better align with east-west orientation, for better daylight
      * done by editing scale of primitive of both the podium plots: x:0.6, y:0.4, z:1
-      
-![Widening street width and Rotating building angle](imgs/01stwidthanglerotate.jpg)
+     
+<img src="imgs/01stwidthanglerotate.jpg" width = "450"> 
 
 Figure 1.4 Widening street width and Rotating building angle
 
 (do note that diagrams are only a graphical representation and not accurate to scale)
 
-![Iteration 1a and iteration 1b](imgs/hr11s.jpg)
+<img src="imgs/hit11.png" width = "400"> 
 
 Figure 1.5 Iteration 1a and iteration 1b
 
 ### Evaluation of Results
 
-![Comparison between Iteration 1a and iteration 1b](imgs/hr11.jpg)
+![Comparison between Iteration 1a and iteration 1b](imgs/hi11.png)
 
-Figure 1.5 Comparison between Iteration 1a and iteration 1b
+Figure 1.5 Iteration 1a results
 
-WRITE THIS PORTION AGAIN - refered to the wrong diagram.
+![Comparison of results between Iteration 1a and iteration 1b](imgs/hc11.png)
 
-Significant increase in number of good windows in tower blocks, owing to change in angle of building's long axis (affect mainly daylight factor and solar factor, less so view factor).
+Figure 1.6 Comparison of results between Iteration 1a and iteration 1b
 
-Significant increase in number of good buildings for podium block, mainly due to the better passive ratio achieved through widening streets (and therefore decreasing size of podium plots).
+__Tower block.__ There is a stark increase in the number of good buildings for the tower blocks, owing mainly to the improved passive area ratio. The improvement in the number of good windows (that also contributes to increase in number of good buildings) was due to the improvement in solar factor (less solar heat gain due to increased incident radiation). Both of which are a result of changing the orientation of the buildings' long axes in the east-west direction. 
 
-Human/social portion, implications of change - 
-if distance between two buildings is going to be increased to a width of 12m, cant all go to roads, > opportunity for designing livelier streetscape suitable for pedestrians.
+There is no significant improvement in the number of good buildings for the podium and precinct blocks.
 
+__Implication of Change__
 
-*Wide, accessible streets, squares, parks, sidewalks, bike paths and urban furniture stimulate interaction between people and the environment, generate a positive use of space and increase urban vitality.*
-
-opp for shared spaces. car-light neighbourhood cycling etc.
-
-*Wherever possible, public areas should be thought of following the principles of Complete Streets and “shared spaces.” The Complete Streets concept defines streets designed to ensure the safe circulation of all users—pedestrians, cyclists, drivers and users of public transport. Sidewalks in good condition, infrastructure for bicycles, street furniture and signage for all users are among the elements that can compose a complete street.*
+In an attempt to improve the view factor of the precinct blocks, the street width was increased from 8m to 12m. Taking the human scale into consdieration, not all of the width should go into the increase in width of vehicular roads, but rather, should be treated as an opportunity for designing livelier streetscapes in the direction of a car-lite neighbourhood. This can be done by providing sidewalks, bike paths, urban furnitures, etc. The increase in street width can be thought of as a shared space that accommodates different user groups (pedestrians, cyclists, drivers, users of public transport) to increase urban vitality.
