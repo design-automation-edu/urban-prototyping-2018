@@ -15,21 +15,21 @@ Network structure is divided by the suitable scale, also the relationship with M
 2.19.2.2Propose Building Typology
 
 -Zone 01: Office-commercial mixed zone
-![gras](imgs/typology01)
+![gras](imgs/typology01.jpg)
  
 The typology of this zone was podium and tower. It mainly present along Dover, at the nouth of the site. This office here (showing in yellow) is to set up an area for residents who are able to work close to their homes. And offices are also placed together with the commercial area (showing in blue) to make grabbing food and beverage easily for officers and residents. Due to the amount of buildings on site, the commercial part is 4 floors in average while the office part is 12 floors in average.
 
 -Zone 02: Residential Zone
-![gras](imgs/typology02)
+![gras](imgs/typology02.jpg)
 
 The typology of this zone was arranged in a courtyard configuration.Residential blocks are placed sandwiched the other two zones, the height was influenced by both MRT stations and AYE. It was developed by dividing the big blocks into a 105*105 meter grid which is walkable. It both close to the office zone, and easy to reach MRT stations present near the site. Every blocks was divided into four parts, surrounded with a green courtyard. So it can contents good view and ventilate. Small gaps between buidings make it more reachable. Due to the amount of residential blocks on site, this producing mid rise blocks with an average of 9 floors.
 
 -Zone 03: Industrial Zone
-![gras](imgs/typology03)
+![gras](imgs/typology03.jpg)
 
 The industrial block forms with a single volume, with a courtyard green space in front. This is for the loading of heavy equipment as well as to separate from residential area. Providing a leisure area for workers. Due to the amount of industrail blocks on site, the buildings are 18 floors in average.
  
-![gras](imgs/map)
+![gras](imgs/map.jpg)
 
 2.19.2.3 Initial settings
 
@@ -47,13 +47,13 @@ Pedestrian roads 3m
 
 2.19.2.4 Evaluation Analysis  
 
-![gras](imgs/Good Building) 
+![gras](imgs/good building.jpg) 
 Good Building
-![gras](imgs/View Factor)  
+![gras](imgs/view factor.jpg)  
 View Factor
-![gras](imgs/Daylight Factor)  
+![gras](imgs/daylight factor.jpg)  
 Daylight Factor
-![gras](imgs/Solar Factor)  
+![gras](imgs/solar factor.jpg)  
 Solar Factor
 Good Building Ratio: 50 %
 2.19.2.5 Conclusion: 
