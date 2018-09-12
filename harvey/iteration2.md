@@ -4,6 +4,7 @@ By studying iteration 1, it was possible that the building masses were too close
 It was therefore decided that there will be changes made to the grid sizes and the street width, as well as the courtyard typology of the commercial typology. The changes can be seen in the following:
 
 ![](./imgs/it%202%20plot.PNG)
+
 *Figure 11. grid plots of iteration 2*
 
 As the facades that face the AYE and Dover Road tend to produce better evaluation results, it was decided to elongate the grid in a direction parallel to the two major roads. This is done by reducing the grid length and grid width values from 11m to 9m and 150m to 115m respectively. 
