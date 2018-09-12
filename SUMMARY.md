@@ -9,11 +9,11 @@
 
 ---
 
-* [Title For abraham's Project](abraham/overview.md)
+* [Traversing Euclidean Space](abraham/overview.md)
   * [Introduction](abraham/introduction.md)
-  * [Iteration 1](abraham/POLYGON.md)
-  * [Iteration 2](abraham/TETRIS.md)
-  * [Iteration 3](abraham/iteration3.md)
+  * [POLYGON](abraham/POLYGON.md)
+  * [TETRIS](abraham/TETRIS.md)
+  * [XYLEM](abraham/iteration3.md)
   * [Discussion](abraham/discussion.md)
   
 * [Creation Hub](adrian/overview.md)
