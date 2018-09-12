@@ -33,7 +33,7 @@ Take this commercial building as an example, all windows have not reached the fi
 
 ![gras](imgs/I2P10.jpg)
 
-Good Building Area Ratio: 77.2% 
+Good Building Area Ratio: 24.7% 
 
 Good Window Ratio: 50%
 
