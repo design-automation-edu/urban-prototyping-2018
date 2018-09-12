@@ -16,8 +16,8 @@ In order to reduce solar radiance gain, all buildings on site have their long sp
 
 ![Iteration 1.1](./imgs/1a-1.png)
 
-Good Building: 73.8%
-Good Window: 58.7%
+**Good Building: 73.8%
+Good Window: 58.7%**
 
 The simulation results show a bad performance on the oversized commercial podium and commercial strips. To optimize the result, streets at the commercial strips were changed to boulevards with wider street scape and less view hinderance. Commercial Podiums with area more than 5000m2 are subdivided once more to reduce the undulating commercial street and create more intimate shopping streets.
 
@@ -30,8 +30,8 @@ Due to the reduced foot print of the hybrid residential space, the skyline shows
 
 ![Iteration 1.2](./imgs/1b-1.png)
 
-Good building: 90.9%
-Good window: 76.2%
+**Good building: 90.9%
+Good window: 76.2%**
 
 The performance has been largely improved by splitting up oversized blocks. However, the connecting commercial strips still perform as segments of urban plots which is lack of continuity. Thus, it still cannot fulfil the aim of synergizing the surrounding community on site. However, the zoning blends quite well with the current adjacent development.
 
