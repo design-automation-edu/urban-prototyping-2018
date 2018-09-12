@@ -23,7 +23,7 @@ Figure 4.Plot distribution options
 
 Various organisational methods and road widths were considered when dividing the plot. We came out with 3 types of grid distribution and gave them an evaluation in terms of its density, road organisation, avaliability of green spaces and its implications on view and facings. This is to understand the benefits of each apportionment method and bring its lessons forward to a scheme that is “bent and heterogeneous”.
 
-![Figure 5.Comparison of plot distribution types](./imgs/grid_table.PNG)
+![Figure 5.Comparison of plot distribution types](./imgs/grid_table1.PNG)
 Figure 5.Comparison of plot distribution types
 
 ## Standards for simulations
