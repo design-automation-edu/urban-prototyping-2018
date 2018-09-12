@@ -23,7 +23,7 @@ In 2.1 stimulation, the overall figues for good window ratio and solar factor ha
 Therefor in Iteration 2.2 to improve on the view factor and daylight factor, the buildings are staggered to allow for a better view stimulation. The buildings are also divided into density based distribution across the site. 
 
 ![](imgs/2b-1.jpg)
-<p align="center"> *Iteration 2.1 stimulation*
+<p align="center"> *Iteration 2.2 stimulation*
 
 The results for the 2.1 stimulation proved to have an improved result for the view factor and daylight factor, bringing the total good building ratio of 238 out of 294, 80.95% of good buildings.
 
