@@ -4,9 +4,11 @@ The following strategies and typologies were adopted to derive Model 1b which wi
 
 **Urban Morphology**
 *Residential* 
+
 | Floor Height (m)  | No. of Storeys | Street Width (m) |
 | ------------ | ------------- | ------------- |
 | 3 | 1 - 21 | 5 |
+
 
 *Clean-tech Industrial* 
 Floor Height (m)  | No. of Storeys
