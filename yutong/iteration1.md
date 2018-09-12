@@ -23,6 +23,8 @@ Average floor count: 4
 
 Total number of buildings: 571
 
+![gras](imgs/1.jpg)
+
 ## Road Network
 
 The first iteration started from the overlapping of two sets of road networks on the one-north site. The road network was divided into two areas in proportion of about 2:1 by a 20m-wide urban main road, and then plots was divided in each area. Zone 1 is a long and narrow belt, which is located in the north of the site. Zone 2 is half surrounded by Zone1 from north-east to sourth-west. Zone 1 has a dense road network, which is divided into two road levels: 9m street in the north-south direction and 6m lane in the east-west direction. The streets of Zone 2 extends the streets of Zone 1, and adds an east-west street, which divided the Zone2 into five clusters.
