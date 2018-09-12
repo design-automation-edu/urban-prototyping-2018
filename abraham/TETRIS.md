@@ -20,7 +20,7 @@ The resulting plot sizes varies according to block adjacency. A split function i
 ![Iteration 1](./imgs/b3.png)
 
 
-The first massing shows a dynamic urban fabric with good analysis results. Percentage of good buildings is more than 93%. 
+The first massing shows a dynamic urban fabric with good analysis results. Under default analysis threshold, the percentage of good buildings is more than 93% which is better than the final outcome of POLYGON.
 
 
 ![Zonings](./imgs/b4.png)
