@@ -1,6 +1,32 @@
 # Iteration 3
 Since the significance of courtyard typology has been unearthed in the previous iterations, Iteration 3 identifies this as a possible microcosm of the overall development. As a result, Industrial blocks and Office towers are planned to surround the perimeter of the site. The sprawl of Residential blocks take place in the heart of the mini-city. 
 
+**Urban Morphology of Model 2b**
+
+***Residential***
+
+| Floor Height (m)  | No. of Storeys | Street Width (m) |
+| ------------ | ------------- | ------------- |
+| 3 | 3 - 60 | 8 |
+
+***Clean-tech Industrial*** 
+
+| Floor Height (m)  | No. of Storeys | Street Width (m) |
+| ------------ | ------------- | ------------- |
+| 10 | 1 | 20 |
+
+***Offices*** 
+
+| Floor Height (m)  | No. of Storeys | Street Width (m) |
+| ------------ | ------------- | ------------- |
+| 3 | 1 - 40 | 5 |
+
+***Retail*** 
+
+| Floor Height (m)  | No. of Storeys | Street Width (m) |
+| ------------ | ------------- | ------------- |
+| 4 | 1 - 3 | 5 |
+
 ![Fig. 23: Generating Iteration 3](imgs/Iteration3.jpg)
 
 ## Model 3b: Overall
