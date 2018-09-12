@@ -7,6 +7,9 @@ The first algorithm seeks to simulate a traditional planning process where zones
 
 The algorithm is generated in the following steps:
 
+
+## Grid and Zones
+
 ![Urban Grid](./imgs/a1.png)
 
 The main circulation to the existing network is carved out from the site. A simple 3 road system connects the site to the surrounding neighborhood and districts.
@@ -22,6 +25,10 @@ Next, the distance to UTown and one-north MRT calculated previously are used as 
    * If distance to Utown < 150m, plot alloted as Utown Extension
    * If distance to one-north < 400m, plot alloted as residential neighborhood
    * The leftover plots alloted to high tech industry.
+   
+   
+   
+## Building Typology
 
 ![text label](./imgs/a3.png)
 ![Courtyard-Podium + Tower Typology](./imgs/a4.png)
@@ -35,12 +42,11 @@ The plot is firstly offset from the center with a width of 20m. Next, the podium
 Performance analysis of this typology has returned good results. However, one tower scored low on solar exposure. This is due to a large facade facing the east. This would not be a problem if we consider all the towers as an one building as the ratios would be averaged out by the north-south facades of other towers. Therefore, in order to give a balanced overall assesment, we've decided to reduce the solar exposure threashold to 0.25 (easier) and increase the view factor to 0.45 (harder) so as to adapt the thresholds to this specific typology. The rest of the parameters remains unchanged.
 
 
+## Populate with Typology
 ![Iteration 1](./imgs/a7.png)
 
 
-
 ![Performance Analysis](./imgs/a6.png)
-
 
 
 After populating the plots with the typology, performance analysis has returned a good building percentage of 81% . We see that some buildings are classified as “bad” due to limited view. Therefore, the following improvements are proposed:
@@ -52,11 +58,14 @@ After populating the plots with the typology, performance analysis has returned 
    *   Towers vary in height for better view 
 
 
+## Improvements
 ![Iteration 2](./imgs/a8.png)
 
 
 With the above improvements, good building percentage has increased to 87.2%. However, the urban fabric still looks too rigid and dense.
 
+
+## Voronoi Blocks
 
 ![Iteration 3](./imgs/a9.png)
 
