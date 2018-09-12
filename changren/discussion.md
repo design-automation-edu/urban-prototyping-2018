@@ -31,4 +31,9 @@ Walking in such a 800m x 800m range, you have only 9 choices in Ville Radieuse, 
 
 Although each building is allocated near greenery, it seems that the vertical distance between people and the green space is not considered. Human beings are inert animals, and such height seems to isolate the relationship between people and the ground.
 
+![gras](imgs/CP8.jpg)
+
+The lawn under Unité d'Habitation which is meant to be a out door social space is now a parking lot.
+
+
 ![gras](imgs/CP7.jpg)
