@@ -10,6 +10,7 @@ Good window threshold:
 * view_threshold>0.4 
 * daylight_threshold>0.1 
 * 	solar_threshold<0.2 
+
 Good building threshold: 
 * passive_threshold>0.5 
 *	good_window_threshold>0.1 
