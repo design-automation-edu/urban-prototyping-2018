@@ -26,7 +26,7 @@ The green space together with the neighborhood segment the lane boundary effecti
 
 Some residential buildings have not reached the standard, mainly because of the height. For having commercial buildings underneath, the residences are higher than it should be.
 
-Good Building Ratio: 49.3%
+Good Building Area Ratio: 49.3%
 
 Good Window Ratio: 51.6%
 
