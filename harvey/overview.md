@@ -2,7 +2,7 @@
 
 **Lim Yan Cheng Harvey**
 
-![Figure 1. Plan view of site integrated with final urban massing](imgs/existing site.png)
+![Figure 1. Plan view of site integrated with final urban massing](imgs/comm plot 2.png)
 
 My project aims to explore the usage of the Courtyard typology in urban planning, which tends to be one of the most efficient building typologies for urban cities, within the allocated site that is adjacent to One-North. This site will be home to a population of 75,000 people who will live and work in a shared environment. The urban prototyping will be done through the use of Houdini, a 3D animation software.
 
