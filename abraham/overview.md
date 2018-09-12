@@ -2,18 +2,6 @@
 
 **Abraham David Noah**
 
-![POLYGON](./imgs/r1.jpg)
-
-
-
-![TETRIS](./imgs/r4.jpg)
-
-
-
-![XYLEM](./imgs/r6.jpg)
-
-
-
 
 This project is an explorative journey into how different urban fabrics can be quickly generated, visualized and analyzed using procedural methods in Houdini. 
 
@@ -26,7 +14,15 @@ TETRIS uses modular blocks to create a dynamic skyline with mathematical rules.
 
 XYLEM is a reinvention of street network and a bold inversion of its function.
 
- 
+![POLYGON](./imgs/r1.jpg)
+
+
+![TETRIS](./imgs/r4.jpg)
+
+
+![XYLEM](./imgs/r6.jpg)
+
+
 Each of these cities underwent extensive steps to achieve the current form and performance. Every step in the procedural process was met with a feedback and the feedback was looped back into the step to perfect the algorithm. 
 
 The aim of each iteration is to create two end products, one tangible and one intangible. The tangible product is the highly livable urban form, and the intangible is the adaptive procedural algorithm which generate new forms according to site conditions. 
