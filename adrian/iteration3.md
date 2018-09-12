@@ -27,7 +27,7 @@ With these plot zones in mind, I then proceeded to introduce typologies within e
 
 ## Work-Live Zone
 
-Programs include residential units and office blocks. High Rise residential towers were placed adjacent to office spine blocks, forming a connecting bridge for the towers. Central area is used as a park or recreational space, thereby forming a buffer space for sunlight and views to permeate the block forms. Improving from Iteration 2, the towers orientation is rotated to reduce East-West facing surfaces, thereby improving solar factor and good window ratio (Figure 3d).
+Programs include residential units and office blocks. High Rise residential towers were placed adjacent to office spine blocks, forming a connecting bridge for the towers (Figure 3c). Central courtyard area is used as a park or recreational space, thereby forming a buffer space for sunlight and views to permeate the block forms. Improving from Iteration 2, the towers orientation is rotated to reduce East-West facing surfaces, thereby improving solar factor and good window ratio (Figure 3d).
 
 ![Fig. 3c: Residential Towers and Good Window Results](imgs/3c.jpg) 
 <p align="center"> _Figure 3c: Residential Towers and Good Window Results_
@@ -44,7 +44,7 @@ Programs include residential units and office blocks. High Rise residential towe
 ![Fig. 3e: Research and Development Clusters](imgs/3e.jpg) 
 <p align="center"> _Figure 3e: Research and Development Clusters_
  
-Key Programs include Industrial warehouse and office spaces for researchers, forming a symbiotic relationship between production and research activities. The industrial complex have a higher floor height of 10m and the form a ‘U’ shape facing AYE. The office blocks encloses the ‘U’ form, allowing workers to transit from production to office spaces and vice versa.
+Key Programs include Industrial warehouse and office spaces for researchers, forming a symbiotic relationship between production and research activities. The industrial complex have a higher floor height of 10m and the form a ‘U’ shape facing AYE. The office blocks encloses the ‘U’ form, allowing workers to transit from production to office spaces and vice versa (Figure 3e).
 
 
 
@@ -53,7 +53,7 @@ Key Programs include Industrial warehouse and office spaces for researchers, for
 ![Fig. 3f: Collaboration Zone](imgs/3f.jpg) 
 <p align="center"> _Figure 3f: Collaboration Zone_
  
-In the collaboration zone, programs include retail, office and short-term accommodation. Here, the housing tower typologies remain consistent, however they follow the arrangement of a spine. Extending across the length of the entire site, intermixed with retail and green spaces. This zone aims to foster interactions and exchange of information for the various parties on site. Therefore the zone is accessible from all sides of the site, as well as directly connecting to NUS. 
+In the collaboration zone, programs include retail, office and short-term accommodation. Here, the housing tower typologies remain consistent, however they follow the arrangement of a spine. Extending across the length of the entire site, intermixed with retail and green spaces. This zone aims to foster interactions and exchange of information for the various parties on site. Therefore the zone is accessible from all sides of the site, as well as directly connecting to NUS (Figure 3f). 
 
 
 
@@ -62,7 +62,7 @@ In the collaboration zone, programs include retail, office and short-term accomm
 ![Fig. 3g: Optimising for Good Building](imgs/3g.jpg) 
 <p align="center"> _Figure 3g: Optimising for Good Building_
  
-Overall, Iteration 3 displayed an improved good building results with optimal results for residential, retail and office typologies. Some industrial buildings experience shortfall in view factor due to its compact footprint and close proximity. However due to the nature of the programs being within controlled enclose environment, the impact could be negligible.
+Overall, Iteration 3 displayed an improved good building results with optimal results for residential, retail and office typologies (Figure 3g). Some industrial buildings experience shortfall in view factor due to its compact footprint and close proximity. However due to the nature of the programs being within controlled enclose environment, the impact is negligible.
 
 ## Performance Analysis
 
@@ -72,7 +72,7 @@ Overall, Iteration 3 displayed an improved good building results with optimal re
 ![](imgs/3i.JPG) 
 <p align="center"> _Figure 3i: Good Window Results_
  
-The spacings between high-rise tower blocks allows adequate lighting to penetrate majority of  low rise typologies, achieving desirable good window results in solar factor, daylight factor and view factor (Figure 3h).
+The spacings between high-rise tower blocks allows adequate lighting to penetrate majority of  low rise typologies, achieving desirable good window results in solar factor, daylight factor and view factor (Figure 3h, 3i).
 
 ![](imgs/3j.JPG) 
 <p align="center"> _Figure 3j: Iteration 3.3 Overall Good Building Results_
