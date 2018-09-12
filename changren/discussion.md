@@ -1,7 +1,9 @@
 # Discussion
 
 ## Conclusion
-If only take physical factor into consideration, then iteration3 will be a urban prototype that having the most residences receiving good lighting and view. The higher the density(building height),the larger superficial area it will get, good window ratio will correspondingly gets higher.At the same time, leaving more space for lighting, transportation and green. Perhaps the final form be like the towers in the Ville Radieuse.
+If only take physical factor into consideration, then iteration3 will be a urban prototype that having the most residences receiving good lighting and view. The higher the density(building height),the larger superficial area it will get, good window ratio will correspondingly gets higher. The smaller it's ground floor is, the higher impact good windows will have.
+
+At the same time, leaving more space for lighting, transportation and green. Perhaps the final form be like the towers in the Ville Radieuse.
 
 ![gras](imgs/CP1.jpg)
 
