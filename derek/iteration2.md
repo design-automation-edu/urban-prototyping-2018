@@ -58,12 +58,13 @@ The Relative Densities were compensated with its respective footprint area befor
 ![Iteration2 massing](./imgs/iteration2bldgRender.png)
 
 ## Environment Evaluation 
-![Iteration2 Environment Evaluation 3d](./imgs/iteration1goodBadRender.png)
-![Iteration2 Environment Evaluation Plan](./imgs/iteration1goodBadRender.png)
+![Iteration2 Environment Evaluation 3d](./imgs/iteration2goodBadRender.png)
+![Iteration2 Environment Evaluation Plan](./imgs/iteration2goodBadPlan.png)
 * Percentage Good Windows: 20.7277
 *	Percentage Good VF: 38.2298
 *	Percentage Good SF: 86.1899
 *	Percentage Good PR: 96.9172
 *	Percentage Good DF: 40.6992
 *	Percentage Good Building: 48.9831
+</br></br>
 In this iteration, larger building masses serve as landmarks in the sea of small scaled buildings. There is a good distribution of programs around and the varying street width and urban grain creates a overall messy but interesting urban scape. However, some street width - height ratio is too low, resulting in poor urban spaces and poor environment evaluated buildings.
