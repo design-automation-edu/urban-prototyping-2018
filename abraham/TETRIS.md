@@ -8,6 +8,8 @@ The second algorithm uses simple reduction pattern to obtain the buildings plots
 
 The algorithm is constructed in the following steps:
 
+## Calculate Building Footprint
+
 ![Plot Allocation](./imgs/b1.png)
 
 A 20mx15m grid is applied onto the site. This size allows for flexible addition and returns good passive ratio. 
@@ -18,15 +20,17 @@ A 20mx15m grid is applied onto the site. This size allows for flexible addition 
 
 The resulting plot sizes varies according to block adjacency. A split function is applied to separate plots that are larger than a certain area. The large and continuous plots are allocated as Industrial or Commercial while the smaller plots are allocated as Residential. We have chosen the area threshold of 1500 sqm for a good mix of programs.
 
+## Populate with Buildings
 
 ![Iteration 1](./imgs/b3.png)
 
 
 The first massing shows a dynamic urban fabric with good analysis results. Under default analysis threshold, the percentage of good buildings is more than 93% which is better than the final outcome of POLYGON.
 
+## Zoning with Two Factors
+
 
 ![Zonings](./imgs/b4.png)
-
 
 
 ![Iteration 2](./imgs/b5.png)
@@ -34,17 +38,19 @@ The first massing shows a dynamic urban fabric with good analysis results. Under
 
 The next step defines zones with attractor factors such as distance to UTown and distance to one-north. The outcome has a spatial hierachy where residents can conveniently access retail services and collaborate with students in the industrial zone. 
 
-![Expressway Factor](./imgs/b6.png)
 
+## Zoning with Three Factors
+
+![Expressway Factor](./imgs/b6.png)
 
 
 ![Iteration 3](./imgs/b7.png)
 
 Due to the flexibility of this algorithm, we decided to add distance to AYE as another attractor to demarcate 120m factory zone as buffer to the noise produced by the expressway. The resulting cityscape shows a good mixture of different programs. 
 
+## Superblocks
 
 ![Super Blocks](./imgs/b8.png)
-
 
 
 ![Iteration 4](./imgs/b9.png)
@@ -52,7 +58,6 @@ Due to the flexibility of this algorithm, we decided to add distance to AYE as a
 Next, we address the elephant in the room. Although the buildings have sufficient green spaces between them, they do not have a predetermined secondary road network. This would create traffic havocs in real situations. Therefore, the site is divided by superblocks of 300mx350m which adds a secondary artery to the main roads. Furtheurmore, the area threshold is reduced to 1200sqm to convert more buildings into commercial for a better mix of programs within each superblock.
 
 ![Analysis 1](./imgs/b10.png)
-
 
 
 ![Analysis 2](./imgs/b11.png)
