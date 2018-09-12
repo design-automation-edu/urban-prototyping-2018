@@ -15,6 +15,6 @@ These design goals could be manifested through applying a process of steps onto 
 6.	Placing these major roads creates the major plots on the site. These major plots are then subdivided to form smaller plots
 7.	To create usable public spaces, select plots around each shopping mall are turned into green spaces (a numerical attribute was given to each plot to determine whether it would be converted into a green space, based on its size, irregularity (number of edges) and adjacency to shopping malls). 
 
-![Fig. 1: Framework for prototyping](imgs/framework.jpg)
+![Framework for prototyping](imgs/framework.jpg)
 
 This same framework will then later be used to generate different iterations of the urban design with the exception of Iteration 1.
