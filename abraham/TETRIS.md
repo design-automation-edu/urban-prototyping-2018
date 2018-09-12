@@ -26,6 +26,7 @@ The first massing shows a dynamic urban fabric with good analysis results. Perce
 ![Zonings](./imgs/b4.png)
 
 
+
 ![Iteration 2](./imgs/b5.png)
 
 
@@ -33,17 +34,25 @@ The next step defines zones with attractor factors such as distance to UTown and
 
 ![Expressway Factor](./imgs/b6.png)
 
+
+
 ![Iteration 3](./imgs/b7.png)
 
 Due to the flexibility of this algorithm, we decided to add distance to AYE as another attractor to demarcate 120m factory zone as buffer to the noise produced by the expressway. The resulting cityscape shows a good mixture of different programs. 
 
 
 ![Super Blocks](./imgs/b8.png)
+
+
+
 ![Iteration 4](./imgs/b9.png)
 
 Next, we address the elephant in the room. Although the buildings have sufficient green spaces between them, they do not have a predetermined secondary road network. This would create traffic havocs in real situations. Therefore, the site is divided by superblocks of 300mx350m which adds a secondary artery to the main roads. Furtheurmore, the area threshold is reduced to 1200 to convert more buildings into commercial for a better mix of programs within each superblock.
 
 ![Analysis 1](./imgs/b10.png)
+
+
+
 ![Analysis 2](./imgs/b11.png)
 
 Performance analysis of the final iteration has returned outstanding results. More than 95% of the buildings are classified as “good” with 100% satisfying the threshold for good passive ratio. Window analysis shows that the “red” buildings are just a little short in daylight and solar factor. This discrepancy could be tackled by building envelope design, and we can conclude that this algorithm is able to create urban fabrics that are both high performing and livable.
