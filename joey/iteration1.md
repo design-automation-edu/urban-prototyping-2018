@@ -3,25 +3,26 @@
 The following strategies and typologies were adopted to derive Model 1b which will be the target for evaluation. As a result of the proposed 10m floor height and the deep floor plates of the industrial building blocks, it is expected that internal areas will receive minimal daylight. As a hypothesis, a courtyard typology is expected to alleviate the problem. 
 
 **Urban Morphology of Model 1b**
-*Residential* 
+
+***Residential***
 
 | Floor Height (m)  | No. of Storeys | Street Width (m) |
 | ------------ | ------------- | ------------- |
 | 3 | 1 - 21 | 5 |
 
-*Clean-tech Industrial* 
+***Clean-tech Industrial*** 
 
 | Floor Height (m)  | No. of Storeys | Street Width (m) |
 | ------------ | ------------- | ------------- |
 | 10 | 3 - 15 | 10 |
 
-*Offices* 
+***Offices*** 
 
 | Floor Height (m)  | No. of Storeys | Street Width (m) |
 | ------------ | ------------- | ------------- |
 | 3 | 2 - 5 | 8 |
 
-*Retail* 
+***Retail*** 
 
 | Floor Height (m)  | No. of Storeys | Street Width (m) |
 | ------------ | ------------- | ------------- |
