@@ -32,18 +32,17 @@ After generating the building massing for all zones, the building performance is
 
 The following are the results of iteration 1:
 
-![](./imgs/it1%20view.PNG)
+![](./imgs/it1%20view.png)
 
-*Figure 5.View_threshold(>0.4): 0.53*
+*Figure 5. View_threshold(>0.4): 0.53*
 
-![](./imgs/it1%20daylight.PNG)
+![](./imgs/it1%20daylight.png)
 
-(figure 6)
+*Figure 6. Daylight_threshold (>0.1):  0.13*
 
-Daylight_threshold (>0.1):  0.13
+![](./imgs/it1%20solar.png)
 
-(figure 7)
-solar_threshold (<0.2): 0.13
+*Figure 7. solar_threshold (<0.2): 0.13*
 
 (figure 8)
 Passive_threshold (>0.5):  0.90
