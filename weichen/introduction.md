@@ -11,11 +11,12 @@ Design Goals
 - Promote urban facilitate connectivity
 
 Evaluation of Building Performance
-	Good window thresholds
-	View factor > 0.4
-	Daylight factor > 0.1
-	Solar factor < 0.2
-	Good building thresholds
-	Passive area ratio > 0.5
-	Good window threshold > 0.1
+
+-	Good window thresholds
+- View factor > 0.4
+-	Daylight factor > 0.1
+-	Solar factor < 0.2
+-	Good building thresholds
+-	Passive area ratio > 0.5
+-	Good window threshold > 0.1
 
