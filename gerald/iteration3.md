@@ -25,6 +25,8 @@ Similar to Iteration 2, a process of converting plots into parks was carried out
 
 The superimposing of these grids as before, create a unique street quality.
 
+
+
 __Iteration 3 Evaluation__
 
 ![goodbldg](imgs/it3_good_building.jpg)
@@ -37,7 +39,7 @@ _Analysis of 'bad' retail podiums_
 The industrial typology fared poorly as all its buildings were deemed ‘bad’. However, inspection of its environmental analysis reveals that the buildings consist strongly of good windows. Daylighting factors are high, while view factor scores well apart from at small courtyard windows. Therefore I can conclude that the industrial typology in this iteration to be generally a success.
 
 ![Fig. 1: eval industrial](imgs/it3_comm_eval.jpg)
-_Analysis of 'bad' industrial buildings'
+_Analysis of 'bad' industrial buildings'_
 
 North-south facing buildings (residential and offices) fare successfully, and all buildings are evaluated to be good buildings.
 
