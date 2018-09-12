@@ -1,10 +1,9 @@
 
 # POLYGON
 
+![Perspective](./imgs/r1.jpg)
+
 The first algorithm seeks to simulate a traditional planning process where zones and road networks are planned first and then followed by zoning and typology constrains. It introduces a courtyard-podium typology for high density mixed-used living. 
-
-![text label](./imgs/r1.jpg)
-
 
 The algorithm is generated in the following steps:
 
