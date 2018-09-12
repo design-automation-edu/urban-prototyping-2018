@@ -18,16 +18,14 @@ The sky exposure factor is defined as the degree of transmitting daylight to the
 
 After getting the above thresholds, subsequent simulations will be based on the below standards for the evaluation of building typologies:
 
-```
-Good window thresholds
+```Good window thresholds
    View threshold > 0.4
    Daylight threshold > 0.1
    Solar threshold < 0.2
    
 Good building thresholds
    Passive threshold > 0.5
-   Good window threshold > 0.1
-```
+   Good window threshold > 0.1```
 
 
 Although there are other social and economic factors like provision of view, connectivity to the neighboring urban elements and reconnection of the existing social fabric for developing a comprehensive master layout planning, the results could be used as references for further development. It is difficult for one to renewal a community successfully when there are too many variables and missing of control variables. This project aims at resolving this complex issue in a step by step and cyclic approach and finally comes up with some findings for regenerating One North area according to the evaluated results.
