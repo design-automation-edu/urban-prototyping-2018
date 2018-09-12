@@ -60,6 +60,8 @@ A closer look at the model reveals only a small number of units located at highe
 ![Fig. 13: Model 1b Overall Evaluation of 'good' buildings](imgs/Iteration1b_Good_Building.jpg)
 Final results indicate that none of the buildings are deemed ‘good’ buildings. That is to say that the model has failed to satisfy at least one of the assessment rules (Daylight Factor, Solar Factor or View Factor). In summary, the View Factor performs the worst out of the three owing to the close proximity between building blocks. We learn from Model 1b that the distance between building blocks directly affects the three different assessment criterias. 
 
-
+| Good buildings  | Bad buildings | % Good buildings |
+| ------------ | ------------- | ------------- |
+| 0 | 377 | 0% |
 
 
