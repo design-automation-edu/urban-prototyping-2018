@@ -8,6 +8,9 @@ Industrial: 3 sqm per person
 Office: 4 sqm per person
 First Level Roads 9m
 Second Level Roads 6m
+
+2.19.3.1 Progressing
+
 Zone 01
 1.	Recreate the scale 
 ![gras](imgs/zone01.jpg)
@@ -26,7 +29,7 @@ Since there is only one bad building in this zone, I remained the original form 
 The overview of this literation is showing below.
  
 ![gras](imgs/02overview.jpg) 
-Evaluation Analysis  
+2.19.3.2 Evaluation Analysis  
  ![gras](imgs/02good building.jpg)
 Good Building
   ![gras](imgs/02solar factor.jpg)
@@ -40,7 +43,7 @@ Passive Ratio
    ![gras](imgs/02good window.jpg) 
 Good Window 
 
-Conclusion:
+2.19.3.3 Conclusion:
 The evaluation results were significantly improved compared with Iteration1 by making the buildings taller, the recreation of some of the building typologies, rearrangement of the functions. All the residential and industrial buildings turned to be good buildings. Nevertheless, there is still buildings need to be improved. Especially the podium of office and residential buildings. According to the evaluation, view factor did not perform well in these buildings. Mainly due to the hiding of surrounding tall buildings and the few floors, so it is necessary to decrease the hiding areas. Daylight factor got the best result in this literation. Since the form of bad buildings are focused. The main concentration of next literation has a clear direction and a defined goal. 
 
 
