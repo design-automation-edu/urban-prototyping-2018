@@ -12,6 +12,8 @@ Average floor count: 7
 
 Total number of buildings: 508
 
+![gras](imgs/5.jpg)
+
 ## Simulation 
 
 Good Window =58.1% 
@@ -28,6 +30,9 @@ Passive ratio = 100%
 
 Good window ratio = 82.9%
 
+
+![gras](imgs/6.jpg)
+
 ## Road Network
 
 On the basis of Iteration1, in zone1, the width of the road network is increased, and the plot area is relatively reduced to 90m*60m. After the adjustment, evaluation parameters will be improved to a certain extent. The change of zone2 is to extend the middle road and divide the largest plots in the east, the internal courtyards from the previous five to six. After the change, the land utilization will be greatly improved, the only possible drawback is that the lighting of two rows of buildings along the middle road may be affected to some extent.
@@ -40,6 +45,8 @@ By adjusting the plot width in egg-slice of residential, the buildings of zone2 
 ## Program Mix
 
 Zone1 continues its previous function, in the form of a ground-floor commercial + residential tower. The functional layout of Zone2 has been changed. Firstly, the location of the industry is moved from the north side of the original plot to the south side, and the offices are moved to the side near the main road, so as to convenient to the residents from both sides to arrive. And the number of office buildings has been increased by reforming the road. Two rows of residents in the middle form a commercial inner street serving the community.
+
+![gras](imgs/7.jpg)
 
 ## Evaluation 
 
