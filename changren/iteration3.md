@@ -28,9 +28,9 @@ The green space together with the neighborhood segment the lane boundary effecti
 
 The broad space between buildings can ensure a good amount of lighting for most of the residences even under high standards.One defect still remaining is the lacking of daylight of the commercial buildings underneath.
 
-Good Building Area Ratio: 77.4% (GBAR)  (Good Buildings GFA / Total GFA)
+Good Building Area Ratio: 77.4% 
 
-Good Window Ratio: 51.6% (GWR)
+Good Window Ratio: 51.6%
 
 So Under this urban morphology,most buildings can meet up with the higher standard. 
 
