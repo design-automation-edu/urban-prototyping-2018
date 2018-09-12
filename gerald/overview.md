@@ -1,6 +1,11 @@
-# Name of project
+# Overhead
 
 **KHOR Chen Sian Gerald**
 
 ![overviews](./imgs/overviews.jpg)
-Abstract: No more than around 200 words. This abstract should give a very brief overview of your whole project, from start to finish. It should describe how many iterations you did, and what the aims was. It should give a brief summary of what was achieved, and of any conclusions. No more than around 200 words. This abstract should give a very brief overview of your whole project, from start to finish. It should describe how many iterations you did, and what the aims was. It should give a brief summary of what was achieved, and of any conclusions. No more than around 200 words. This abstract should give a very brief overview of your whole project, from start to finish. It should describe how many iterations you did, and what the aims was. It should give a brief summary of what was achieved, and of any conclusions. No more than around 200 words. This abstract should give a very brief overview of your whole project, from start to finish. It should describe how many iterations you did, and what the aims was. It should give a brief summary of what was achieved, and of any conclusions.
+
+Overhead looks at 3 prototyped iterations urban forms at our site at One North - each iteration is evaluated based on environmental analysis, to determine quantifiable environmental qualities like daylighting, solar penetration and views. 
+
+Iteration 1 looks at four different typologies and how they fare; Iteration 2 introduces the idea of overlapping grids at different elevations to create a unique and varied experience of the city. Finally, Iteration 3 combines the best of the first two iterations, to create an interesting urban form that meets the programmatic and environmental requirements of buildings. 
+
+The iterative process follows a framework that generates neighbourhood boundaries, subdivisions and plots; then creates green spaces within these neighbourhoods.
