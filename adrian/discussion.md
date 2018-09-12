@@ -1,6 +1,6 @@
 # Discussion
 
- ![](imgs/4a.JPG) 
+ ![](imgs/4a.jpg) 
 
 <p align="center"> _Figure 4a: Iterative Design Process_
   
