@@ -22,7 +22,7 @@ In the beginning, it is important to separate the commercial building with the r
 ![gras](imgs/03zone02.jpg)
  
 This can not only help buildings get good view but make any two buildings have equal distance, this can combined the block better. Considering about combine more buildings together, some blocks get rid of a small part of commercial areas, transfer it into shared space for public communication.
-![gras](imgs/03green area.jpg)
+![gras](imgs/03greenarea.jpg)
 
 2.19.4.3.	Change datas 
 In order to reduce the bad influence about the other two zones, I widen the gaps, re sliced the big long blocks to make it more suitable, not only a solid concrete wall, but help people from outside have opportunity to view the site.
@@ -32,7 +32,7 @@ Evaluation Analysis
  
 ![gras](imgs/03goodbuilding.jpg)
 Good Building
-![gras](imgs/03solarfactor.jpg) 
+![gras](imgs/03solarfactor.jpg)
 Solar Factor
 ![gras](imgs/03daylightfactor.jpg)  
 Daylight Factor
