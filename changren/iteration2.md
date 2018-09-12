@@ -37,11 +37,11 @@ Good Building Area Ratio (GBAR)(Good Buildings GFA / Total GFA): 24.7%
 
 Good Window Ratio (GWR): 50%
 
-When GWR is far more bigger than GBAR, that means we are having some really big buildings that possess too much good windows, whose area is too large to be a good building. (Beacuse good building threshold = the number of good windows/GFA）
+When GWR is far more bigger than GBAR, that means we are having some really big buildings that possess too much good windows, whose area is too large to be a good building. (Beacuse good building threshold = the area of good windows/GFA）
 
 ## Improvement
 
-Try to decrease the height of recidences, which is helpful for lighting and view. as for the unsatisfactory commercial part, another arrangement needs to be considered, provided that each residential building still needs a commercial building around.
+Try to decrease the height of recidences, which is helpful for lighting and view. As for the unsatisfactory commercial part, another arrangement needs to be considered, provided that each residential building still needs a commercial building around.
 
 Aand also, try to make buildings small and sporadic, which can increase the impact of good windows.
 
