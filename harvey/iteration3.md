@@ -32,23 +32,29 @@ The method to determine the number of floors as used in the first two iterations
 
 The following are the results of iteration 3:
 
-(figure 25)
-View_threshold(>0.4): 0.62
+![](./imgs/it3%20view.png)
 
-(figure 26)
-Daylight_threshold (>0.1):  0.12
+*Figure 24. View_threshold(>0.4): 0.62*
 
-(figure 27)
-solar_threshold (<0.2): 0.11
+![](./imgs/it3%20daylight.png)
 
-(figure 28)
-Passive_threshold (>0.5):  0.90
+*Figure 25. Daylight_threshold (>0.1): 0.12*
 
-(figure 29)
-Good_window_threshold (>0.1):  0.25
+![](./imgs/it3%20solar.png)
 
-(figure 30)
-OVERALL GOOD BUILDING PERCENTAGE: 97% 
+*Figure 26. solar_threshold (<0.2): 0.11*
+
+![](./imgs/it3passive.png)
+
+*Figure 27. Passive_threshold (>0.5): 0.90*
+
+![](./imgs/it3%20window.png)
+
+*Figure 28. Good_window_threshold (>0.1): 0.25*
+
+![](./imgs/it3%20good%20building.png)
+
+*Figure 29. OVERALL GOOD BUILDING PERCENTAGE: 97%* 
 
 It is observed that the threshold results did not change significantly except for the passive ratio. This is again likely because of a result of finer grain/ more building units and hence the increased number of primitives/ building units which resulted in a larger total value base in calculating the threshold values. Furthermore, the surrounding building and vegetation context has been factored in the evaluation process for iteration 3.  
 
