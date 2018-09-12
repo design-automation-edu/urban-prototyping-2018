@@ -9,6 +9,8 @@ In this iteration, I will take these requirements as key points, and the final g
 
 3.Create street hierarchy
 
+4.Make the commercial buildings more sporadic.
+
 So I decided to arrange Residential and commercial buildings in an ABAB form, which solves the problem of lacking sunshine in the previously proposed residential buildings. 
 
 ![gras](imgs/I3P1.jpg)
@@ -36,7 +38,7 @@ The road is wide,and public spaces are evenly distributed to each apartment bloc
 
 ![gras](imgs/I3P4.png)
 
-Again, most of the residences' daylight and view factor are above the threshold. Only problem is the commercial part.
+Again, most of the residences' daylight and view factor are above the threshold. Only problem is the central supermarkets. But considering that these non-residensial buildings actually do not require a high standrad of living, so it is still acceptable.
 
 
 ### P.S.
