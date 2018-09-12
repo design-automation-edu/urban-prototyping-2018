@@ -1,8 +1,7 @@
-# Iteration 3
+# Iteration 2
 
 ## Concept
-In this iteration, I decide to adopt a new urban morphology, that is distributing service functions such as commercial, office, catering and entertainment under every apartment blocks.At the same time, the east-west facing buildings will be substituted by small shops and greenery which can ensure two important things: First is that each residential building has green spaces adjacent to it. Second is that  nearly 30% commercial buildings are broke into small peaces and are scattered all over the site.
-
+In this iteration, I decide to adopt a new urban morphology, that is distributing service functions such as commercial, office, catering and entertainment under every apartment blocks.At the same time, the east-west facing buildings will be substituted by small shops and greenery which can ensure  each residential building has green spaces adjacent to it.
 
 
 ![gras](imgs/I2P1.jpg)
@@ -25,7 +24,8 @@ Second step is to move the building bottom which later will be used to generate 
 
 ![gras](imgs/I2P11.jpg)
 
-The broad space between buildings can ensure a good amount of lighting for most of the residences even under high standards.One defect still remaining is the lacking of daylight of the commercial buildings underneath.
+Some residential buildings have not reached the standard, mainly because of the height. For having commercial buildings underneath, the residences are higher than it should be.
+
 
 ![gras](imgs/I2P12.jpg)
 
@@ -33,13 +33,17 @@ Take this commercial building as an example, all windows have not reached the fi
 
 ![gras](imgs/I2P10.jpg)
 
-Good Building Area Ratio: 24.7% 
+Good Building Area Ratio (GBAR)(Good Buildings GFA / Total GFA): 24.7% 
 
-Good Window Ratio: 50%
+Good Window Ratio (GWR): 50%
 
-So Under this urban morphology,most buildings can meet up with the higher standard. 
+When GWR is far more bigger than GBAR, that means we are having some really big buildings that possess too much good windows, whose area is too large to have a good GWR. (Beacuse GWR = the number of good windows/GFA）
 
-The road is wide,and public spaces are evenly distributed to each apartment block.Although the commercial cannot get enough daylight, it is still acceptable for not having too much sunshine in such non-residential structure.The good window ratio of them does not reach 0.3, yet most of them are above 0.25, which is still a rather high value.
+## Improvement
+
+Try to decrease the height of recidences, which is helpful for lighting and view. as for the unsatisfactory commercial part, another arrangement needs to be considered, provided that each residential building still needs a commercial building around.
+
+Aand also, try to make buildings small and sporadic, which can increase the impact of good windows.
 
 ## P.S. Simulation of good and bad buildings using lower threshold
 
