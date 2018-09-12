@@ -2,9 +2,9 @@
 In this iteration, a neighbourhood “type” rule was established and used to generate the city. Conceptually, it was derived based on the conventional functional attraction to circulation roads. 
 
 ## Set-up
-![Iteration3 diagram](./imgs/iteration3Diagram.png)
+![Iteration3 diagram](./imgs/iteration3Diagram.png)</br>
 Coming from Iteration 2 where a green boulevard was chanced upon, instead in this iteration, a central park was first manually created to join the two city centre nodes together. Arterial roads which circulate in from the site’s surroundings carve out the remaining parcels while industrial buildings line them. Individual parcels are then subdivided to create smaller blocks. Commercial buildings line these new secondary roads and the rest were made residential. Residential blocks which were too deep were made into courtyard towers. Hence, each neighbourhood parcel within a block exhibits a unique character which is then used to compute its relative density
-![Iteration3 program distribution](./imgs/iteration3distribution.png)
+![Iteration3 program distribution](./imgs/iteration3distribution.png)</br>
 Resulting Program Distribution
 
 ### Weighting Relative Density Calculations
