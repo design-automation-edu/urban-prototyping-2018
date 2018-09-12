@@ -34,7 +34,8 @@ Take this commercial building as an example, all windows have not reached the fi
 ![gras](imgs/I2P10.jpg)
 
 Good Building Area Ratio: 77.2% 
-Good Window: 50%
+
+Good Window Ratio: 50%
 
 So Under this urban morphology,most buildings can meet up with the higher standard. 
 
