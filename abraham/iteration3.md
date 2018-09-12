@@ -8,6 +8,8 @@ Instead, we inverted the street and block relationship and treated the street as
 
 The algorithm is constructed in the following steps:
 
+## Shortest Path
+
 ![Point Vertices](./imgs/c1.png)
 
 We first triangulate the site into segments of 150m. This offers a good balance between number of turns in the path and the distance between two braches. A starting point is chosen in the center of the site. All vertices are treated as end points. 
@@ -19,6 +21,8 @@ The algorithm then carves out the shortest path that connects all boundary point
 Rather than using the path as roads, we offset it to have a width of 30m and extruded the surface so that all program requirement of 75,000 would fit into a continuous, 9 stories tall megastructure.
 
 
+## Megastructure
+
 ![Iteration 1](./imgs/c3.png)
 
 
@@ -26,6 +30,8 @@ Building analysis has returned positive. Upon further testing, we could push the
 
 Passive ratio in the structure is high because of the slender width compared to  building footprint and the windows return positive results due to the longest branches sprawlling from West to East and therefore creating windows facing North and South.
 
+
+## Zoned Megastructure
 
 ![Zoning with Attractors](./imgs/c4.png)
 
@@ -36,22 +42,30 @@ Like the previous two examples, we allocate zones according to attractor factors
 
 The three functional zones join together to create a non-stop experience of living, shopping, and working.
 
+
+## POLYGON Typology
+
 ![Iteration 3 with POLYGON typology](./imgs/c6.png)
 
 The current structure is reminiscent of the podium typology introduced in POLYGON. By planting the typology function as a module into this algorithm, we obtain a podium-tower typology just like in POLYGON. Although performance analysis returned good results, the leaf-like spatial arrangement of the programs in this iteration is not very conducive for community interaction as each residential tower has only two ajacent towers and the roof space segements are too elongated for an enjoyable after dinner stroll. Therefore, the towers need to move to a more suitable location.
 
+## Courtyard Plots
 
 ![Shortest Path Inversion](./imgs/c7.png)
 
 
 The spaces enclosed by the branches of the megastructure offers an ideal location for communities to thrive. These courtyards offer intimacy to the residents and the branches offers them work, shopping and quick transportation. Therefore, we subtracted the building footprint from the site, applied the generative function used in TETRIS on the resulting surface.
 
+
+## TETRIS function
 ![2 out of 5 Plots](./imgs/c8.png)
 
 
 ![Iteration 4 with TETRIS function](./imgs/c9.png)
 
 Several density studies are done to find the optimal setting in this context. Taking 2 blocks out of 5 blocks produces a low rise residential community. However, this model performs badly due to buildings blocking each other's view.
+
+## Optimal Density
 
 ![1 out of 5 Plots](./imgs/c10.png)
 
