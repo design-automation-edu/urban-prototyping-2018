@@ -70,6 +70,11 @@ Overall, Iteration 3 displayed an improved good building results with optimal re
 
 ![](imgs/3i.JPG) 
 <p align="center"> _Figure 3i: Good Window Results_
+ 
+The spacings between high-rise tower blocks allows adequate lighting to penetrate majority of  low rise typologies, achieving desirable good window results in solar factor, daylight factor and view factor (Figure 3h).
 
 ![](imgs/3j.JPG) 
-<p align="center"> _Figure 3j: Overall Good Building_
+<p align="center"> _Figure 3j: Iteration 3.3 Overall Good Building Results_
+ 
+ The final iteration (Figure 3j) displays an even distribution of 95% good buildings throughout the site (Figure 3j).  This fulfills the objective of the urban study in terms of spatial allocation as well as good performance buildings.
+
