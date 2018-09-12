@@ -8,7 +8,7 @@ A portion of the land would be allocated for clean industry and start-up incubat
 
 Each person is allotted 35sqm total area. And the area for each function is divided according to the identity of the residents.
 
-![text label](./imgs/d3.png)
+![Programme Area Split](./imgs/d3.png)
 
 Students have 15sqm for living; 6sqm for retail with 7sqm for educational, these two sums up to 13sqm. The last 7 sqm is allocated to Industry where students can work as interns in start-ups.
 
@@ -17,7 +17,7 @@ Ordinary residents have 22sqm for living, 6sqm for Retail and Leisure, and 7sqm 
 
 ##  Site Context
 
-![text label](./imgs/d1.PNG)
+![Site Context](./imgs/d1.PNG)
 
 The closest MRT station is one-north and Kent Ridge on the east entry of the site. Pedestrian traffic is expected to be higher here. 
 
@@ -27,7 +27,7 @@ There is an expressway (AYE) in the south boundary which is a key connection of 
 
 The relationship of these nodes to the site is calculated into distance parameters which would facilitate the design process later.
 
-![text label](./imgs/d2.PNG)
+![Attractor Parameters](./imgs/d2.PNG)
 
 Furthermore, roads that connect NUS to SP could be cut out to facilitate exchange of students in the two institutions, and an extension to UTown could be constructed to accommodate students from both institutions.
 
