@@ -6,7 +6,7 @@
   
 ![gras](imgs/Intro1.png)
   
-  He called for urban models of high-density, high-greening, cohesive, and ration system. His plan finally stayed on the paper stage, the only one built was Marseille apartment( Unité d'Habitation)that reflected some of his ideas, which has a rather clear distinctive strip in the middle of the building that is used to place all the public services.(I tried to imitate this in iteration 2)
+  He called for urban models of high-density, high-greening, cohesive, and ration system. His plan finally stayed on the paper stage, the only one built was Marseille apartment( Unité d'Habitation)that reflected some of his ideas, which has a rather clear distinctive strip in the middle of the building that is used to place all the public services.(I tried to imitate this in iteration 2 but put the strip under residences)
   
 ![gras](imgs/Intro2.jpg)
 
