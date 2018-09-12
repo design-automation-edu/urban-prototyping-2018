@@ -3,7 +3,8 @@
 
 For iteration 1, a macro scaled approach was first adopted. 
 
-(figure 2)
+![](./imgs/it1%20zones'.PNG)
+*Figure 2. plots and zones of iteration 1*
 
 The site area is bounded by the Dover Road and the AYE – the two major roads through which the site can be accessed. A typical grid system is then generated in place. To ensure more regular shaped plots were generated, the grid divisions were done using the egg slice command that cuts the area (along the directions parallel to the edges) into quadrilateral plots of 150m width that are offset 9.6m to create the transport network grid.
 
@@ -13,8 +14,6 @@ The residential zone takes the plots westwards that are most easily accessible b
 
 The commercial zone occupies the central plots such that a commercial hub is formed where activity is most concentrated.
 The clean-tech industrial zone occupies the remaining plots eastwards that are immediately adjacent to One-North, thus facilitating a stronger relationship between the technology-focused facilities and R&D. 
-
-(figure 3)
 
 Using the “polyextrude” node in Houdini, courtyards can be created for each building massing by insetting the building polygon. Each building massing is then segmented into building units though the use the “voronoi fracture” node.  
 
