@@ -19,11 +19,17 @@ The sky exposure factor is defined as the degree of transmitting daylight to the
 After getting the above thresholds, subsequent simulations will be based on the below standards for the evaluation of building typologies:
 
 ```Good window thresholds
+
    View threshold > 0.4
+   
    Daylight threshold > 0.1
+   
    Solar threshold < 0.2
+   
    Good building thresholds
+   
    Passive threshold > 0.5
+   
    Good window threshold > 0.1
 ```
 
