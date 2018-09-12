@@ -31,6 +31,9 @@ Take this commercial building as an example, all windows have not reached the fi
 
 ![gras](imgs/I2P10.jpg)
 
+Good Building Area Ratio: 77.2%
+Good Window: 50%
+
 So Under this urban morphology,most buildings can meet up with the higher standard. 
 
 The road is wide,and public spaces are evenly distributed to each apartment block.Although the commercial cannot get enough daylight, it is still acceptable for not having too much sunshine in such non-residential structure.The good window ratio of them does not reach 0.3, yet most of them are above 0.25, which is still a rather high value.
