@@ -47,13 +47,17 @@ Pedestrian roads 3m
 
 2.19.2.4 Evaluation Analysis  
 
-![gras](imgs/good building.jpg) 
+![gras](imgs/good building.jpg)
+
 Good Building
 ![gras](imgs/view factor.jpg)  
+
 View Factor
-![gras](imgs/daylight factor.jpg)  
+![gras](imgs/daylight factor.jpg) 
+
 Daylight Factor
-![gras](imgs/solar factor.jpg)  
+![gras](imgs/solar factor.jpg) 
+
 Solar Factor
 Good Building Ratio: 50 %
 2.19.2.5 Conclusion: 
