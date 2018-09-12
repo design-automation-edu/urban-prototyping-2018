@@ -1,4 +1,4 @@
-# Magic Magic Pow Wow
+# Traversing Euclidian Space
 
 **Abraham David Noah**
 
