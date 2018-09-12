@@ -16,9 +16,15 @@ The residential zone takes the plots westwards that are most easily accessible b
 The commercial zone occupies the central plots such that a commercial hub is formed where activity is most concentrated.
 The clean-tech industrial zone occupies the remaining plots eastwards that are immediately adjacent to One-North, thus facilitating a stronger relationship between the technology-focused facilities and R&D. 
 
-Using the “polyextrude” node in Houdini, courtyards can be created for each building massing by insetting the building polygon. Each building massing is then segmented into building units though the use the “voronoi fracture” node.  
+![](./imgs/it1%20example%20courtyard.PNG)
 
-(figure 4, resultant massing)
+*Figure 3. residential plot with courtyard*
+
+Using the “polyextrude” node in Houdini, courtyards can be created for each building massing by insetting the building polygon. Each building massing is then segmented into building units through the use the “voronoi fracture” node.  
+
+![](./imgs/extruded%20it%201.PNG)
+
+*Figure 4.example of resultant residential massing of iteration 1*
 
 To determine the number of floors of the building massing in each programmatic zone, the required total floor area of each programmatic zone is first determined and then it is divided by the footprint of each zone. The number of floors calculated by Houdini is then used as an attribute that is fed into the “make buildings” node that will automatically generate the building masses of the correct number of floors (and of a set floor height) according to the programmatic zone. 
 
@@ -26,8 +32,11 @@ After generating the building massing for all zones, the building performance is
 
 The following are the results of iteration 1:
 
-(figure 5)
-View_threshold(>0.4): 0.53
+![](./imgs/it1%20view.PNG)
+
+*Figure 5.View_threshold(>0.4): 0.53*
+
+![](./imgs/it1%20daylight.PNG)
 
 (figure 6)
 
