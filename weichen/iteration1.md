@@ -3,6 +3,7 @@
 
 
 2.19.2.1 Site Division
+![gras](imgs/FUNCTION2-01.jpg)
 -Zone Division
 In order to create a self-sustaining ecosystem, generating a mixture of blocks for the residential, industrial, office and commercial function. The first iteration divided the site into three distinct zones according to the influence of AYE and MRT around it. The office-commercial mixed zone located on the north of the site as a buffer zone, it can both accessible for people live in site and out of site, to help people here have more opportunity to contact with others. The residential zone is in the core of the site, so that it will be easy to reach both other functions and MRT stations. The industrial zone acts as a buffer zone in order to decrease the noise from AYE. Each zone was then designed with a separate set of attributes and conditions to present different environment in response to their method of use.
 
