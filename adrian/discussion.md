@@ -1,5 +1,11 @@
 # Discussion
 
+ ![](imgs/4a.JPG) 
+
+<p align="center"> _Figure 4a: Iterative Design Process_
+  
+
+
 In conclusion, 3 main iterations were conducted, of which sub iterations were performed to optimise good window ratio and passive ratio. Issues such as circulation, overcrowding, building density were observed during the first few iterations and were subsequently addressed in following iterations. Strategies such as plot layout, insertion of primary and secondary roads were utilised to achieve an overall better usability and accessibility of the site. Arrangement of programs were subsequently tested and optimised following the revised plots. The final iteration revolves around a ring road that encircles the site. With the primary advantage being to reduce traffic volumes in the urban centre. Alternate routes are catered for drivers who wish to avoid the central zone, directly accessing the various perimeter plots. 
 
 
