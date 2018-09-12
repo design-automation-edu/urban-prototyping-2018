@@ -29,10 +29,13 @@ Total number of buildings: 571
 
 The first iteration started from the overlapping of two sets of road networks on the one-north site. The road network was divided into two areas in proportion of about 2:1 by a 20m-wide urban main road, and then plots was divided in each area. Zone 1 is a long and narrow belt, which is located in the north of the site. Zone 2 is half surrounded by Zone1 from north-east to sourth-west. Zone 1 has a dense road network, which is divided into two road levels: 9m street in the north-south direction and 6m lane in the east-west direction. The streets of Zone 2 extends the streets of Zone 1, and adds an east-west street, which divided the Zone2 into five clusters.
 
+![gras](imgs/2.jpg)
+
 ## Program Mix
 
 In Zone2, the buildings on each site are a cluster, surrounded by residential and commercial buildings to form a central green space. Dividing the plot with egg_slice node, and the path to the activity field is left between buildings on the east and west sides of clusters. Then, the program mix is applied to the two areas respectively. Zone 1 contains high-rise residential buildings with commercial podiums. According to the requirements, 22 m2 / person residential and 13 m2 / person other must be satisfied. The building height is mainly affected by MRT and AYE. The closer to MRT, the more residents there are, the closer to aye, the more commercial is distributed, so the height changes.
 
+![gras](imgs/3.jpg)
 
 ## Simulation
 
@@ -49,6 +52,8 @@ Good Building = 43.6%
 Passive ratio = 67.1%
 
 Good window ratio = 62.9%
+
+![gras](imgs/4.jpg)
 
 ## Evaluation
 
