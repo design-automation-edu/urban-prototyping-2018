@@ -23,7 +23,7 @@ In Iteration 1, programs are arranged responding to adjacent programs and proxim
 <p align="center"> _Figure 1c: Concrete and Green Buffer Zones_
  
 
-Industrial buildings acts as a physical buffer between the Ayer Rajah Expressway (AYE) and the rest of the programs on site (Figure 1c). Forming a concrete screen to alleviate issues such as noise pollution. Layout of the industrial block follows a single story volume, with an internal courtyard green space. This is to facilitate loading / unloading of heavy equipment as well as of provision of green spaces for workers. An additional green spine segregates the industrial and residential functions. Providing a intermediate recreational zone for residents and workers of the district.
+Industrial buildings acts as a physical buffer between the Ayer Rajah Expressway (AYE) and the rest of the programs on site (Figure 1c). Forming a concrete screen to alleviate issues such as noise pollution. Layout of the industrial blocks follow a single story volume, 10m height, with an internal courtyard green space. This is to facilitate loading / unloading of heavy equipment as well as of provision of green spaces for workers. An additional green spine segregates the industrial and residential functions, providing an intermediate recreational zone for residents and workers of the district.
 
 
 
@@ -39,8 +39,8 @@ Industrial buildings acts as a physical buffer between the Ayer Rajah Expressway
 
 <p align="center"> _Figure 1e: Retail / Residential Podium with Community Plaza_
  
-Residential programs (Yellow) are located primarily along Dover road and north Buona Vista road, for greater accessibility to Dover, one-north MRT Stations. Residential typology comes in the form of podium blocks as well as high rise towers (Figure 1c). 
-For podium blocks (Figure 1d), retail programs (Red) occupy the first 2 floors, with residential on the top 7 floors. The mix of high rise and low rise residential accommodations within the site, in turn influences the intimacy of community spaces created (private green, community parks). 
+Residential programs (Yellow) are located primarily along Dover road and North Buona Vista road, for greater accessibility to Dover, one-north MRT Stations. Residential typology comes in the form of podium blocks as well as high rise towers (Figure 1d). 
+For podium blocks (Figure 1e), retail programs (Red) occupy the first 2 floors, with residential on the top 7 floors. The mix of high rise and low rise residential accommodations within the site, in turn influences the intimacy of community spaces created (private green, community parks). 
 
 # Office
 
