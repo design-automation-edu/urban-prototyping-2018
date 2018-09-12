@@ -39,6 +39,7 @@ Although voronoi grid introduces more turns and consequently a slightly more int
 Linear N-S facing types
 ![Distribution of types: yellow - Commercial; grey - Industrial](./imgs/iteration1distribution.png)
 * Distribution of types: yellow - Commercial; grey - Industrial
+<br/><br/>
 Conceptually, Commercial and Industrial Buildings were mixed to possibly work as clean tech industrial towers with a possible mix of retail. Residential buildings are all made to be within walking distance of a clean tech tower. This is to simulate a city for clean tech workers.
 
 ![Environment Evaluation 3d](./imgs/iteration1goodBadRender.png)
