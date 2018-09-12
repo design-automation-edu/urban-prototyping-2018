@@ -7,12 +7,12 @@ Besides the basic area requirements, this project will make use of the courtyard
 The criteria that constitute a good building are as follows: 
 
 Good window threshold:
-o	view_threshold>0.4 
-o	daylight_threshold>0.1 
-o	solar_threshold<0.2 
+* view_threshold>0.4 
+* daylight_threshold>0.1 
+* 	solar_threshold<0.2 
 Good building threshold: 
-o	passive_threshold>0.5 
-o	good_window_threshold>0.1 
+* passive_threshold>0.5 
+*	good_window_threshold>0.1 
 
 The courtyard typology is adopted as the key typology to be used for my urban prototyping. Courtyards act as central nodal features and contribute to stronger relationships between the surrounding building units that have the same inward focus towards the same courtyard feature. The courtyards could potentially be green spaces and/or include large water bodies. Courtyards also help to create micro-climates that can reduce the Urban Heat Island effect which can be significant in a dense urban settlement. Having courtyards also allow for natural ventilation and daylighting to better penetrate the depths of the building masses, therefore creating more thermally comfortable and liveable spaces and an efficient urban model. 
 
