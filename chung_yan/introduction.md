@@ -23,6 +23,7 @@ Good window thresholds
    View threshold > 0.4
    Daylight threshold > 0.1
    Solar threshold < 0.2
+   
 Good building thresholds
    Passive threshold > 0.5
    Good window threshold > 0.1
