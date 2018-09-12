@@ -1,6 +1,6 @@
 # Urban Fabric of Light
 
-**LAW Chung Yan, Vanetta**
+**LAW Chung Yan**
 
 Abstract:
 
