@@ -53,7 +53,7 @@ Same as the first iteration, the poor result from good window threshold also lea
 
 
 ## Evaluation
-We now understand that the increase of building setbacks cannot improve the lighting quality of the interior space of building in this situation. This proved that it is not the problem of distance among buildings and we should focus on building typologies instead.
+We now understand that the increase of building setbacks cannot improve the lighting quality of the interior space of building in this situation. This proved that distance among buildings is not the problem and we should focus on building typologies instead.
 
 These are the suggestions for refinements in the 3rd iteration:
 
