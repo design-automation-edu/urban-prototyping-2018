@@ -5,7 +5,6 @@
 Iteration 3 combines the results of both Iteration 1 and 2 to create a mix of reassigned building typologies, largely successful in creating buildings that are deemed good by the environmental analyses. 
 
 ![Iteration 3 Typology Evolution](imgs/it3_typology_evolution.jpg)
-_Evolution of Typologies_
 
 From Iteration 1’s low-rise retail with courtyards was adapted to Iteration 2’s approach of superimposed residential and street-level retail grids; this enables the same interesting street quality in Iteration 2, yet solves most of the daylighting problems by regularising its building faces with courtyards. 
 
