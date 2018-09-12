@@ -12,7 +12,7 @@ Average floor count: 7
 
 Total number of buildings: 508
 
-![gras](imgs/5.jpg)
+![gras](imgs/11.jpg)
 
 ## Simulation 
 
