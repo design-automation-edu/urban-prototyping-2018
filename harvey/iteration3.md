@@ -4,17 +4,30 @@ From iteration 2 to 3, the final changes are made in a micro scale for more deta
 
 It was also discovered that the previous method of dividing the plot into units using “voronoi fracture” node resulted in awkward triangular units formed. 
 
-Figure 21
+![](./imgs/it%203%20resi%20unit%20individual%20grid.PNG)
+
+*Figure 20. regular grid formed by "subdivide" node*
+
 Therefore the “subdivide” node was used instead to give more controlled and predictable plots divided in a regular grid fashion.  
 
-Figure 22
+![](./imgs/3plotsss.png)
+
+*Figure 21. the three different courtyard typologies*
+
 The courtyards for each programmatic zone can then be created by removing parts of the grid of each plot, thus the building masses will have unique courtyards suited to their specific programmes. 
 
-Figure 23
-More sub plots are also created from the removal of the parts of the grid of each plot. Thus, a finer urban fabric is created.  
+![](./imgs/it3%20units%20within%20plots.PNG)
 
-Figure 24
+*Figure 22. finer grained massing in commercial zone compared to previous iterations*
+
+More sub plots are also created from the removal of the parts of the grid of each plot. Thus, a finer urban fabric is created. 
+
+![](./imgs/3typo.png)
+
+*Figure 23. varied masses of each zone according to respective rd values*
+
 In order to improve the performance of the central building masses and break the homogeneity of the urbanscape, the central masses have to be taller while the surrounding ones have to be shorter, while maintaining the correct required floor areas. 
+
 The method to determine the number of floors as used in the first two iterations, which resulted in a fixed number of floors dependent on the zones, had to be changed to one that is based on relative density (rd) calculations to allow the necessary height variations to be made in each zone. 
 
 The following are the results of iteration 3:
