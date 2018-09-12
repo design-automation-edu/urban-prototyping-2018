@@ -59,3 +59,6 @@ The courtyard typology adopted in the Residential blocks are the main reasons wh
 ![Fig. 22: Model 2b Overall Evaluation of 'good' buildings](imgs/Iteration2b_Good_Building.jpg)
 Any indication of ‘good’ buildings in this model is an improvement from the previous iteration. In Model 2b, building blocks that are located at the perimeter of their sub plots fares well in the assessment of Daylight Factor, Solar Factor and View Factor. We learn from Model 2b that the courtyard typology adopted have improved the quality of buildings in the overall development. 
 
+| Good buildings  | Bad buildings | % Good buildings |
+| ------------ | ------------- | ------------- |
+| 57 | 77 | 43% |
