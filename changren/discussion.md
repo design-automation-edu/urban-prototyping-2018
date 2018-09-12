@@ -10,7 +10,7 @@ At the same time, leaving more space for lighting, transportation and green. Per
 ## Discussion
 
 Pruitt-Igoe can be seen as a perfect embodiment of Iteration3 in reality. If human beings are just like machines that can run properly as soon as having sunshine, greening, public space and other parameters meeting the conditions, then Pruitt-Igoe will not finally turned out to be demolished.
-
+9
 ![gras](imgs/CP2.jpg)
 
 Coincidentally, Amsterdam's Bijlmermeer also faced the same fate. The length of the apartment once reached an astonishing 400meters, which is four times the length of mine.
@@ -36,4 +36,4 @@ Although each building is allocated near greenery, it seems that the vertical di
 The lawn under Unité d'Habitation which is meant to be a out door social space is now a parking lot.
 
 
-![gras](imgs/CP7.jpg)
+![gras](imgs/CP9.jpg)
