@@ -2,7 +2,7 @@
 
 **KHOR Chen Sian Gerald**
 
-![overviews](./imgs/overviews.jpg)
+![Fig. 1: 3 Iterations](./imgs/overviews.jpg)
 
 _Overhead_ looks at 3 prototyped iterations urban forms at our site at One North - each iteration is evaluated based on environmental analysis, to determine quantifiable environmental qualities like daylighting, solar penetration and views. 
 
