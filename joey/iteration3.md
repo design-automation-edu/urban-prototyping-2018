@@ -60,4 +60,8 @@ The small amount of ‘red’ zones occur at shorter Office towers that are sand
 ![Fig. 32: Model 3b Overall Evaluation of 'good' buildings](imgs/Iteration3b_Good_Building.jpg)
 Through the iterative process, the lessons learnt from previous models result in a largely successful scheme in the case of Model 3b. Since the liveability of residents remains the prime interest of this exercise, Model 3b is successful as a majority of Residential blocks have are ‘good’ buildings. 
 
+| Good buildings  | Bad buildings | % Good buildings |
+| ------------ | ------------- | ------------- |
+| 116 | 18 | 87% |
+
 
