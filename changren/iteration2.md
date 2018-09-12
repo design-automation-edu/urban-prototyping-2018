@@ -26,16 +26,20 @@ The green space together with the neighborhood segment the lane boundary effecti
 
 Some residential buildings have not reached the standard, mainly because of the height. For having commercial buildings underneath, the residences are higher than it should be.
 
-Good Building Area Ratio: 49.3%
+Good Building Area Ratio: 49.3% (GBAR)
 
-Good Window Ratio: 51.6%
+Good Window Ratio: 51.6% (GWR)
+
+When GWR is bigger than GBAR, that means we are having some really big buildings that possess too much good windows, whose area is too large to have a good GWR.
 
 ![gras](imgs/I3P4.png)
 
-Again, most of the residences' daylight and view factor are above the threshold.
+Again, most of the residences' daylight and view factor are above the threshold. Only problem is the commercial part.
 
 ## Improvement
 Try to decrease the height of recidences, which is helpful for lighting and view. as for the unsatisfactory commercial part, another arrangement needs to be considered, provided that each residential building still needs a commercial building around.
+
+Aand also, try to make buildings small and sporadic, which can increase the impact of good windows.
 
 ### P.S.
 
