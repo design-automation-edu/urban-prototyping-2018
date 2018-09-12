@@ -23,7 +23,7 @@
   * [Iteration 3](adrian/iteration3.md)
   * [Discussion](adrian/discussion.md)
   
-* [Title For heyang's Project](heyang/overview.md)
+* [The Synergy](heyang/overview.md)
   * [Introduction](heyang/introduction.md)
   * [Iteration 1](heyang/iteration1.md)
   * [Iteration 2](heyang/iteration2.md)
