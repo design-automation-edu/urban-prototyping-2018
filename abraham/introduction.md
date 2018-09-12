@@ -37,9 +37,9 @@ Furthermore, roads that connect NUS to SP could be cut out to facilitate exchang
 
 The buildings generated will be analyzed in passive ratio, view factor, solar factor and daylight factor. The default thresholds for a “good building” are as follows:
 
-View Factor > 0.4
-Daylight Factor > 0.1
-Solar Exposure < 0.25
+    View Factor > 0.4
+    Daylight Factor > 0.1
+    Solar Exposure < 0.25
 
-Passive Ratio >  0.5
-Good Window Count > 0.1
+    Passive Ratio >  0.5
+    Good Window Count > 0.1
