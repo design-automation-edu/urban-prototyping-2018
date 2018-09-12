@@ -88,7 +88,7 @@
   * [Iteration 3b](lisa/iteration3b.md)
   * [Discussion](lisa/discussion.md)
   
-* [Title For chung_yan's Project](chung_yan/overview.md)
+* [Urban Fabric of Light](chung_yan/overview.md)
   * [Introduction](chung_yan/introduction.md)
   * [Iteration 1](chung_yan/iteration1.md)
   * [Iteration 2](chung_yan/iteration2.md)
