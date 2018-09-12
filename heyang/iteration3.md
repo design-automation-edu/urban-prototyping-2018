@@ -37,3 +37,5 @@ As analysed after iteration 3.1, slight change in zoning has been made. Plots ne
 Good Window: 34.1%**
 
 After making the aforementioned changes, we can see a good reflection on the simulation result.
+
+![Iteration 3.2](./imgs/3b-3.png)
