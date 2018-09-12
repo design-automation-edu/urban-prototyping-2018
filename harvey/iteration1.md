@@ -3,7 +3,8 @@
 
 For iteration 1, a macro scaled approach was first adopted. 
 
-![](./imgs/it1%20zones'.PNG)
+![](./imgs/it%201%20zones.PNG)
+
 *Figure 2. plots and zones of iteration 1*
 
 The site area is bounded by the Dover Road and the AYE – the two major roads through which the site can be accessed. A typical grid system is then generated in place. To ensure more regular shaped plots were generated, the grid divisions were done using the egg slice command that cuts the area (along the directions parallel to the edges) into quadrilateral plots of 150m width that are offset 9.6m to create the transport network grid.
