@@ -3,6 +3,8 @@
 ## Concept
 In this iteration, I decide to adopt a new urban morphology, that is distributing service functions such as commercial, office, catering and entertainment under every apartment blocks.At the same time, the east-west facing buildings will be substituted by greenery which can ensure that each residential building has green spaces adjacent to it.
 
+Another thing is that I try to break commercial buildings into small peaces and scatter them all over the site.
+
 ![gras](imgs/I2P1.jpg)
 
 This scheme is inspired by Unité d'Habitation, each block is like a small city. Ludwig Hilberseimer’s well-known Vertical City is also took as a reference.
@@ -31,7 +33,7 @@ Take this commercial building as an example, all windows have not reached the fi
 
 ![gras](imgs/I2P10.jpg)
 
-Good Building Area Ratio: 77.2%
+Good Building Area Ratio: 77.2% 
 Good Window: 50%
 
 So Under this urban morphology,most buildings can meet up with the higher standard. 
