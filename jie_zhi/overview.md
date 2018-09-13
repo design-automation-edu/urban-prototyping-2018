@@ -1,6 +1,6 @@
 # Urban Weaving
 
-**SURNAME First Names**
+**KOH Jie Zhi**
 
 Abstract: The project creates a dynamic weaving of the site through the creation of a central meandering spine that connects the two ends of the site. To further enhance the meander, the grid of the plots are distorted by the effect of the meandering spine creating subtle relationships between the commercial spine and the other programmes on the site. This weaving is continued at the neighbourhood scale in stage two, where a strategy of breaking down the urban grain of the commercial strip is explored to help create finer human scaled spaces for people to weave through and occupy. The parametric process allows us to try different configurations of the pocket parks created and test its performance. The urban form which performed better in the different factors of passive ratio, good window ratio, view factor, daylight factor, solar factor also performed better as an urban space. This results in an urban form with quite generous open spaces of varying scales and levels of privacy for different kinds of activity to occur. Finally the building scale is further refined, resulting in the discovery of a method to create different building typologies with a single script that creates L-shaped enclosing blocks and responds to changes in the plot size.
 
