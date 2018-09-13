@@ -1,4 +1,11 @@
 # Iteration 3
+In iteration two, the breaking down of the urban massing of the commercial strip to a more human scale leads to a better performance for the urban form. However, it is observed that the industrial, office and residential typologies were performing quite poorly.
+
+In order to improve their performance, and to unify the urban form, a more refined urban typology is explored with three goals:
+1. one that is more porous and allows for better views and access to natural light. 
+2. A narrower floor plate is needed to improve its passive performance. 
+3. Views can be improved by twisting the blocks
+
 
 •	![Fig. 1: This is your caption](imgs/3a.jpg)
 
