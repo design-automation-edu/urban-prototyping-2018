@@ -17,6 +17,7 @@ __1. Mid-low Rise Commercial Strip with Residential Spaces on top__
 This allows for greater intermingling between the commercial strip and the residential space, it performs like a shophouse, but at a slightly larger scale. This proximity is good for owners of new businesses who want to invest more time in their shop, whilst staying connected to the unique community that the startups and schools provide.
 
 __2. Porous Residential Blocks: Made with a single script of overlapping L shaped blocks__
+
 The earlier poor performance of the residential blocks were a result of the close proximity between the blocks and the thick floorplate which results in a poor passive performance. To improve this, a slimmer floorplate is needed. L shaped blocks can help improve the performance.
 
 The blocks are built by selecting the corner edges of the plots to create two L shaped blocks that enclose a courtyard. This blocks are then stacked two more times with some variation to the edge selection of the plots. 
@@ -31,10 +32,12 @@ c. Pencil Block Typology
 
 
 __3. Single Twist Office tower block__
+
 The office tower blocks is made of two stacked blocks twisted in the middle to improve the views
 
 
 __4. Industrial Block consisting of two types:__
+
 
 a. Courtyard Block with L shaped footprint on top 
 b. Typical Block
@@ -45,6 +48,9 @@ b. Typical Block
 •	![Fig. 1: This is your caption](imgs/3c.jpg)
 
 
+__The Result__
+
+The improvement to the urban typology results in a huge improvement to the performance of the urban form. Now, a large majority of the buildings are good buildings.
 
 •	![Fig. 1: This is your caption](imgs/3b.jpg)
 
