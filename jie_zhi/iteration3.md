@@ -24,7 +24,9 @@ The blocks are built by selecting the corner edges of the plots to create two L 
 Due to the different sizes of the plots, the script responses procedurally to create three types of residential typologies:
 
 a. Low Rise Courtyard Typology
+
 b. Hybrid Block Typology
+
 c. Pencil Block Typology
 
 
