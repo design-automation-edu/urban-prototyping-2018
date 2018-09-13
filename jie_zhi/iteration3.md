@@ -22,16 +22,18 @@ The earlier poor performance of the residential blocks were a result of the clos
 The blocks are built by selecting the corner edges of the plots to create two L shaped blocks that enclose a courtyard. This blocks are then stacked two more times with some variation to the edge selection of the plots. 
 
 Due to the different sizes of the plots, the script responses procedurally to create three types of residential typologies:
+
 a. Low Rise Courtyard Typology
 b. Hybrid Block Typology
 c. Pencil Block Typology
 
 
-3. Single Twist Office tower block
+__3. Single Twist Office tower block__
 The office tower blocks is made of two stacked blocks twisted in the middle to improve the views
 
 
-4. Industrial Block consisting of two types:
+__4. Industrial Block consisting of two types:__
+
 a. Courtyard Block with L shaped footprint on top 
 b. Typical Block
 
