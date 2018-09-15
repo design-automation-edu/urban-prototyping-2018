@@ -12,4 +12,4 @@ The current design process is not without flaws. We have only used a handful of 
 
 Nevertheless, the algorithms are successful in demonstrating a variety of design iterations and their capability to generate livable cities. Parameters mentioned above could simply be added into the alogorithms and their effects on the design can be quickly visualised as the algorithm adapt to data changes in real time. This rapid prototyping methodology can inspire designers by producing a variety of design options in a much shorter timeframe compared to traditional processes.
 
-Furthermore, mathematical functions such as the Shortest Path SOP in Houdini used in XYLEM could provide a paradigm shift in the way cityscapes are designed. Intuitions of architects could be complemented with geometmathematicalrical calculations to push the boundary of urban design in the future.
+Furthermore, mathematical functions such as the Shortest Path SOP in Houdini used in XYLEM could provide a paradigm shift in the way cityscapes are designed. Intuitions of architects could be complemented with mathematical calculations to push the boundary of urban design in the future.
