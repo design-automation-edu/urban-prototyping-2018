@@ -1,4 +1,4 @@
-# Planned and Organic Cities
+# Organic and Planned Cities
 
 **PUNG Derek**
 
