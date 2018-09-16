@@ -7,9 +7,11 @@ Across the different iterations, residential, commercial, and industrial plots w
 <br><br>
 ![AYEindex](./imgs/AYErepellent.PNG)
 ![MRTindex](./imgs/mrtAttractor.PNG)
+<br>
 Basic site considerations such as proximity to Mass Rapid Transit (MRT) stations and AYE are part of these computations. AYE served as a repellent curve due to the noise created from the high volume of cars. MRT stations on the other hand served as attractor points for the convenience it brings. The coloured grid highlights favoured areas of each index (AYE and MRT) respectively, where blue indicates a better site.
 <br><br>
 ![sliders](./imgs/sliders.PNG)
+<br>
 To aid decision making for the designer, sliders are created, and each index could be weighted with a multiplier to indicate the index’s importance to a program. In this short example, being away from AYE is most important for residential programs as compared to industrial and commercial programs.
 <br><br>
 In iteration 2 and 3, several other weights were added to the density computation in the interest of creating a more variable skyline. A rundown of the weights is included in each Chapter.
