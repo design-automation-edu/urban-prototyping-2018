@@ -4,29 +4,30 @@ In this iteration, a neighbourhood “type” rule was established and used to g
 ## Set-up
 ![Iteration3 diagram](./imgs/iteration3Diagram.png)<br>
 Coming from Iteration 2 where a green boulevard was chanced upon, instead in this iteration, a central park was first manually created to join the two city centre nodes together. Arterial roads which circulate in from the site’s surroundings carve out the remaining parcels while industrial buildings line them. Individual parcels are then subdivided to create smaller blocks. Commercial buildings line these new secondary roads and the rest were made residential. Residential blocks which were too deep were made into courtyard towers. Hence, each neighbourhood parcel within a block exhibits a unique character which is then used to compute its relative density
+<br><br>
 ![Iteration3 program distribution](./imgs/iteration3distribution.png)<br>
 Resulting Program Distribution
 
 ### Weighting Relative Density Calculations
 The same relative proximity parameters which allowed me to control the favourable conditions for each program was reused from iteration 2.  Each parameter is used to weigh the proximity score.
 * Industrial
-** Proximity to AYE (reversed): 0.015
-** Proximity to MRT: 0.893
-**	Proximity to Central Points: 0.247
-**	Proximity to Arterial Roads (reversed): 0.013
-**	Proximity to Parks: 0.206
+  * Proximity to AYE (reversed): 0.015
+  * Proximity to MRT: 0.893
+  *	Proximity to Central Points: 0.247
+  *	Proximity to Arterial Roads (reversed): 0.013
+  *	Proximity to Parks: 0.206
 *	Commercial
-**	Proximity to AYE (reversed): 0.015
-**	Proximity to MRT: 0.514
-**	Proximity to Central Points: 1
-**	Proximity to Arterial Roads (reversed):0.013
-**	Proximity to Parks: 0.765
+  *	Proximity to AYE (reversed): 0.015
+  *	Proximity to MRT: 0.514
+  *	Proximity to Central Points: 1
+  *	Proximity to Arterial Roads (reversed):0.013
+  *	Proximity to Parks: 0.765
 *	Residential
-**	Proximity to AYE (reversed): 1
-**	Proximity to MRT: 1
-**	Proximity to Central Points: 0.232
-**	Proximity to Arterial Roads (reversed): 0.869
-**	Proximity to Parks: 1
+  *	Proximity to AYE (reversed): 1
+  *	Proximity to MRT: 1
+  *	Proximity to Central Points: 0.232
+  *	Proximity to Arterial Roads (reversed): 0.869
+  *	Proximity to Parks: 1
 
 ### Relative Density Calculations were weighted as above to achieve
 *	Denser Industrial and Commercial Buildings near AYE and Arterial Roads – Inverse for Residential due to noise
