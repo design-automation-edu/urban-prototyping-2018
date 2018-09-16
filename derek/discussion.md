@@ -21,6 +21,7 @@ Not many building type tools were created in this project. The Barcelona Courtya
 
 ## Future Explorations
 In this project, various methods used for plot division and assignment, and building type creation were used independently of one another. Each tool needs to be further explored and explorations which utilises all techniques concurrently may be interesting.
+<br><br>
 Arterial roads created by initial plot divisions were treated equally. Using shortest path algorithm, an attractor/repelling curve could be created for plots to compute against. For example, more commercial, and less residential and industrial activity could be assigned to plots along such path. 
 <br><br>
 Voronoi divided streets were presumed to be more “organic” as streets bend slightly at intersections and creates a more interesting visual appeal than an ever-ending linear road. However, the overall urban structure was still a product of the rigid streets that carved out the blocks. I’m currently still wrapping my head around the possible use of L-systems and Differential Curve growth methods to generate a more organic street network.
