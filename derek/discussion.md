@@ -3,6 +3,7 @@
 Streets are one of the key structuring elements of the urban fabric. 
 <br><br>
 A ‘planned city’ is one which reveals a strong urban order created by streets which weaved through it. Often, urban blocks created by the streets become neighbourhoods distinct from one another. Streets become a hard edge that visibly separates one block from another.
+<br><br>
 The questioning of planned vs. unplanned, ordered vs. disordered city, was what motivated this project. Hence, different ways of street carving, and plot creation and assignment became an initial challenge. Subsequent challenges dealt with connecting newly cut street network to existing roads and connecting subdivided streets to specific points (designer defined city-centres). Finally, reliable ways of creating building types was required to conduct quick tests on the generated city.
 <br><br>
 
