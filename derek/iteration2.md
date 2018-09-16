@@ -5,30 +5,30 @@ In this iteration, Plots were divided into four or more until each plot reaches 
 ![Iteration2 program distribution](./imgs/iteration2distribution.png)
 Interestingly, the resulting program distribution created radial parks, commercial, and residential plots around the site – each with a mixed scatter of other programs. 
 
-</br></br>
+<br><br>
 ### Weighting Relative Density Calculations
 To control the favourable conditions for each program, parameters are established as weights for the calculation of the relative densities
 * Industrial
-** Proximity to AYE (reversed): 0.015
-** Proximity to MRT: 0.893
-**	Proximity to Central Points: 0.247
-**	Proximity to Arterial Roads (reversed): 0.013
-**	Proximity to Parks: 0.206
-**	Proximity to Civic Buildings: 0.015
+  * Proximity to AYE (reversed): 0.015
+  * Proximity to MRT: 0.893
+  *	Proximity to Central Points: 0.247
+  *	Proximity to Arterial Roads (reversed): 0.013
+  *	Proximity to Parks: 0.206
+  *	Proximity to Civic Buildings: 0.015
 *	Commercial
-**	Proximity to AYE (reversed): 0.015
-**	Proximity to MRT: 0.514
-**	Proximity to Central Points: 1
-**	Proximity to Arterial Roads (reversed):0.013
-**	Proximity to Parks: 0.765
-**	Proximity to Civic Buildings: 0.021
+  *	Proximity to AYE (reversed): 0.015
+  *	Proximity to MRT: 0.514
+  *	Proximity to Central Points: 1
+  *	Proximity to Arterial Roads (reversed):0.013
+  *	Proximity to Parks: 0.765
+  *	Proximity to Civic Buildings: 0.021
 *	Residential
-**	Proximity to AYE (reversed): 1
-**	Proximity to MRT: 1
-**	Proximity to Central Points: 0.232
-**	Proximity to Arterial Roads (reversed): 0.869
-**	Proximity to Parks: 1
-**	Proximity to Civic Buildings: 0.807
+  *	Proximity to AYE (reversed): 1
+  *	Proximity to MRT: 1
+  *	Proximity to Central Points: 0.232
+  *	Proximity to Arterial Roads (reversed): 0.869
+  *	Proximity to Parks: 1
+  *	Proximity to Civic Buildings: 0.807
 
 ### Relative Density Calculations were weighted as above to achieve
 *	Denser Industrial and Commercial Buildings near AYE and Arterial Roads – Inverse for Residential due to noise
@@ -66,5 +66,5 @@ The Relative Densities were compensated with its respective footprint area befor
 *	Percentage Good PR: 96.9172
 *	Percentage Good DF: 40.6992
 *	Percentage Good Building: 48.9831
-</br></br>
+<br><br>
 In this iteration, larger building masses serve as landmarks in the sea of small scaled buildings. There is a good distribution of programs around and the varying street width and urban grain creates a overall messy but interesting urban scape. However, some street width - height ratio is too low, resulting in poor urban spaces and poor environment evaluated buildings.
