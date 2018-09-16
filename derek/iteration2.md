@@ -15,14 +15,14 @@ To control the favourable conditions for each program, parameters are establishe
   *	Proximity to Arterial Roads (reversed): 0.013
   *	Proximity to Parks: 0.206
   *	Proximity to Civic Buildings: 0.015
-*	Commercial
+* Commercial
   *	Proximity to AYE (reversed): 0.015
   *	Proximity to MRT: 0.514
   *	Proximity to Central Points: 1
   *	Proximity to Arterial Roads (reversed):0.013
   *	Proximity to Parks: 0.765
   *	Proximity to Civic Buildings: 0.021
-*	Residential
+* Residential
   *	Proximity to AYE (reversed): 1
   *	Proximity to MRT: 1
   *	Proximity to Central Points: 0.232
