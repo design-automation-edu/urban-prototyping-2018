@@ -10,5 +10,5 @@ If planning and design of a city is through the creation of order, iteration 2 s
 <br><br>
 Iteration 1 created order through repetition and rhythm in the building typology. Iteration 3 sought to create urban order through procedurally generated neighbourhoods that are similar in form but different in composition.
 <br><br>
-Overall, I was satisfied with the project. However, there are some hits and misses which I will discuss in the Discussion Chapter.
+Overall, I was satisfied with the project. However, there are some hits and misses which I will address in the Discussion Chapter.
 
