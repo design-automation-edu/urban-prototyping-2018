@@ -5,7 +5,6 @@ In this iteration, Plots were divided into four or more until each plot reaches 
 ![Iteration2 program distribution](./imgs/iteration2distribution.png)
 Interestingly, the resulting program distribution created radial parks, commercial, and residential plots around the site – each with a mixed scatter of other programs. 
 
-<br><br>
 ### Weighting Relative Density Calculations
 To control the favourable conditions for each program, parameters are established as weights for the calculation of the relative densities
 * Industrial
