@@ -16,19 +16,19 @@ To control the favourable conditions for each program, parameters are establishe
   *	Proximity to Parks: 0.206
   *	Proximity to Civic Buildings: 0.015
 *	Commercial
-   *	Proximity to AYE (reversed): 0.015
-   *	Proximity to MRT: 0.514
-   *	Proximity to Central Points: 1
-   *	Proximity to Arterial Roads (reversed):0.013
-   *	Proximity to Parks: 0.765
-   *	Proximity to Civic Buildings: 0.021
+  *	Proximity to AYE (reversed): 0.015
+  *	Proximity to MRT: 0.514
+  *	Proximity to Central Points: 1
+  *	Proximity to Arterial Roads (reversed):0.013
+  *	Proximity to Parks: 0.765
+  *	Proximity to Civic Buildings: 0.021
 *	Residential
-   *	Proximity to AYE (reversed): 1
-   *	Proximity to MRT: 1
-   *	Proximity to Central Points: 0.232
-   *	Proximity to Arterial Roads (reversed): 0.869
-   *	Proximity to Parks: 1
-   *	Proximity to Civic Buildings: 0.807
+  *	Proximity to AYE (reversed): 1
+  *	Proximity to MRT: 1
+  *	Proximity to Central Points: 0.232
+  *	Proximity to Arterial Roads (reversed): 0.869
+  *	Proximity to Parks: 1
+  *	Proximity to Civic Buildings: 0.807
 
 ### Relative Density Calculations were weighted as above to achieve
 *	Denser Industrial and Commercial Buildings near AYE and Arterial Roads – Inverse for Residential due to noise
