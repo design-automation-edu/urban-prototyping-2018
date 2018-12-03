@@ -1,7 +1,0 @@
-# Discussion
-
-Starting with 1.89% of "good" buildings and 35.85% of "good" windows, to finally achieve 94.95% "good" buildings and 55.75% "good" windows is fulfilling and was an interesting journey from start to end. It was also nice to learn that the octogonal building blocks in Barcelona have a low passive area ratio in the context of Singapore, hence suggesting that climate and position play a huge role urban planning. It is not intelligent to pluck an urban plan right off a country and try to fit it into another located on the other side of the globe. Through informed transformations based on the evaluation information gained through Houdini simulations, I have arrived at - what I hope - a plausible urban design fit for Singapore.
-
-By lining the AYE with low-rise mixed-use industrial buildings (industrial and offices), it serves as a buffer for the residents residing in the area. The shopping malls located close to the MRT stations have a huge open space infront of them with the potential of hosting events and festivals, creating a flexible and lively social node in the neighbourhood. Located right beside UTown, the high number of commercial and residential would greatly benefit the students (both international and local) who seek accomodations near school, as well as students who simply need a break at a cafe, coffee shop or mall in the vicinity.
-
-Learning Houdini is a skill that will definitely bring benefits in time to come, and I am glad I am granted this opportunity to learn it. Thank you Professor Patrick Jansen!
