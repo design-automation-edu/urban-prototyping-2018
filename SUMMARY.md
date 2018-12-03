@@ -153,6 +153,12 @@
   * [Iteration 3](changren/iteration3.md)
   * [Discussion](changren/discussion.md)
   
+* [Weaving](jie_zhi/overview.md)
+  * [Introduction](jie_zhi/introduction.md)
+  * [Iteration 1](jie_zhi/iteration1.md)
+  * [Iteration 2](jie_zhi/iteration2.md)
+  * [Iteration 3](jie_zhi/iteration3.md)
+  * [Discussion](jie_zhi/discussion.md)
 ---
  
 * [Conclusions](back/conclusions.md)
